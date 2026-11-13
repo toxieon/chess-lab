@@ -1,0 +1,3 @@
+public/vendor/stockfish/*.wasm binary
+public/vendor/stockfish/*.js linguist-generated -text
+public/vendor/stockfish/Copying.txt -text
