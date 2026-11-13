@@ -1,0 +1,39 @@
+Chess Lab
+Copyright (C) 2026 Brandon N
+
+This project is licensed under the GNU Affero General Public License,
+version 3 only. See the LICENSE file.
+
+Portions are adapted from Chesskit
+https://github.com/GuillaumeSD/Chesskit
+Copyright (C) GuillaumeSD and Chesskit contributors
+Licensed under the GNU Affero General Public License, version 3.
+
+Adapted files
+-------------
+
+src/engine/uciSession.ts
+  Adapted from Chesskit src/lib/engine/worker.ts (sendCommandsToWorker).
+  The multi-worker pool is not used. One classic Worker loads the
+  unmodified single-threaded Stockfish build.
+
+src/lib/winPercent.ts
+  Adapted from Chesskit src/lib/engine/helpers/winPercentage.ts
+  (getWinPercentageFromCp). The curve is the Lichess win-percent
+  formula cited in that file.
+
+The animated board, click-to-jump move list, keyboard stepping, and
+best-move arrows follow the review behaviour of Chesskit
+src/components/board/index.tsx. That component is not copied. It depends
+on Material UI and Jotai, which this project does not use. The board
+widget is react-chessboard (MIT), installed from npm.
+
+Stockfish
+---------
+
+public/vendor/stockfish/ contains unmodified files from the stockfish.js
+18.0.8 package (single-threaded lite build) plus that package's
+Copying.txt (GNU GPL version 3). They are loaded only with new Worker().
+They are not bundled into the application JavaScript.
+
+See THIRD_PARTY.md for every third-party licence.
