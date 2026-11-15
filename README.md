@@ -16,7 +16,22 @@ npm run dev
 
 ## GitHub Pages
 
-Pushes to `main` run `.github/workflows/pages.yml`, which builds the site and deploys with GitHub Actions. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. `dist/` is not committed.
+Pushes to `main` run `.github/workflows/pages.yml`, which builds the site and deploys with GitHub Actions. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. `dist/` is not committed. The workflow has no path filter, so a push that only changes `public/data/**` still deploys.
+
+## My Games
+
+The My Games section replays a precomputed export: a game viewer with an eval graph, puzzles, repeat offences, and openings. The browser fetches `public/data/my-games/*.json` when that view is opened. `games.json` is requested only for the game list and the game viewer. Evaluations are the stored Stockfish scores. The site does not recompute them and does not import the JSON into the bundle. Field definitions are in `public/data/my-games/SCHEMA.md`.
+
+## Data refresh
+
+A nightly job overwrites these four files on `main`:
+
+- `public/data/my-games/games.json`
+- `public/data/my-games/puzzles.json`
+- `public/data/my-games/patterns.json`
+- `public/data/my-games/openings.json`
+
+Leave the rest of the tree alone. Pages builds on that push and redeploys. Each file is fetched with `cache: 'no-cache'`, and the page shows that file's `generated_melbourne` timestamp as "Updated …".
 
 ## Data
 
