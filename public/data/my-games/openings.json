@@ -1,0 +1,3846 @@
+{
+  "generated_melbourne": "2026-11-16T10:33:09+11:00",
+  "player": "brandonneillthegreat",
+  "as_white": [
+    {
+      "name": "Queen's Pawn Opening: Zukertort Variation",
+      "variation": "Queen's Pawn Opening: Zukertort Variation, 2...e6",
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6",
+      "colour": "white",
+      "moves": "1.d4 d5 2.Nf3 e5 3.dxe5 Bg4 4.h3 Bxf3 5.exf3 Nc6",
+      "games": 21,
+      "win": 10,
+      "draw": 2,
+      "loss": 9,
+      "score_pct": 52.4,
+      "example_games": [
+        {
+          "id": "187224384202",
+          "url": "https://www.chess.com/game/live/187224384202",
+          "result": "loss",
+          "date": "2026-11-15T09:01:11+11:00"
+        },
+        {
+          "id": "186562570872",
+          "url": "https://www.chess.com/game/live/186562570872",
+          "result": "draw",
+          "date": "2026-11-05T13:55:14+11:00"
+        },
+        {
+          "id": "186376615940",
+          "url": "https://www.chess.com/game/live/186376615940",
+          "result": "loss",
+          "date": "2026-11-02T15:06:21+11:00"
+        },
+        {
+          "id": "186271978736",
+          "url": "https://www.chess.com/game/live/186271978736",
+          "result": "win",
+          "date": "2026-10-31T21:40:02+11:00"
+        }
+      ],
+      "explanation": "The Zukertort Variation is 1.d4 d5 2.Nf3. White develops the king's knight before deciding on c4, Bf4 or a fianchetto. It avoids some sharp Queen's Gambit lines and can still transpose into a proper Queen's Gambit, a London-style setup, or a Colle. The knight on f3 stops \u2026e5 and keeps the king safe.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation, 2...e6",
+          "eco": "D02",
+          "games": 9,
+          "win": 5,
+          "draw": 0,
+          "loss": 4,
+          "score_pct": 55.6,
+          "moves": "1.d4 d5 2.Nf3 e6 3.Nc3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation, 2...c6",
+          "eco": "D02",
+          "games": 6,
+          "win": 2,
+          "draw": 1,
+          "loss": 3,
+          "score_pct": 41.7,
+          "moves": "1.Nf3 c6 2.d4 d5 3.Nc3 Bg4"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation",
+          "eco": "D02",
+          "games": 4,
+          "win": 2,
+          "draw": 0,
+          "loss": 2,
+          "score_pct": 50.0,
+          "moves": "1.d4 d5 2.Nf3 e5 3.dxe5 Bg4 4.h3 Bxf3 5.exf3 Nc6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation, 2...c6 3.c3",
+          "eco": "D02",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 c6 2.Nf3 d5 3.c3 f6 4.e4 e5 5.exd5 cxd5"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation, 2...Bf5",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 50.0,
+          "moves": "1.Nf3 d5 2.d4 Bf5 3.Nc3 Nc6 4.h3 Nb4 5.g4 Bg6"
+        }
+      ]
+    },
+    {
+      "name": "Englund Gambit",
+      "variation": "Englund Gambit: 2.dxe5",
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Englund-Gambit-2.dxe5",
+      "colour": "white",
+      "moves": "1.d4 e5 2.dxe5 f5 3.exf6 Nxf6 4.Nf3 d5 5.e3 c6",
+      "games": 15,
+      "win": 9,
+      "draw": 2,
+      "loss": 4,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "185807851950",
+          "url": "https://www.chess.com/game/live/185807851950",
+          "result": "loss",
+          "date": "2026-10-24T00:18:08+11:00"
+        },
+        {
+          "id": "185778618046",
+          "url": "https://www.chess.com/game/live/185778618046",
+          "result": "win",
+          "date": "2026-10-23T10:06:38+11:00"
+        },
+        {
+          "id": "185691058542",
+          "url": "https://www.chess.com/game/live/185691058542",
+          "result": "loss",
+          "date": "2026-10-21T23:20:50+11:00"
+        },
+        {
+          "id": "185669261660",
+          "url": "https://www.chess.com/game/live/185669261660",
+          "result": "draw",
+          "date": "2026-10-21T12:28:44+11:00"
+        }
+      ],
+      "explanation": "Black meets 1.d4 with the immediate 1\u2026e5, offering a pawn to yank White out of normal queen's-pawn theory. If White takes (2.dxe5), Black hunts the pawn with \u2026Nc6 and sometimes \u2026Qe7 or \u2026d6. It is sharp and risky: White can keep the pawn or give it back for a lead in development.",
+      "variations": [
+        {
+          "name": "Englund Gambit: 2.dxe5",
+          "eco": "A40",
+          "games": 5,
+          "win": 4,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 80.0,
+          "moves": "1.d4 e5 2.dxe5 Bc5"
+        },
+        {
+          "name": "Englund Gambit: 2.dxe5 Nc6 3.Nf3",
+          "eco": "A40",
+          "games": 5,
+          "win": 3,
+          "draw": 1,
+          "loss": 1,
+          "score_pct": 70.0,
+          "moves": "1.d4 e5 2.dxe5 Nc6 3.Nf3"
+        },
+        {
+          "name": "Englund Gambit",
+          "eco": "A40",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.d4 e5 2.Nf3 exd4 3.Qxd4 Nc6"
+        },
+        {
+          "name": "Englund Gambit: 2.dxe5 Nc6 3.Nf3 Qe7",
+          "eco": "A40",
+          "games": 2,
+          "win": 0,
+          "draw": 1,
+          "loss": 1,
+          "score_pct": 25.0,
+          "moves": "1.d4 e5 2.Nf3 Nc6 3.dxe5 Qe7 4.Nc3 Nxe5 5.Nxe5 Qxe5"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening",
+      "colour": "white",
+      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6",
+      "games": 14,
+      "win": 6,
+      "draw": 0,
+      "loss": 8,
+      "score_pct": 42.9,
+      "example_games": [
+        {
+          "id": "187093895766",
+          "url": "https://www.chess.com/game/live/187093895766",
+          "result": "loss",
+          "date": "2026-11-13T13:03:07+11:00"
+        },
+        {
+          "id": "186700782022",
+          "url": "https://www.chess.com/game/live/186700782022",
+          "result": "loss",
+          "date": "2026-11-07T17:58:30+11:00"
+        },
+        {
+          "id": "186582905810",
+          "url": "https://www.chess.com/game/live/186582905810",
+          "result": "loss",
+          "date": "2026-11-05T23:02:52+11:00"
+        },
+        {
+          "id": "186562501334",
+          "url": "https://www.chess.com/game/live/186562501334",
+          "result": "win",
+          "date": "2026-11-05T13:53:00+11:00"
+        }
+      ],
+      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening",
+          "eco": "A04",
+          "games": 14,
+          "win": 6,
+          "draw": 0,
+          "loss": 8,
+          "score_pct": 42.9,
+          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
+      "variation": null,
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation",
+      "colour": "white",
+      "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3",
+      "games": 13,
+      "win": 6,
+      "draw": 1,
+      "loss": 6,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186496623856",
+          "url": "https://www.chess.com/game/live/186496623856",
+          "result": "win",
+          "date": "2026-11-04T12:25:55+11:00"
+        },
+        {
+          "id": "186209041036",
+          "url": "https://www.chess.com/game/live/186209041036",
+          "result": "loss",
+          "date": "2026-10-30T21:11:16+11:00"
+        },
+        {
+          "id": "186084566030",
+          "url": "https://www.chess.com/game/live/186084566030",
+          "result": "win",
+          "date": "2026-10-28T20:17:40+11:00"
+        },
+        {
+          "id": "185851422416",
+          "url": "https://www.chess.com/game/live/185851422416",
+          "result": "draw",
+          "date": "2026-10-24T18:52:00+11:00"
+        }
+      ],
+      "explanation": "This is the Zukertort (1.d4 d5 2.Nf3) meeting the Chigorin idea \u2026Nc6. Black puts pressure on d4 with the knight instead of supporting the centre with \u2026c6 or \u2026e6. The position gets piece-oriented and can turn tactical if the d-pawn is challenged.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
+          "eco": "D02",
+          "games": 11,
+          "win": 6,
+          "draw": 0,
+          "loss": 5,
+          "score_pct": 54.5,
+          "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3 Nf6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Bf5 4.e3",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 50.0,
+          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Bf5 4.e3 Nf6 5.Bd3 e6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Nf6 4.Nc3 e6 5.Qd3 Be7"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Symmetrical Variation",
+      "variation": null,
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Symmetrical-Variation",
+      "colour": "white",
+      "moves": "1.d4 d5 2.Nf3 Nf6 3.Qd3",
+      "games": 6,
+      "win": 3,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186715975884",
+          "url": "https://www.chess.com/game/live/186715975884",
+          "result": "loss",
+          "date": "2026-11-07T23:46:37+11:00"
+        },
+        {
+          "id": "185614184808",
+          "url": "https://www.chess.com/game/live/185614184808",
+          "result": "win",
+          "date": "2026-10-20T13:19:02+11:00"
+        },
+        {
+          "id": "185607362506",
+          "url": "https://www.chess.com/game/live/185607362506",
+          "result": "win",
+          "date": "2026-10-20T09:10:45+11:00"
+        }
+      ],
+      "explanation": "Both sides play quietly in a 1.d4 d5 2.Nf3 c5 or similar symmetrical pawn structure. The centre often opens after a later c4 or \u2026c5, and the player who develops more cleanly usually comes out slightly better.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Symmetrical Variation",
+          "eco": "D02",
+          "games": 4,
+          "win": 3,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 75.0,
+          "moves": "1.d4 d5 2.Nf3 Nf6 3.Qd3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Symmetrical Variation, 3.c4",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.Nf3 Nf6 3.c4 Nc6 4.cxd5 Nxd5 5.Nc3 Nf6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Symmetrical Variation, 3.c3 e6",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 d5 2.d4 e6 3.c3 Nf6 4.e4 Nc6 5.Qe2 Be7"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening: Queenside Fianchetto Variation",
+      "variation": "R\u00e9ti Opening: Queenside Fianchetto Variation, 2.d4 Bb7",
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening-Queenside-Fianchetto-Variation-2.d4-Bb7",
+      "colour": "white",
+      "moves": "1.d4 b6 2.c4 Bb7 3.Nf3",
+      "games": 5,
+      "win": 3,
+      "draw": 1,
+      "loss": 1,
+      "score_pct": 70.0,
+      "example_games": [
+        {
+          "id": "186146052006",
+          "url": "https://www.chess.com/game/live/186146052006",
+          "result": "win",
+          "date": "2026-10-29T20:43:51+11:00"
+        },
+        {
+          "id": "185894866346",
+          "url": "https://www.chess.com/game/live/185894866346",
+          "result": "loss",
+          "date": "2026-10-25T11:28:33+11:00"
+        },
+        {
+          "id": "185808014238",
+          "url": "https://www.chess.com/game/live/185808014238",
+          "result": "win",
+          "date": "2026-10-24T00:21:12+11:00"
+        },
+        {
+          "id": "185357970424",
+          "url": "https://www.chess.com/game/live/185357970424",
+          "result": "draw",
+          "date": "2026-10-15T19:52:32+11:00"
+        }
+      ],
+      "explanation": "A R\u00e9ti where Black fianchettos the queen's bishop (\u2026b6 and \u2026Bb7). White still starts with 1.Nf3 and can play in the centre with d4 or c4, or continue the kingside fianchetto. The fight is about the long diagonals and the d5 square.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening: Queenside Fianchetto Variation, 2.d4 Bb7",
+          "eco": "A04",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.Nf3 b6 2.d4 Bb7 3.Nc3"
+        },
+        {
+          "name": "R\u00e9ti Opening: Queenside Fianchetto Variation, 2.d4 Bb7 3.c4",
+          "eco": "A04",
+          "games": 2,
+          "win": 1,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 75.0,
+          "moves": "1.d4 b6 2.c4 Bb7 3.Nf3"
+        }
+      ]
+    },
+    {
+      "name": "Indian Game: Knights Variation",
+      "variation": null,
+      "eco": "A46",
+      "eco_url": "https://www.chess.com/openings/Indian-Game-Knights-Variation",
+      "colour": "white",
+      "moves": "1.d4 Nf6 2.Nf3 Nc6 3.Bg5 d6 4.d5 Nb4 5.c4 Bf5",
+      "games": 4,
+      "win": 2,
+      "draw": 1,
+      "loss": 1,
+      "score_pct": 62.5,
+      "example_games": [
+        {
+          "id": "187021927736",
+          "url": "https://www.chess.com/game/live/187021927736",
+          "result": "draw",
+          "date": "2026-11-12T12:15:48+11:00"
+        },
+        {
+          "id": "185956924228",
+          "url": "https://www.chess.com/game/live/185956924228",
+          "result": "loss",
+          "date": "2026-10-26T14:38:58+11:00"
+        },
+        {
+          "id": "185470687740",
+          "url": "https://www.chess.com/game/live/185470687740",
+          "result": "win",
+          "date": "2026-10-17T22:23:23+11:00"
+        }
+      ],
+      "explanation": "White develops Nf3 against 1\u2026Nf6, keeping the centre flexible. It can become a King's Indian, a Torre Attack, or a queen's-pawn system. Both sides are still choosing a structure in the first few moves.",
+      "variations": [
+        {
+          "name": "Indian Game: Knights Variation",
+          "eco": "A46",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.d4 Nf6 2.Nf3 Nc6 3.Bg5 d6 4.d5 Nb4 5.c4 Bf5"
+        },
+        {
+          "name": "Indian Game: Knights Variation, 2...e6 3.Nc3 d5",
+          "eco": "A46",
+          "games": 2,
+          "win": 1,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 75.0,
+          "moves": "1.d4 d5 2.Nf3 e6 3.Nc3 Nf6 4.Bg5 Bd6 5.Bxf6 Qxf6"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Declined: Chigorin Defense",
+      "variation": "Queen's Gambit Declined: Chigorin Defense, 3.Nf3",
+      "eco": "D07",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Defense-3.Nf3",
+      "colour": "white",
+      "moves": "1.Nf3 d5 2.d4 Nc6 3.c4 Bf5 4.e3 Nb4 5.Qa4+ Nc6",
+      "games": 4,
+      "win": 4,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185614919612",
+          "url": "https://www.chess.com/game/live/185614919612",
+          "result": "win",
+          "date": "2026-10-20T13:46:50+11:00"
+        },
+        {
+          "id": "185350721340",
+          "url": "https://www.chess.com/game/live/185350721340",
+          "result": "win",
+          "date": "2026-10-15T15:56:03+11:00"
+        },
+        {
+          "id": "185230666896",
+          "url": "https://www.chess.com/game/live/185230666896",
+          "result": "win",
+          "date": "2026-10-13T07:23:04+11:00"
+        }
+      ],
+      "explanation": "Black meets the Queen's Gambit with \u2026Nc6, putting pieces on the centre instead of reinforcing d5 with a pawn. It leads to an open, tactical fight rather than the usual solid QGD structures.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Declined: Chigorin Defense, 3.Nf3",
+          "eco": "D07",
+          "games": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 d5 2.d4 Nc6 3.c4 Bf5 4.e3 Nb4 5.Qa4+ Nc6"
+        },
+        {
+          "name": "Queen's Gambit Declined: Chigorin Defense",
+          "eco": "D07",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.c4 Nc6 3.b3 dxc4 4.bxc4 Nf6 5.d5 Nb8"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Horwitz Defense",
+      "variation": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3",
+      "colour": "white",
+      "moves": "1.d4 e6 2.Nf3 c6 3.Nc3",
+      "games": 4,
+      "win": 3,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "185609067546",
+          "url": "https://www.chess.com/game/live/185609067546",
+          "result": "loss",
+          "date": "2026-10-20T10:06:10+11:00"
+        },
+        {
+          "id": "185346799314",
+          "url": "https://www.chess.com/game/live/185346799314",
+          "result": "win",
+          "date": "2026-10-15T13:23:09+11:00"
+        },
+        {
+          "id": "185146220024",
+          "url": "https://www.chess.com/game/live/185146220024",
+          "result": "win",
+          "date": "2026-10-11T18:10:49+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.d4 with \u2026e6. It is a flexible wait-and-see move that can become a French, a Queen's Gambit, or a Dutch. White usually continues Nf3 or c4 and occupies the centre.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
+          "eco": "A40",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.d4 e6 2.Nf3 c6 3.Nc3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3 b6",
+          "eco": "A40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 e6 2.Nf3 b6 3.Nc3 g6 4.Ne4 Bg7 5.d5 e5"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Mikenas Defense",
+      "variation": "Queen's Pawn Opening: Mikenas Defense, 2.Nf3",
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3",
+      "colour": "white",
+      "moves": "1.Nf3 Nc6 2.d4 Nf6 3.Nc3 d5 4.Bg5",
+      "games": 4,
+      "win": 3,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "186887710508",
+          "url": "https://www.chess.com/game/live/186887710508",
+          "result": "win",
+          "date": "2026-11-10T14:15:54+11:00"
+        },
+        {
+          "id": "186271900518",
+          "url": "https://www.chess.com/game/live/186271900518",
+          "result": "win",
+          "date": "2026-10-31T21:38:16+11:00"
+        },
+        {
+          "id": "185851969956",
+          "url": "https://www.chess.com/game/live/185851969956",
+          "result": "loss",
+          "date": "2026-10-24T19:07:36+11:00"
+        }
+      ],
+      "explanation": "Black plays 1.d4 Nc6, inviting White to push d5 or defend d4. It is offbeat and can transpose into a Chigorin or a Nimzowitsch Defence. Black wants piece play rather than a solid pawn chain.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Mikenas Defense, 2.Nf3",
+          "eco": "A40",
+          "games": 4,
+          "win": 3,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 75.0,
+          "moves": "1.Nf3 Nc6 2.d4 Nf6 3.Nc3 d5 4.Bg5"
+        }
+      ]
+    },
+    {
+      "name": "Modern Defense: with 1.d4",
+      "variation": "Modern Defense: with 1.d4, 2.Nc3 Bg7",
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Modern-Defense-with-1-d4-2.Nc3-Bg7",
+      "colour": "white",
+      "moves": "1.Nc3 g6 2.d4 Bg7 3.d5 e6 4.dxe6 fxe6 5.Nf3 Ne7",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "185893436272",
+          "url": "https://www.chess.com/game/live/185893436272",
+          "result": "win",
+          "date": "2026-10-25T10:36:58+11:00"
+        },
+        {
+          "id": "185778609818",
+          "url": "https://www.chess.com/game/live/185778609818",
+          "result": "win",
+          "date": "2026-10-23T10:06:21+11:00"
+        },
+        {
+          "id": "185470300292",
+          "url": "https://www.chess.com/game/live/185470300292",
+          "result": "loss",
+          "date": "2026-10-17T22:13:53+11:00"
+        }
+      ],
+      "explanation": "Black starts with \u2026g6 and \u2026Bg7, often delaying \u2026Nf6. White is invited to build a large pawn centre. Black will later strike with \u2026d6, \u2026c5 or \u2026e5. It is flexible, but you can get squeezed if you wait too long to challenge the centre.",
+      "variations": [
+        {
+          "name": "Modern Defense: with 1.d4, 2.Nc3 Bg7",
+          "eco": "A40",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nc3 g6 2.d4 Bg7 3.d5 e6 4.dxe6 fxe6 5.Nf3 Ne7"
+        },
+        {
+          "name": "Modern Defense: with 1.d4, 2.Nf3",
+          "eco": "A40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 g6 2.Nf3"
+        },
+        {
+          "name": "Modern Defense: with 1.d4, 2.Nf3 Bg7",
+          "eco": "A40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 g6 2.d4 Bg7 3.Nc3 e6 4.e3 Ne7 5.Qd3 O-O"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Chigorin Variation",
+      "variation": "Queen's Pawn Opening: Chigorin Variation, 2...Nf6 3.Nf3",
+      "eco": "D00",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3",
+      "colour": "white",
+      "moves": "1.Nf3 d5 2.d4 Nf6 3.Nc3",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "186887452952",
+          "url": "https://www.chess.com/game/live/186887452952",
+          "result": "loss",
+          "date": "2026-11-10T14:08:00+11:00"
+        },
+        {
+          "id": "186084732774",
+          "url": "https://www.chess.com/game/live/186084732774",
+          "result": "win",
+          "date": "2026-10-28T20:21:55+11:00"
+        },
+        {
+          "id": "184732390428",
+          "url": "https://www.chess.com/game/live/184732390428",
+          "result": "win",
+          "date": "2026-10-03T11:30:42+10:00"
+        }
+      ],
+      "explanation": "Black develops the knight to c6 against 1.d4 d5, putting early pressure on d4. The position is more piece-based than a normal Queen's Gambit and can open quickly if the d-pawn is exchanged.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Chigorin Variation, 2...Nf6 3.Nf3",
+          "eco": "D00",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.Nf3 d5 2.d4 Nf6 3.Nc3"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Krause Variation",
+      "variation": "Queen's Pawn Opening: Krause Variation, 3.c4",
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Krause-Variation-3.c4",
+      "colour": "white",
+      "moves": "1.d4 d5 2.Nf3 c5 3.c4 Nc6",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "185614632442",
+          "url": "https://www.chess.com/game/live/185614632442",
+          "result": "loss",
+          "date": "2026-10-20T13:35:56+11:00"
+        },
+        {
+          "id": "185409577294",
+          "url": "https://www.chess.com/game/live/185409577294",
+          "result": "win",
+          "date": "2026-10-16T19:04:25+11:00"
+        },
+        {
+          "id": "185136329134",
+          "url": "https://www.chess.com/game/live/185136329134",
+          "result": "win",
+          "date": "2026-10-11T11:50:58+11:00"
+        }
+      ],
+      "explanation": "A Zukertort branch where c4 arrives early and the c-pawn puts immediate pressure on d5. It can look like a Queen's Gambit with Nf3 already developed.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Krause Variation, 3.c4",
+          "eco": "D02",
+          "games": 2,
+          "win": 2,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.Nf3 c5 3.c4 Nc6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Krause Variation, 3.dxc5",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 d5 2.d4 c5 3.dxc5 Nc6 4.Nc3 d4 5.Nxd4 Nxd4"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Tartakower Variation",
+      "variation": null,
+      "eco": "A41",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Tartakower-Variation",
+      "colour": "white",
+      "moves": "1.d4 d6 2.Nf3 c6 3.Nc3 e6 4.d5 exd5 5.Nxd5 f6",
+      "games": 3,
+      "win": 1,
+      "draw": 1,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186440958588",
+          "url": "https://www.chess.com/game/live/186440958588",
+          "result": "win",
+          "date": "2026-11-03T16:16:50+11:00"
+        },
+        {
+          "id": "185135477798",
+          "url": "https://www.chess.com/game/live/185135477798",
+          "result": "loss",
+          "date": "2026-10-11T11:14:41+11:00"
+        },
+        {
+          "id": "184884840962",
+          "url": "https://www.chess.com/game/live/184884840962",
+          "result": "draw",
+          "date": "2026-10-06T14:45:53+11:00"
+        }
+      ],
+      "explanation": "A queen's pawn system associated with \u2026d6 / a restrained centre for Black. White takes space with d4 and develops pieces behind the pawn centre; Black looks to strike later with \u2026e5 or \u2026c5.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Tartakower Variation",
+          "eco": "A41",
+          "games": 2,
+          "win": 0,
+          "draw": 1,
+          "loss": 1,
+          "score_pct": 25.0,
+          "moves": "1.d4 d6 2.Nf3 c6 3.Nc3 e6 4.d5 exd5 5.Nxd5 f6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Tartakower Variation, 2...Nd7",
+          "eco": "A41",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 d6 2.d4 Nd7 3.Qd3 Ngf6 4.Qf5 g6 5.Qg5 Bg7"
+        }
+      ]
+    },
+    {
+      "name": "Indian Game: Knights Variation, East Indian Defense",
+      "variation": "Indian Game: Knights Variation, East Indian Defense, 3.Nc3 Bg7 4.e4",
+      "eco": "A48",
+      "eco_url": "https://www.chess.com/openings/Indian-Game-Knights-Variation-East-Indian-Defense-3.Nc3-Bg7-4.e4",
+      "colour": "white",
+      "moves": "1.d4 g6 2.Nf3 Bg7 3.Nc3 Nf6 4.e4 O-O 5.e5 Nd5",
+      "games": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "185907379316",
+          "url": "https://www.chess.com/game/live/185907379316",
+          "result": "draw",
+          "date": "2026-10-25T18:42:45+11:00"
+        },
+        {
+          "id": "185607448244",
+          "url": "https://www.chess.com/game/live/185607448244",
+          "result": "win",
+          "date": "2026-10-20T09:13:23+11:00"
+        }
+      ],
+      "explanation": "A branch of 1.d4 Nf6 2.Nf3 where Black fianchettos with \u2026g6. This is heading toward a King's Indian or a Gr\u00fcnfeld-style setup. White can occupy the centre or also fianchetto.",
+      "variations": [
+        {
+          "name": "Indian Game: Knights Variation, East Indian Defense, 3.Nc3 Bg7 4.e4",
+          "eco": "A48",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 g6 2.Nf3 Bg7 3.Nc3 Nf6 4.e4 O-O 5.e5 Nd5"
+        },
+        {
+          "name": "Indian Game: Knights Variation, East Indian Defense",
+          "eco": "A48",
+          "games": 1,
+          "win": 0,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 50.0,
+          "moves": "1.Nf3 Nf6 2.d4 g6 3.Qd3 Bg7 4.Nc3 d5 5.e4 dxe4"
+        }
+      ]
+    },
+    {
+      "name": "Pirc Defense: Classical Variation",
+      "variation": "Pirc Defense: Classical Variation, 4...Bg7",
+      "eco": "B08",
+      "eco_url": "https://www.chess.com/openings/Pirc-Defense-Classical-Variation-4...Bg7",
+      "colour": "white",
+      "moves": "1.d4 Nf6 2.Nf3 g6 3.Nc3 Bg7 4.e4 d6 5.e5 dxe5",
+      "games": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186583180390",
+          "url": "https://www.chess.com/game/live/186583180390",
+          "result": "win",
+          "date": "2026-11-05T23:08:21+11:00"
+        },
+        {
+          "id": "184778163094",
+          "url": "https://www.chess.com/game/live/184778163094",
+          "result": "win",
+          "date": "2026-10-04T10:12:12+11:00"
+        }
+      ],
+      "explanation": "Black allows White a big centre (e4 and usually d4) and fianchettos with \u2026d6, \u2026Nf6 and \u2026g6. Like the King's Indian, the idea is to let White occupy the middle and then chip away at it. The Classical lines develop White's knights to f3 and c3.",
+      "variations": [
+        {
+          "name": "Pirc Defense: Classical Variation, 4...Bg7",
+          "eco": "B08",
+          "games": 2,
+          "win": 2,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 Nf6 2.Nf3 g6 3.Nc3 Bg7 4.e4 d6 5.e5 dxe5"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Declined: Marshall Defense",
+      "variation": null,
+      "eco": "D06",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Declined-Marshall-Defense",
+      "colour": "white",
+      "moves": "1.d4 d5 2.c4 Nf6",
+      "games": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "185137323364",
+          "url": "https://www.chess.com/game/live/185137323364",
+          "result": "win",
+          "date": "2026-10-11T12:33:33+11:00"
+        },
+        {
+          "id": "185135523692",
+          "url": "https://www.chess.com/game/live/185135523692",
+          "result": "loss",
+          "date": "2026-10-11T11:16:36+11:00"
+        }
+      ],
+      "explanation": "Black plays an early \u2026Nf6 against the Queen's Gambit and may surrender the centre if White takes on d5. It is less common than the main QGD; development and a timely \u2026c5 are the usual ideas.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Declined: Marshall Defense",
+          "eco": "D06",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.c4 Nf6 3.b3 c6 4.Nf3 g6 5.Ne5 Bg7"
+        },
+        {
+          "name": "Queen's Gambit Declined: Marshall Defense, 3.cxd5 Nxd5 4.e4 Nb6",
+          "eco": "D06",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.e4 Nb6 5.Nf3 Nc6"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Rossolimo Variation",
+      "variation": null,
+      "eco": "A41",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Rossolimo-Variation",
+      "colour": "white",
+      "moves": "1.Nf3 d6 2.d4 g6 3.Qd3 Bg4 4.Nc3 Bxf3 5.Qxf3 Bg7",
+      "games": 2,
+      "win": 0,
+      "draw": 1,
+      "loss": 1,
+      "score_pct": 25.0,
+      "example_games": [
+        {
+          "id": "187188534624",
+          "url": "https://www.chess.com/game/live/187188534624",
+          "result": "loss",
+          "date": "2026-11-14T22:52:52+11:00"
+        },
+        {
+          "id": "185893900116",
+          "url": "https://www.chess.com/game/live/185893900116",
+          "result": "draw",
+          "date": "2026-10-25T10:53:17+11:00"
+        }
+      ],
+      "explanation": "A queen's pawn line (often 1.d4 d6 or similar) named in the Chess.com tree for a specific piece setup. White still occupies the centre with d4 and develops normally; Black stays flexible with a small centre.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Rossolimo Variation",
+          "eco": "A41",
+          "games": 2,
+          "win": 0,
+          "draw": 1,
+          "loss": 1,
+          "score_pct": 25.0,
+          "moves": "1.Nf3 d6 2.d4 g6 3.Qd3 Bg4 4.Nc3 Bxf3 5.Qxf3 Bg7"
+        }
+      ]
+    },
+    {
+      "name": "Caro-Kann Defense",
+      "variation": "Caro-Kann Defense: 2.Nf3 d5 3.exd5 cxd5",
+      "eco": "B10",
+      "eco_url": "https://www.chess.com/openings/Caro-Kann-Defense-2.Nf3-d5-3.exd5-cxd5",
+      "colour": "white",
+      "moves": "1.Nf3 c6 2.e4 d5 3.exd5 cxd5 4.c4 e6 5.cxd5 exd5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186583287836",
+          "url": "https://www.chess.com/game/live/186583287836",
+          "result": "loss",
+          "date": "2026-11-05T23:10:29+11:00"
+        }
+      ],
+      "explanation": "Black plays 1.e4 c6, preparing \u2026d5 with the bishop still free to develop. It is solid and slightly more compact than the French. White can take on d5, advance, or develop around the centre.",
+      "variations": [
+        {
+          "name": "Caro-Kann Defense: 2.Nf3 d5 3.exd5 cxd5",
+          "eco": "B10",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 c6 2.e4 d5 3.exd5 cxd5 4.c4 e6 5.cxd5 exd5"
+        }
+      ]
+    },
+    {
+      "name": "English Defense",
+      "variation": null,
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/English-Defense",
+      "colour": "white",
+      "moves": "1.d4 b6 2.d5 Bb7 3.c4 g6 4.Nf3 Bg7 5.e4 e6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185135635464",
+          "url": "https://www.chess.com/game/live/185135635464",
+          "result": "win",
+          "date": "2026-10-11T11:21:21+11:00"
+        }
+      ],
+      "explanation": "Black plays \u2026b6 and \u2026e6 against a queen's pawn opening, preparing to hit the centre with the bishop on b7 and sometimes \u2026Bb4 or \u2026f5. It is a counter-punch opening rather than a solid pawn centre.",
+      "variations": [
+        {
+          "name": "English Defense",
+          "eco": "A40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 b6 2.d5 Bb7 3.c4 g6 4.Nf3 Bg7 5.e4 e6"
+        }
+      ]
+    },
+    {
+      "name": "French Defense: Knight Variation",
+      "variation": null,
+      "eco": "C00",
+      "eco_url": "https://www.chess.com/openings/French-Defense-Knight-Variation",
+      "colour": "white",
+      "moves": "1.Nf3 e6 2.e4 c6 3.d4 d5 4.c4 dxc4 5.Bxc4 Bb4+",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186017719176",
+          "url": "https://www.chess.com/game/live/186017719176",
+          "result": "loss",
+          "date": "2026-10-27T16:25:14+11:00"
+        }
+      ],
+      "explanation": "A French where White develops a knight early (often 2.Nf3) instead of the main 2.d4 lines. It can transpose back into standard French structures or stay a bit quieter. Black still wants \u2026d5 and a later \u2026c5.",
+      "variations": [
+        {
+          "name": "French Defense: Knight Variation",
+          "eco": "C00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 e6 2.e4 c6 3.d4 d5 4.c4 dxc4 5.Bxc4 Bb4+"
+        }
+      ]
+    },
+    {
+      "name": "French Defense: Knight Variation, Two Knights Variation",
+      "variation": null,
+      "eco": "C00",
+      "eco_url": "https://www.chess.com/openings/French-Defense-Knight-Variation-Two-Knights-Variation",
+      "colour": "white",
+      "moves": "1.Nf3 e6 2.e4 d5 3.Nc3 c6 4.exd5 exd5 5.d4 f5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186884318362",
+          "url": "https://www.chess.com/game/live/186884318362",
+          "result": "loss",
+          "date": "2026-11-10T12:31:40+11:00"
+        }
+      ],
+      "explanation": "A French where White develops a knight early (often 2.Nf3) instead of the main 2.d4 lines. It can transpose back into standard French structures or stay a bit quieter. Black still wants \u2026d5 and a later \u2026c5.",
+      "variations": [
+        {
+          "name": "French Defense: Knight Variation, Two Knights Variation",
+          "eco": "C00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 e6 2.e4 d5 3.Nc3 c6 4.exd5 exd5 5.d4 f5"
+        }
+      ]
+    },
+    {
+      "name": "French Defense: Normal Variation",
+      "variation": "French Defense: Normal Variation, 3.Nc3 Nc6 4.Nf3 Nf6 5.Bg5",
+      "eco": "C10",
+      "eco_url": "https://www.chess.com/openings/French-Defense-Normal-Variation...3.Nc3-Nc6-4.Nf3-Nf6-5.Bg5",
+      "colour": "white",
+      "moves": "1.d4 Nc6 2.Nf3 Nf6 3.Nc3 d5 4.Bg5 e6 5.e4 dxe4",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185461797986",
+          "url": "https://www.chess.com/game/live/185461797986",
+          "result": "win",
+          "date": "2026-10-17T18:20:38+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026e6, preparing \u2026d5. The centre often becomes a locked chain (e5 vs d5), White attacks on the kingside and Black counters on the queenside with \u2026c5. The light-squared bishop on c8 is Black's usual problem child.",
+      "variations": [
+        {
+          "name": "French Defense: Normal Variation, 3.Nc3 Nc6 4.Nf3 Nf6 5.Bg5",
+          "eco": "C10",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 Nc6 2.Nf3 Nf6 3.Nc3 d5 4.Bg5 e6 5.e4 dxe4"
+        }
+      ]
+    },
+    {
+      "name": "Indian Game: Black Knights Tango",
+      "variation": "Indian Game: Black Knights Tango, 3.Nf3",
+      "eco": "A50",
+      "eco_url": "https://www.chess.com/openings/Indian-Game-Black-Knights-Tango-3.Nf3",
+      "colour": "white",
+      "moves": "1.d4 Nf6 2.c4 Nc6 3.Nf3 e5 4.dxe5 Nxe5 5.Nxe5 Qe7",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185137261700",
+          "url": "https://www.chess.com/game/live/185137261700",
+          "result": "win",
+          "date": "2026-10-11T12:30:56+11:00"
+        }
+      ],
+      "explanation": "Black plays an early \u2026Nc6 together with \u2026Nf6 against 1.d4, dancing the knights to pressure e5 and d4. It is unconventional but playable; the centre often opens quickly.",
+      "variations": [
+        {
+          "name": "Indian Game: Black Knights Tango, 3.Nf3",
+          "eco": "A50",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 Nf6 2.c4 Nc6 3.Nf3 e5 4.dxe5 Nxe5 5.Nxe5 Qe7"
+        }
+      ]
+    },
+    {
+      "name": "King's Indian Defense",
+      "variation": "King's Indian Defense: 3.Nf3 Bg7",
+      "eco": "E60",
+      "eco_url": "https://www.chess.com/openings/Kings-Indian-Defense-3.Nf3-Bg7",
+      "colour": "white",
+      "moves": "1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Qd3 O-O 5.Bg5 d6",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185131835752",
+          "url": "https://www.chess.com/game/live/185131835752",
+          "result": "loss",
+          "date": "2026-10-11T08:58:32+11:00"
+        }
+      ],
+      "explanation": "Black lets White take the centre with pawns and fianchettos the king's bishop (\u2026Nf6, \u2026g6, \u2026Bg7, \u2026d6). Then Black hits the centre with \u2026e5 or \u2026c5. It is a counterpunching defence: you give space now to attack later, often on the kingside.",
+      "variations": [
+        {
+          "name": "King's Indian Defense: 3.Nf3 Bg7",
+          "eco": "E60",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Qd3 O-O 5.Bg5 d6"
+        }
+      ]
+    },
+    {
+      "name": "King's Indian Defense: Normal Variation",
+      "variation": "King's Indian Defense: Normal Variation, 4.Nf3 d6",
+      "eco": "E61",
+      "eco_url": "https://www.chess.com/openings/Kings-Indian-Defense-Normal-Variation-4.Nf3-d6",
+      "colour": "white",
+      "moves": "1.d4 d6 2.c4 Nf6 3.Nf3 g6 4.Nc3 Bg7 5.Nd5 Nxd5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "184777929106",
+          "url": "https://www.chess.com/game/live/184777929106",
+          "result": "win",
+          "date": "2026-10-04T10:03:01+11:00"
+        }
+      ],
+      "explanation": "Black lets White take the centre with pawns and fianchettos the king's bishop (\u2026Nf6, \u2026g6, \u2026Bg7, \u2026d6). Then Black hits the centre with \u2026e5 or \u2026c5. It is a counterpunching defence: you give space now to attack later, often on the kingside.",
+      "variations": [
+        {
+          "name": "King's Indian Defense: Normal Variation, 4.Nf3 d6",
+          "eco": "E61",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d6 2.c4 Nf6 3.Nf3 g6 4.Nc3 Bg7 5.Nd5 Nxd5"
+        }
+      ]
+    },
+    {
+      "name": "Mieses Opening",
+      "variation": "Mieses Opening: 1...d5",
+      "eco": "A00",
+      "eco_url": "https://www.chess.com/openings/Mieses-Opening-1...d5",
+      "colour": "white",
+      "moves": "1.d3 d5 2.e4 dxe4 3.dxe4 Qxd1+ 4.Kxd1 e5 5.f3 Nc6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185346480810",
+          "url": "https://www.chess.com/game/live/185346480810",
+          "result": "win",
+          "date": "2026-10-15T13:10:34+11:00"
+        }
+      ],
+      "explanation": "White opens 1.d3. Like 1.e3, it is quiet and flexible, often heading for a King's Indian Attack or a small centre. Black can occupy the middle with \u2026d5 or \u2026e5 and develop naturally.",
+      "variations": [
+        {
+          "name": "Mieses Opening: 1...d5",
+          "eco": "A00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d3 d5 2.e4 dxe4 3.dxe4 Qxd1+ 4.Kxd1 e5 5.f3 Nc6"
+        }
+      ]
+    },
+    {
+      "name": "Modern Defense: Standard Two Knights Small Center Variation",
+      "variation": null,
+      "eco": "B06",
+      "eco_url": "https://www.chess.com/openings/Modern-Defense-Standard-Two-Knights-Small-Center-Variation",
+      "colour": "white",
+      "moves": "1.d4 g6 2.Nf3 Bg7 3.Nc3 e6 4.e4 d6 5.d5 Nd7",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "184780046414",
+          "url": "https://www.chess.com/game/live/184780046414",
+          "result": "loss",
+          "date": "2026-10-04T11:30:37+11:00"
+        }
+      ],
+      "explanation": "Black starts with \u2026g6 and \u2026Bg7, often delaying \u2026Nf6. White is invited to build a large pawn centre. Black will later strike with \u2026d6, \u2026c5 or \u2026e5. It is flexible, but you can get squeezed if you wait too long to challenge the centre.",
+      "variations": [
+        {
+          "name": "Modern Defense: Standard Two Knights Small Center Variation",
+          "eco": "B06",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 g6 2.Nf3 Bg7 3.Nc3 e6 4.e4 d6 5.d5 Nd7"
+        }
+      ]
+    },
+    {
+      "name": "Owen's Defense",
+      "variation": "Owen's Defense: 2.d4 Bb7 3.Nc3 e6 4.Nf3",
+      "eco": "B00",
+      "eco_url": "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3-e6-4.Nf3",
+      "colour": "white",
+      "moves": "1.Nf3 b6 2.e4 Bb7 3.Nc3 e6 4.d4 Ne7 5.d5 d6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185851583292",
+          "url": "https://www.chess.com/game/live/185851583292",
+          "result": "win",
+          "date": "2026-10-24T18:56:36+11:00"
+        }
+      ],
+      "explanation": "Black fianchettos the queen's bishop with \u2026b6 and \u2026Bb7, often against 1.e4. The bishop eyes e4 and the long diagonal. It is unusual at beginner level and can work if Black challenges the centre in time.",
+      "variations": [
+        {
+          "name": "Owen's Defense: 2.d4 Bb7 3.Nc3 e6 4.Nf3",
+          "eco": "B00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 b6 2.e4 Bb7 3.Nc3 e6 4.d4 Ne7 5.d5 d6"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Accepted",
+      "variation": null,
+      "eco": "D20",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Accepted",
+      "colour": "white",
+      "moves": "1.d4 d5 2.c4 dxc4 3.b3 cxb3 4.Qxb3 Nc6 5.e3 e5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185135614204",
+          "url": "https://www.chess.com/game/live/185135614204",
+          "result": "win",
+          "date": "2026-10-11T11:20:27+11:00"
+        }
+      ],
+      "explanation": "Black takes the c4 pawn after 1.d4 d5 2.c4. White usually gets the pawn back and a strong centre with e3 or e4; Black uses the temporary extra pawn to develop freely and later challenge the centre with \u2026c5 or \u2026e5.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Accepted",
+          "eco": "D20",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.c4 dxc4 3.b3 cxb3 4.Qxb3 Nc6 5.e3 e5"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Accepted: Janowski-Larsen Variation",
+      "variation": "Queen's Gambit Accepted: Janowski-Larsen Variation, 5.Bxc4",
+      "eco": "D25",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Accepted-Janowski-Larsen-Variation-5.Bxc4",
+      "colour": "white",
+      "moves": "1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 Bg4 5.Bxc4 Bxf3",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186144897362",
+          "url": "https://www.chess.com/game/live/186144897362",
+          "result": "loss",
+          "date": "2026-10-29T20:15:13+11:00"
+        }
+      ],
+      "explanation": "Black takes the c4 pawn after 1.d4 d5 2.c4. White usually gets the pawn back and a strong centre with e3 or e4; Black uses the temporary extra pawn to develop freely and later challenge the centre with \u2026c5 or \u2026e5.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Accepted: Janowski-Larsen Variation, 5.Bxc4",
+          "eco": "D25",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 Bg4 5.Bxc4 Bxf3"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Declined: Baltic Defense",
+      "variation": null,
+      "eco": "D06",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Declined-Baltic-Defense",
+      "colour": "white",
+      "moves": "1.d4 d5 2.c4 Bf5 3.b3 dxc4 4.e4 e6 5.exf5 exf5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "184699983008",
+          "url": "https://www.chess.com/game/live/184699983008",
+          "result": "win",
+          "date": "2026-10-02T21:40:48+10:00"
+        }
+      ],
+      "explanation": "Black develops the light-squared bishop to f5 early in a Queen's Gambit, outside the pawn chain. The bishop is active, but White can try to harass it or grab the centre while it sits on f5.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Declined: Baltic Defense",
+          "eco": "D06",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.c4 Bf5 3.b3 dxc4 4.e4 e6 5.exf5 exf5"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening",
+      "variation": "Queen's Pawn Opening: 1...d5 2.c3",
+      "eco": "D00",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.c3",
+      "colour": "white",
+      "moves": "1.d4 d5 2.c3 Nc6 3.c4 e5 4.cxd5 Qxd5 5.Nf3 e4",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "184736959386",
+          "url": "https://www.chess.com/game/live/184736959386",
+          "result": "loss",
+          "date": "2026-10-03T14:39:37+10:00"
+        }
+      ],
+      "explanation": "White opens with 1.d4, claiming the centre and freeing the dark-squared bishop. Unlike 1.e4, the d-pawn is protected by the queen, so the game is often slower and more about pawn structure than early king hunts.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: 1...d5 2.c3",
+          "eco": "D00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.c3 Nc6 3.c4 e5 4.cxd5 Qxd5 5.Nf3 e4"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Blackmar Gambit",
+      "variation": "Queen's Pawn Opening: Blackmar Gambit, 2...dxe4",
+      "eco": "D00",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit-2...dxe4",
+      "colour": "white",
+      "moves": "1.d4 d5 2.e4 dxe4 3.f3 Nf6 4.fxe4 e6 5.Nc3 Bb4",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185135917258",
+          "url": "https://www.chess.com/game/live/185135917258",
+          "result": "loss",
+          "date": "2026-10-11T11:33:19+11:00"
+        }
+      ],
+      "explanation": "White offers a pawn (typically 1.d4 d5 2.e4) to open lines and get rapid development. If Black takes and holds the pawn, White has to prove the compensation with active pieces and threats against f7.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Blackmar Gambit, 2...dxe4",
+          "eco": "D00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.e4 dxe4 3.f3 Nf6 4.fxe4 e6 5.Nc3 Bb4"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening: Black Mustang Defense",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening-Black-Mustang-Defense",
+      "colour": "white",
+      "moves": "1.Nf3 Nc6 2.d3 e5 3.Nc3 Nf6 4.Bg5 Bb4 5.Bxf6 Qxf6",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186835826516",
+          "url": "https://www.chess.com/game/live/186835826516",
+          "result": "loss",
+          "date": "2026-11-09T21:08:42+11:00"
+        }
+      ],
+      "explanation": "Black develops the queen's knight early (\u2026Nc6) against 1.Nf3. It is a flexible, slightly offbeat reply that can steer the game into a Chigorin-style fight if White later plays d4.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening: Black Mustang Defense",
+          "eco": "A04",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 Nc6 2.d3 e5 3.Nc3 Nf6 4.Bg5 Bb4 5.Bxf6 Qxf6"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening: Sicilian Invitation",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening-Sicilian-Invitation",
+      "colour": "white",
+      "moves": "1.Nf3 c5 2.d4 e5 3.dxc5 Bxc5 4.Nxe5 Nc6 5.Nc4 d5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186083575052",
+          "url": "https://www.chess.com/game/live/186083575052",
+          "result": "loss",
+          "date": "2026-10-28T19:51:34+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.Nf3 with \u2026c5, the same pawn they would push in a Sicilian. White can still stay in R\u00e9ti territory or transpose toward English Opening or d4-systems. The c-pawn claims space and discourages a routine e4.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening: Sicilian Invitation",
+          "eco": "A04",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 c5 2.d4 e5 3.dxc5 Bxc5 4.Nxe5 Nc6 5.Nc4 d5"
+        }
+      ]
+    },
+    {
+      "name": "Sicilian Defense: French Variation",
+      "variation": "Sicilian Defense: French Variation, 3.Nc3 d5 4.exd5 exd5",
+      "eco": "B40",
+      "eco_url": "https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.Nc3-d5-4.exd5-exd5",
+      "colour": "white",
+      "moves": "1.Nf3 e6 2.e4 d5 3.exd5 exd5 4.Nc3 c5 5.d4 Nc6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186748002970",
+          "url": "https://www.chess.com/game/live/186748002970",
+          "result": "win",
+          "date": "2026-11-08T09:39:26+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026c5, fighting for the d4 square and creating an unbalanced position. It is one of the most popular replies to 1.e4. The French Variation (\u2026e6) can still transpose into Open Sicilian or other structures depending on White's next moves.",
+      "variations": [
+        {
+          "name": "Sicilian Defense: French Variation, 3.Nc3 d5 4.exd5 exd5",
+          "eco": "B40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 e6 2.e4 d5 3.exd5 exd5 4.Nc3 c5 5.d4 Nc6"
+        }
+      ]
+    },
+    {
+      "name": "Slav Defense: Modern Bishop's Game",
+      "variation": null,
+      "eco": "D11",
+      "eco_url": "https://www.chess.com/openings/Slav-Defense-Modern-Bishops-Game",
+      "colour": "white",
+      "moves": "1.d4 c6 2.Nf3 d5 3.c4 Bf5 4.Bf4 Nf6 5.Nc3 e6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "184799356992",
+          "url": "https://www.chess.com/game/live/184799356992",
+          "result": "win",
+          "date": "2026-10-04T22:28:12+11:00"
+        }
+      ],
+      "explanation": "Black supports d5 with \u2026c6 after 1.d4 d5 2.c4. The light-squared bishop stays free (unlike in many QGD lines) and the structure is very solid. Games are often about whether White can make the space advantage count.",
+      "variations": [
+        {
+          "name": "Slav Defense: Modern Bishop's Game",
+          "eco": "D11",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 c6 2.Nf3 d5 3.c4 Bf5 4.Bf4 Nf6 5.Nc3 e6"
+        }
+      ]
+    },
+    {
+      "name": "Torre Attack: Fianchetto Defense",
+      "variation": null,
+      "eco": "A48",
+      "eco_url": "https://www.chess.com/openings/Torre-Attack-Fianchetto-Defense",
+      "colour": "white",
+      "moves": "1.d4 g6 2.Nf3 Bg7 3.Bg5 Nf6 4.Bxf6 Bxf6 5.Nc3 Bg7",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185409504564",
+          "url": "https://www.chess.com/game/live/185409504564",
+          "result": "loss",
+          "date": "2026-10-16T19:02:12+11:00"
+        }
+      ],
+      "explanation": "White develops Nf3 and Bg5 against a \u2026Nf6 defence, pinning the knight. It is a system opening: the same piece placement can be used against several Black setups. Plans include e3, c3, and sometimes a kingside attack.",
+      "variations": [
+        {
+          "name": "Torre Attack: Fianchetto Defense",
+          "eco": "A48",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 g6 2.Nf3 Bg7 3.Bg5 Nf6 4.Bxf6 Bxf6 5.Nc3 Bg7"
+        }
+      ]
+    },
+    {
+      "name": "Van't Kruijs Opening",
+      "variation": "Van't Kruijs Opening: 1...e5",
+      "eco": "A00",
+      "eco_url": "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5",
+      "colour": "white",
+      "moves": "1.e3 e5 2.Nc3 Bc5 3.Nd5 c6 4.Nc3 Qf6 5.Nf3 d5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185470169626",
+          "url": "https://www.chess.com/game/live/185470169626",
+          "result": "win",
+          "date": "2026-10-17T22:10:39+11:00"
+        }
+      ],
+      "explanation": "White opens 1.e3, a modest move that prepares d4 or Nf3 and stays out of heavy theory. It is safe but hands Black an easy chance to take the centre with \u2026e5 or \u2026d5. Treat it like a reversed French or a quiet queen's pawn game.",
+      "variations": [
+        {
+          "name": "Van't Kruijs Opening: 1...e5",
+          "eco": "A00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e3 e5 2.Nc3 Bc5 3.Nd5 c6 4.Nc3 Qf6 5.Nf3 d5"
+        }
+      ]
+    }
+  ],
+  "as_black": [
+    {
+      "name": "Italian Game",
+      "variation": null,
+      "eco": "C50",
+      "eco_url": "https://www.chess.com/openings/Italian-Game",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Qe7",
+      "games": 10,
+      "win": 3,
+      "draw": 0,
+      "loss": 7,
+      "score_pct": 30.0,
+      "example_games": [
+        {
+          "id": "187224014984",
+          "url": "https://www.chess.com/game/live/187224014984",
+          "result": "loss",
+          "date": "2026-11-15T08:53:31+11:00"
+        },
+        {
+          "id": "187105223886",
+          "url": "https://www.chess.com/game/live/187105223886",
+          "result": "win",
+          "date": "2026-11-13T18:30:22+11:00"
+        },
+        {
+          "id": "186716055478",
+          "url": "https://www.chess.com/game/live/186716055478",
+          "result": "win",
+          "date": "2026-11-07T23:48:08+11:00"
+        }
+      ],
+      "explanation": "The Italian Game starts 1.e4 e5 2.Nf3 Nc6 3.Bc4. White eyes the weak f7 pawn and develops quickly, ready to castle. Black can answer with the solid 3\u2026Bc5 (Giuoco Piano), the fighting 3\u2026Nf6 (Two Knights Defense), or slower moves like \u2026Be7 or \u2026d6. The opening is classical: pieces out, king safe, then fight in the centre.",
+      "variations": [
+        {
+          "name": "Italian Game",
+          "eco": "C50",
+          "games": 9,
+          "win": 3,
+          "draw": 0,
+          "loss": 6,
+          "score_pct": 33.3,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Qe7"
+        },
+        {
+          "name": "Italian Game: 3...d6",
+          "eco": "C50",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.Nc3 Nh6 5.h3 Qf6"
+        }
+      ]
+    },
+    {
+      "name": "Three Knights Opening",
+      "variation": null,
+      "eco": "C46",
+      "eco_url": "https://www.chess.com/openings/Three-Knights-Opening",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3",
+      "games": 10,
+      "win": 5,
+      "draw": 0,
+      "loss": 5,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186025806426",
+          "url": "https://www.chess.com/game/live/186025806426",
+          "result": "win",
+          "date": "2026-10-27T20:34:35+11:00"
+        },
+        {
+          "id": "185807237036",
+          "url": "https://www.chess.com/game/live/185807237036",
+          "result": "win",
+          "date": "2026-10-24T00:06:24+11:00"
+        },
+        {
+          "id": "185720208508",
+          "url": "https://www.chess.com/game/live/185720208508",
+          "result": "loss",
+          "date": "2026-10-22T09:17:23+11:00"
+        }
+      ],
+      "explanation": "After 1.e4 e5 2.Nf3 Nc6 3.Nc3, White has three knights developed and is waiting to see whether Black goes into a Four Knights with 3\u2026Nf6, a pin with 3\u2026Bb4, or something offbeat. It is a standard, solid developing move.",
+      "variations": [
+        {
+          "name": "Three Knights Opening",
+          "eco": "C46",
+          "games": 7,
+          "win": 4,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 57.1,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Qe7"
+        },
+        {
+          "name": "Three Knights Opening: 3...Bb4",
+          "eco": "C46",
+          "games": 2,
+          "win": 0,
+          "draw": 0,
+          "loss": 2,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3 Bb4"
+        },
+        {
+          "name": "Three Knights Opening: 3...d6",
+          "eco": "C46",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 d6 4.Bc4 Bg4 5.h3 Bxf3"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
+      "variation": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6 4.e3",
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.Bf4-Nf6-4.e3",
+      "colour": "black",
+      "moves": "1.d4 d5 2.Bf4 Nc6",
+      "games": 9,
+      "win": 6,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "186762577072",
+          "url": "https://www.chess.com/game/live/186762577072",
+          "result": "win",
+          "date": "2026-11-08T16:53:34+11:00"
+        },
+        {
+          "id": "186583017596",
+          "url": "https://www.chess.com/game/live/186583017596",
+          "result": "win",
+          "date": "2026-11-05T23:05:07+11:00"
+        },
+        {
+          "id": "186083862368",
+          "url": "https://www.chess.com/game/live/186083862368",
+          "result": "win",
+          "date": "2026-10-28T19:59:15+11:00"
+        },
+        {
+          "id": "185889398200",
+          "url": "https://www.chess.com/game/live/185889398200",
+          "result": "loss",
+          "date": "2026-10-25T08:34:58+11:00"
+        }
+      ],
+      "explanation": "This is the Zukertort (1.d4 d5 2.Nf3) meeting the Chigorin idea \u2026Nc6. Black puts pressure on d4 with the knight instead of supporting the centre with \u2026c6 or \u2026e6. The position gets piece-oriented and can turn tactical if the d-pawn is challenged.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6 4.e3",
+          "eco": "D02",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.d4 d5 2.Bf4 Nc6 3.e3 Nf6 4.Nf3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.e3",
+          "eco": "D02",
+          "games": 2,
+          "win": 2,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.e3 Nc6 3.Nf3 Nf6 4.Be2 Ne4 5.Nbd2 e5"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.g3",
+          "eco": "D02",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.d4 Nc6 2.Nf3 d5 3.g3 Qd6 4.Bg2 e5 5.c3 exd4"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6",
+          "eco": "D02",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 Nc6 2.Nf3 d5 3.Bf4 Nf6 4.Nbd2 Nh5 5.Bg3 Nxg3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.Bf4 Nc6 3.Nf3 Qd7 4.e3 Qf5 5.Bd3 Nxd4"
+        }
+      ]
+    },
+    {
+      "name": "King's Pawn Opening",
+      "variation": "King's Pawn Opening: 1...e5",
+      "eco": "C20",
+      "eco_url": "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Qf3 Nc6 3.Bc4 Nh6 4.d3",
+      "games": 7,
+      "win": 4,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 57.1,
+      "example_games": [
+        {
+          "id": "186887694148",
+          "url": "https://www.chess.com/game/live/186887694148",
+          "result": "loss",
+          "date": "2026-11-10T14:15:24+11:00"
+        },
+        {
+          "id": "186083780648",
+          "url": "https://www.chess.com/game/live/186083780648",
+          "result": "loss",
+          "date": "2026-10-28T19:57:05+11:00"
+        },
+        {
+          "id": "185907751964",
+          "url": "https://www.chess.com/game/live/185907751964",
+          "result": "win",
+          "date": "2026-10-25T18:53:12+11:00"
+        }
+      ],
+      "explanation": "White opened 1.e4 and Black answered 1\u2026e5, but the game left the main named highways (Italian, Ruy Lopez, Scotch) early \u2014 for example an unusual second move like 2.Qh5, 2.Qg4 or 2.d3. The same rules still apply: develop, castle, and do not leave f2/f7 only guarded by the king.",
+      "variations": [
+        {
+          "name": "King's Pawn Opening: 1...e5",
+          "eco": "C20",
+          "games": 6,
+          "win": 3,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 50.0,
+          "moves": "1.e4 e5 2.Qf3 Nc6 3.Bc4 Nh6 4.d3"
+        },
+        {
+          "name": "King's Pawn Opening: 1...e5 2.Qg4",
+          "eco": "C20",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Qg4 Nc6 3.Bc4 Nf6 4.Qg3 d5 5.exd5 Nxd5"
+        }
+      ]
+    },
+    {
+      "name": "Scotch Game",
+      "variation": "Scotch Game: 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "eco": "C45",
+      "eco_url": "https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6",
+      "games": 7,
+      "win": 3,
+      "draw": 0,
+      "loss": 4,
+      "score_pct": 42.9,
+      "example_games": [
+        {
+          "id": "185470545978",
+          "url": "https://www.chess.com/game/live/185470545978",
+          "result": "loss",
+          "date": "2026-10-17T22:19:55+11:00"
+        },
+        {
+          "id": "185465043720",
+          "url": "https://www.chess.com/game/live/185465043720",
+          "result": "win",
+          "date": "2026-10-17T19:56:05+11:00"
+        },
+        {
+          "id": "185454579224",
+          "url": "https://www.chess.com/game/live/185454579224",
+          "result": "win",
+          "date": "2026-10-17T14:02:32+11:00"
+        }
+      ],
+      "explanation": "The Scotch is 1.e4 e5 2.Nf3 Nc6 3.d4. White opens the centre immediately. After 3\u2026exd4 4.Nxd4 the position is open and both sides' pieces get active early. Black can trade on d4 or keep the knight and play \u2026Nf6 / \u2026Bc5.",
+      "variations": [
+        {
+          "name": "Scotch Game: 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+          "eco": "C45",
+          "games": 6,
+          "win": 2,
+          "draw": 0,
+          "loss": 4,
+          "score_pct": 33.3,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6"
+        },
+        {
+          "name": "Scotch Game",
+          "eco": "C45",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 Qe7 4.d5 Nd4 5.Nxd4 exd4"
+        }
+      ]
+    },
+    {
+      "name": "Bishop's Opening",
+      "variation": "Bishop's Opening: 2...Nc6",
+      "eco": "C23",
+      "eco_url": "https://www.chess.com/openings/Bishops-Opening-2...Nc6",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3 Nh6 4.d3",
+      "games": 6,
+      "win": 2,
+      "draw": 0,
+      "loss": 4,
+      "score_pct": 33.3,
+      "example_games": [
+        {
+          "id": "187023744686",
+          "url": "https://www.chess.com/game/live/187023744686",
+          "result": "loss",
+          "date": "2026-11-12T13:09:59+11:00"
+        },
+        {
+          "id": "186760386280",
+          "url": "https://www.chess.com/game/live/186760386280",
+          "result": "win",
+          "date": "2026-11-08T15:46:51+11:00"
+        },
+        {
+          "id": "185851839026",
+          "url": "https://www.chess.com/game/live/185851839026",
+          "result": "win",
+          "date": "2026-10-24T19:03:53+11:00"
+        }
+      ],
+      "explanation": "White plays 1.e4 e5 2.Bc4, bringing the bishop out before the knight. It aims at f7 and can transpose into an Italian or a Vienna. Black usually develops with \u2026Nf6 or \u2026Nc6 and should remember that f7 and f2 are the soft spots.",
+      "variations": [
+        {
+          "name": "Bishop's Opening: 2...Nc6",
+          "eco": "C23",
+          "games": 4,
+          "win": 1,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 25.0,
+          "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3 Nh6 4.d3"
+        },
+        {
+          "name": "Bishop's Opening",
+          "eco": "C23",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.e4 e5 2.Bc4 f5 3.exf5 Qg5 4.d4 exd4 5.Bxg5 Ne7"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game",
+      "variation": null,
+      "eco": "C47",
+      "eco_url": "https://www.chess.com/openings/Four-Knights-Game",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5 Nxe5 5.d4",
+      "games": 6,
+      "win": 2,
+      "draw": 0,
+      "loss": 4,
+      "score_pct": 33.3,
+      "example_games": [
+        {
+          "id": "186271814404",
+          "url": "https://www.chess.com/game/live/186271814404",
+          "result": "loss",
+          "date": "2026-10-31T21:36:19+11:00"
+        },
+        {
+          "id": "186136852078",
+          "url": "https://www.chess.com/game/live/186136852078",
+          "result": "win",
+          "date": "2026-10-29T16:10:53+11:00"
+        },
+        {
+          "id": "185137306912",
+          "url": "https://www.chess.com/game/live/185137306912",
+          "result": "win",
+          "date": "2026-10-11T12:32:51+11:00"
+        }
+      ],
+      "explanation": "Both sides develop both knights: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6. It is classical and symmetrical. White can head for a Spanish-style Bb5, a Scotch-style d4, or the quiet d3. Games often stay equal until someone breaks the symmetry.",
+      "variations": [
+        {
+          "name": "Four Knights Game",
+          "eco": "C47",
+          "games": 6,
+          "win": 2,
+          "draw": 0,
+          "loss": 4,
+          "score_pct": 33.3,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5 Nxe5 5.d4"
+        }
+      ]
+    },
+    {
+      "name": "Italian Game: Knight Attack",
+      "variation": null,
+      "eco": "C57",
+      "eco_url": "https://www.chess.com/openings/Italian-Game-Knight-Attack",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Qe7",
+      "games": 5,
+      "win": 3,
+      "draw": 0,
+      "loss": 2,
+      "score_pct": 60.0,
+      "example_games": [
+        {
+          "id": "185609957448",
+          "url": "https://www.chess.com/game/live/185609957448",
+          "result": "win",
+          "date": "2026-10-20T10:37:52+11:00"
+        },
+        {
+          "id": "185470594882",
+          "url": "https://www.chess.com/game/live/185470594882",
+          "result": "loss",
+          "date": "2026-10-17T22:21:07+11:00"
+        },
+        {
+          "id": "185425035382",
+          "url": "https://www.chess.com/game/live/185425035382",
+          "result": "loss",
+          "date": "2026-10-17T01:14:36+11:00"
+        }
+      ],
+      "explanation": "This is the Italian with 4.Ng5, going straight after f7 (the famous Fried Liver / Knight Attack). After 3\u2026Nf6 4.Ng5, the standard reply is 4\u2026d5 5.exd5 Na5, not 5\u2026Nxd5, which can get crushed. If you wander away from that, f7 usually collapses.",
+      "variations": [
+        {
+          "name": "Italian Game: Knight Attack",
+          "eco": "C57",
+          "games": 5,
+          "win": 3,
+          "draw": 0,
+          "loss": 2,
+          "score_pct": 60.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Qe7"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Accelerated London System",
+      "variation": null,
+      "eco": "D00",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System",
+      "colour": "black",
+      "moves": "1.d4 d5 2.Bf4 Nc6 3.e3 e6",
+      "games": 5,
+      "win": 4,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 80.0,
+      "example_games": [
+        {
+          "id": "186011076494",
+          "url": "https://www.chess.com/game/live/186011076494",
+          "result": "win",
+          "date": "2026-10-27T12:21:42+11:00"
+        },
+        {
+          "id": "185893963010",
+          "url": "https://www.chess.com/game/live/185893963010",
+          "result": "loss",
+          "date": "2026-10-25T10:55:31+11:00"
+        },
+        {
+          "id": "185851122552",
+          "url": "https://www.chess.com/game/live/185851122552",
+          "result": "win",
+          "date": "2026-10-24T18:43:22+11:00"
+        }
+      ],
+      "explanation": "White (or, when you're Black, your opponent) develops the dark-squared bishop to f4 early, the trademark of the London System. The setup is solid, easy to repeat, and aims for a safe king and a slow squeeze rather than a sharp scrap.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Accelerated London System",
+          "eco": "D00",
+          "games": 4,
+          "win": 4,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.Bf4 Nc6 3.e3 e6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Accelerated London System, 2...Nf6 3.e3",
+          "eco": "D00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.Bf4 Nf6 3.e3 Qd6 4.Nf3 Qe6 5.Nc3 Ne4"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Mikenas Defense",
+      "variation": null,
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense",
+      "colour": "black",
+      "moves": "1.d4 Nc6 2.e3 d5",
+      "games": 5,
+      "win": 2,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 40.0,
+      "example_games": [
+        {
+          "id": "185603811782",
+          "url": "https://www.chess.com/game/live/185603811782",
+          "result": "loss",
+          "date": "2026-10-20T07:38:03+11:00"
+        },
+        {
+          "id": "185563628738",
+          "url": "https://www.chess.com/game/live/185563628738",
+          "result": "loss",
+          "date": "2026-10-19T16:27:57+11:00"
+        },
+        {
+          "id": "185453615934",
+          "url": "https://www.chess.com/game/live/185453615934",
+          "result": "win",
+          "date": "2026-10-17T13:24:23+11:00"
+        }
+      ],
+      "explanation": "Black plays 1.d4 Nc6, inviting White to push d5 or defend d4. It is offbeat and can transpose into a Chigorin or a Nimzowitsch Defence. Black wants piece play rather than a solid pawn chain.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Mikenas Defense",
+          "eco": "A40",
+          "games": 5,
+          "win": 2,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 40.0,
+          "moves": "1.d4 Nc6 2.e3 d5"
+        }
+      ]
+    },
+    {
+      "name": "Van't Kruijs Opening",
+      "variation": "Van't Kruijs Opening: 1...e5",
+      "eco": "A00",
+      "eco_url": "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5",
+      "colour": "black",
+      "moves": "1.e3 e5 2.d3 Nc6",
+      "games": 5,
+      "win": 0,
+      "draw": 0,
+      "loss": 5,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186887800156",
+          "url": "https://www.chess.com/game/live/186887800156",
+          "result": "loss",
+          "date": "2026-11-10T14:18:37+11:00"
+        },
+        {
+          "id": "186765223276",
+          "url": "https://www.chess.com/game/live/186765223276",
+          "result": "loss",
+          "date": "2026-11-08T18:10:07+11:00"
+        },
+        {
+          "id": "186624033748",
+          "url": "https://www.chess.com/game/live/186624033748",
+          "result": "loss",
+          "date": "2026-11-06T12:19:48+11:00"
+        }
+      ],
+      "explanation": "White opens 1.e3, a modest move that prepares d4 or Nf3 and stays out of heavy theory. It is safe but hands Black an easy chance to take the centre with \u2026e5 or \u2026d5. Treat it like a reversed French or a quiet queen's pawn game.",
+      "variations": [
+        {
+          "name": "Van't Kruijs Opening: 1...e5",
+          "eco": "A00",
+          "games": 4,
+          "win": 0,
+          "draw": 0,
+          "loss": 4,
+          "score_pct": 0.0,
+          "moves": "1.e3 e5 2.d3 Nc6"
+        },
+        {
+          "name": "Van't Kruijs Opening: 1...d5",
+          "eco": "A00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e3 d5 2.Bc4 Nc6 3.Bb3 Nf6 4.d3 d4 5.c4 dxe3"
+        }
+      ]
+    },
+    {
+      "name": "Englund Gambit",
+      "variation": null,
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Englund-Gambit",
+      "colour": "black",
+      "moves": "1.d4 e5 2.c4 exd4 3.Qxd4 Nc6 4.Qd1 Nf6 5.Nc3 Bb4",
+      "games": 4,
+      "win": 3,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "185895593012",
+          "url": "https://www.chess.com/game/live/185895593012",
+          "result": "win",
+          "date": "2026-10-25T11:55:47+11:00"
+        },
+        {
+          "id": "185614697382",
+          "url": "https://www.chess.com/game/live/185614697382",
+          "result": "loss",
+          "date": "2026-10-20T13:38:23+11:00"
+        },
+        {
+          "id": "185470354726",
+          "url": "https://www.chess.com/game/live/185470354726",
+          "result": "win",
+          "date": "2026-10-17T22:15:13+11:00"
+        }
+      ],
+      "explanation": "Black meets 1.d4 with the immediate 1\u2026e5, offering a pawn to yank White out of normal queen's-pawn theory. If White takes (2.dxe5), Black hunts the pawn with \u2026Nc6 and sometimes \u2026Qe7 or \u2026d6. It is sharp and risky: White can keep the pawn or give it back for a lead in development.",
+      "variations": [
+        {
+          "name": "Englund Gambit",
+          "eco": "A40",
+          "games": 4,
+          "win": 3,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 75.0,
+          "moves": "1.d4 e5 2.c4 exd4 3.Qxd4 Nc6 4.Qd1 Nf6 5.Nc3 Bb4"
+        }
+      ]
+    },
+    {
+      "name": "King's Fianchetto Opening",
+      "variation": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
+      "eco": "A00",
+      "eco_url": "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5-2.Bg2-Nc6",
+      "colour": "black",
+      "moves": "1.g3 e5 2.Bg2 Nc6",
+      "games": 4,
+      "win": 2,
+      "draw": 0,
+      "loss": 2,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186885842314",
+          "url": "https://www.chess.com/game/live/186885842314",
+          "result": "win",
+          "date": "2026-11-10T13:18:28+11:00"
+        },
+        {
+          "id": "186391560182",
+          "url": "https://www.chess.com/game/live/186391560182",
+          "result": "win",
+          "date": "2026-11-02T22:15:12+11:00"
+        },
+        {
+          "id": "185956979988",
+          "url": "https://www.chess.com/game/live/185956979988",
+          "result": "loss",
+          "date": "2026-10-26T14:41:10+11:00"
+        }
+      ],
+      "explanation": "White plays 1.g3 and puts the bishop on g2. This often becomes a King's Indian Attack or a R\u00e9ti. White's king is usually very safe behind the fianchetto; the plan is to castle and later strike with e4 or c4.",
+      "variations": [
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
+          "eco": "A00",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.g3 e5 2.Bg2 Nc6"
+        },
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6 3.d3",
+          "eco": "A00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.g3 e5 2.Bg2 Nc6 3.d3 Nf6 4.c3 e4 5.Bg5 exd3"
+        },
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nf6",
+          "eco": "A00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.g3 e5 2.Bg2 Nf6 3.b3 Nc6 4.Bb2 Bb4 5.a3 Bc5"
+        }
+      ]
+    },
+    {
+      "name": "King's Pawn Opening: Leonardis Variation",
+      "variation": null,
+      "eco": "C20",
+      "eco_url": "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d3 Nc6",
+      "games": 4,
+      "win": 1,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 25.0,
+      "example_games": [
+        {
+          "id": "186582935864",
+          "url": "https://www.chess.com/game/live/186582935864",
+          "result": "loss",
+          "date": "2026-11-05T23:03:28+11:00"
+        },
+        {
+          "id": "185187237428",
+          "url": "https://www.chess.com/game/live/185187237428",
+          "result": "loss",
+          "date": "2026-10-12T12:04:49+11:00"
+        },
+        {
+          "id": "185146291904",
+          "url": "https://www.chess.com/game/live/185146291904",
+          "result": "loss",
+          "date": "2026-10-11T18:13:07+11:00"
+        },
+        {
+          "id": "185135735010",
+          "url": "https://www.chess.com/game/live/185135735010",
+          "result": "win",
+          "date": "2026-10-11T11:25:34+11:00"
+        }
+      ],
+      "explanation": "A 1.e4 e5 line where White plays a modest d3 (sometimes called the Leonardis or 'slow' king's pawn). White stays solid rather than bursting open the centre. Black should develop normally with \u2026Nf6 and \u2026Nc6 and not invent early adventures.",
+      "variations": [
+        {
+          "name": "King's Pawn Opening: Leonardis Variation",
+          "eco": "C20",
+          "games": 4,
+          "win": 1,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 25.0,
+          "moves": "1.e4 e5 2.d3 Nc6"
+        }
+      ]
+    },
+    {
+      "name": "Vienna Game: Max Lange Defense",
+      "variation": "Vienna Game: Max Lange Defense, 3.Bc4",
+      "eco": "C25",
+      "eco_url": "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense-3.Bc4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4",
+      "games": 4,
+      "win": 0,
+      "draw": 0,
+      "loss": 4,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186248600204",
+          "url": "https://www.chess.com/game/live/186248600204",
+          "result": "loss",
+          "date": "2026-10-31T09:46:13+11:00"
+        },
+        {
+          "id": "185784594630",
+          "url": "https://www.chess.com/game/live/185784594630",
+          "result": "loss",
+          "date": "2026-10-23T13:46:16+11:00"
+        },
+        {
+          "id": "185741003698",
+          "url": "https://www.chess.com/game/live/185741003698",
+          "result": "loss",
+          "date": "2026-10-22T20:53:36+11:00"
+        }
+      ],
+      "explanation": "A Vienna line with \u2026Nc6, sometimes meeting Bc4. Both sides develop toward the centre; watch the typical Italian-style shots on f2 and f7 if a bishop lands on c4 or c5.",
+      "variations": [
+        {
+          "name": "Vienna Game: Max Lange Defense, 3.Bc4",
+          "eco": "C25",
+          "games": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4"
+        },
+        {
+          "name": "Vienna Game: Max Lange Defense",
+          "eco": "C25",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nc3 e5 2.e4 Nc6 3.Bd3 f5 4.exf5 d5 5.Qh5+ g6"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "variation": null,
+      "eco": "C47",
+      "eco_url": "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "185807513398",
+          "url": "https://www.chess.com/game/live/185807513398",
+          "result": "win",
+          "date": "2026-10-24T00:11:42+11:00"
+        },
+        {
+          "id": "185358363030",
+          "url": "https://www.chess.com/game/live/185358363030",
+          "result": "loss",
+          "date": "2026-10-15T20:03:50+11:00"
+        },
+        {
+          "id": "185310754578",
+          "url": "https://www.chess.com/game/live/185310754578",
+          "result": "win",
+          "date": "2026-10-14T22:23:11+11:00"
+        }
+      ],
+      "explanation": "A Four Knights where White posts the bishop on c4 instead of b5. It looks like an Italian with both pairs of knights out. Standard plans: castle, play d3 or d4, and watch f2/f7.",
+      "variations": [
+        {
+          "name": "Four Knights Game: Italian Variation",
+          "eco": "C47",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Accepted: Old Variation",
+      "variation": "Queen's Gambit Accepted: Old Variation, 3...e5 4.Bxc4 Nc6",
+      "eco": "D20",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Accepted-Old-Variation-3...e5-4.Bxc4-Nc6",
+      "colour": "black",
+      "moves": "1.d4 d5 2.e3 Nc6 3.c4 dxc4 4.Bxc4 e5",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "186083273764",
+          "url": "https://www.chess.com/game/live/186083273764",
+          "result": "win",
+          "date": "2026-10-28T19:43:29+11:00"
+        },
+        {
+          "id": "185723273122",
+          "url": "https://www.chess.com/game/live/185723273122",
+          "result": "loss",
+          "date": "2026-10-22T11:02:54+11:00"
+        },
+        {
+          "id": "184728983466",
+          "url": "https://www.chess.com/game/live/184728983466",
+          "result": "win",
+          "date": "2026-10-03T09:08:32+10:00"
+        }
+      ],
+      "explanation": "An older move order in the QGA where White (or Black's reply) steers toward an early e3/Bxc4 setup. The same story: White occupies the centre, Black finishes development and hits back with a pawn break.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Accepted: Old Variation, 3...e5 4.Bxc4 Nc6",
+          "eco": "D20",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.d4 d5 2.e3 Nc6 3.c4 dxc4 4.Bxc4 e5"
+        },
+        {
+          "name": "Queen's Gambit Accepted: Old Variation",
+          "eco": "D20",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.c4 dxc4 3.e3 Nc6 4.Bxc4 Nf6 5.Nc3 e5"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Opening: Chigorin Variation",
+      "variation": null,
+      "eco": "D00",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation",
+      "colour": "black",
+      "moves": "1.d4 d5 2.Nc3 Nc6",
+      "games": 3,
+      "win": 2,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 66.7,
+      "example_games": [
+        {
+          "id": "185609854998",
+          "url": "https://www.chess.com/game/live/185609854998",
+          "result": "win",
+          "date": "2026-10-20T10:34:06+11:00"
+        },
+        {
+          "id": "185345250234",
+          "url": "https://www.chess.com/game/live/185345250234",
+          "result": "loss",
+          "date": "2026-10-15T12:21:31+11:00"
+        },
+        {
+          "id": "184729035312",
+          "url": "https://www.chess.com/game/live/184729035312",
+          "result": "win",
+          "date": "2026-10-03T09:10:32+10:00"
+        }
+      ],
+      "explanation": "Black develops the knight to c6 against 1.d4 d5, putting early pressure on d4. The position is more piece-based than a normal Queen's Gambit and can open quickly if the d-pawn is exchanged.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Chigorin Variation",
+          "eco": "D00",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.d4 d5 2.Nc3 Nc6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Chigorin Variation, 2...Nf6 3.Bf4",
+          "eco": "D00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 d5 2.Nc3 Nf6 3.Bf4 e5 4.Bxe5 Nc6 5.Bf4 Nh5"
+        }
+      ]
+    },
+    {
+      "name": "Ruy Lopez Opening: Berlin Defense",
+      "variation": "Ruy Lopez Opening: Berlin Defense, 4.Bxc6 dxc6",
+      "eco": "C65",
+      "eco_url": "https://www.chess.com/openings/Ruy-Lopez-Opening-Berlin-Defense-4.Bxc6-dxc6",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6",
+      "games": 3,
+      "win": 0,
+      "draw": 0,
+      "loss": 3,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186978244962",
+          "url": "https://www.chess.com/game/live/186978244962",
+          "result": "loss",
+          "date": "2026-11-11T23:06:44+11:00"
+        },
+        {
+          "id": "185907468794",
+          "url": "https://www.chess.com/game/live/185907468794",
+          "result": "loss",
+          "date": "2026-10-25T18:45:16+11:00"
+        },
+        {
+          "id": "185523794320",
+          "url": "https://www.chess.com/game/live/185523794320",
+          "result": "loss",
+          "date": "2026-10-18T22:41:16+11:00"
+        }
+      ],
+      "explanation": "The Berlin is 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6. Black develops and is ready to meet Bxc6 by recapturing toward the centre. It is solid and well-known at every level; just finish development and castle (or be ready for a queenless Berlin endgame if White exchanges on c6 and on e5).",
+      "variations": [
+        {
+          "name": "Ruy Lopez Opening: Berlin Defense, 4.Bxc6 dxc6",
+          "eco": "C65",
+          "games": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6"
+        }
+      ]
+    },
+    {
+      "name": "King's Gambit Accepted: King's Knight Gambit",
+      "variation": null,
+      "eco": "C34",
+      "eco_url": "https://www.chess.com/openings/Kings-Gambit-Accepted-Kings-Knight-Gambit",
+      "colour": "black",
+      "moves": "1.e4 e5 2.f4 exf4 3.Nf3",
+      "games": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186388605538",
+          "url": "https://www.chess.com/game/live/186388605538",
+          "result": "loss",
+          "date": "2026-11-02T21:06:39+11:00"
+        },
+        {
+          "id": "184821132528",
+          "url": "https://www.chess.com/game/live/184821132528",
+          "result": "win",
+          "date": "2026-10-05T06:42:02+11:00"
+        }
+      ],
+      "explanation": "Black has taken the f4 pawn in the King's Gambit. White wants rapid development and a strong centre; Black tries to keep the pawn or return it for a safe king. Checks on the h4\u2013e1 diagonal are the first thing to watch.",
+      "variations": [
+        {
+          "name": "King's Gambit Accepted: King's Knight Gambit",
+          "eco": "C34",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.e4 e5 2.f4 exf4 3.Nf3"
+        }
+      ]
+    },
+    {
+      "name": "Nimzowitsch Defense",
+      "variation": null,
+      "eco": "B00",
+      "eco_url": "https://www.chess.com/openings/Nimzowitsch-Defense",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.Qf3 e5 3.Bc4 Nh6 4.d3 Qe7 5.Bxh6 Nd4",
+      "games": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "185449191700",
+          "url": "https://www.chess.com/game/live/185449191700",
+          "result": "loss",
+          "date": "2026-10-17T10:28:03+11:00"
+        },
+        {
+          "id": "185199777690",
+          "url": "https://www.chess.com/game/live/185199777690",
+          "result": "win",
+          "date": "2026-10-12T19:53:37+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026Nc6. It is a lesser-seen defence that can transpose into a Scotch or a 1.e4 e5 game after a later \u2026e5, or stay original if Black plays \u2026d5. The knight puts early pressure on e5 and d4.",
+      "variations": [
+        {
+          "name": "Nimzowitsch Defense",
+          "eco": "B00",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.e4 Nc6 2.Qf3 e5 3.Bc4 Nh6 4.d3 Qe7 5.Bxh6 Nd4"
+        }
+      ]
+    },
+    {
+      "name": "Nimzowitsch Defense: Kennedy-Linksspringer Variation",
+      "variation": null,
+      "eco": "B00",
+      "eco_url": "https://www.chess.com/openings/Nimzowitsch-Defense-Kennedy-Linksspringer-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d4 Nc6 3.d5 Nd4 4.c3",
+      "games": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "186583067236",
+          "url": "https://www.chess.com/game/live/186583067236",
+          "result": "loss",
+          "date": "2026-11-05T23:06:06+11:00"
+        },
+        {
+          "id": "185233064108",
+          "url": "https://www.chess.com/game/live/185233064108",
+          "result": "win",
+          "date": "2026-10-13T08:24:02+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026Nc6. It is a lesser-seen defence that can transpose into a Scotch or a 1.e4 e5 game after a later \u2026e5, or stay original if Black plays \u2026d5. The knight puts early pressure on e5 and d4.",
+      "variations": [
+        {
+          "name": "Nimzowitsch Defense: Kennedy-Linksspringer Variation",
+          "eco": "B00",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.e4 e5 2.d4 Nc6 3.d5 Nd4 4.c3"
+        }
+      ]
+    },
+    {
+      "name": "Nimzowitsch Defense: Kennedy-Paulsen Attack",
+      "variation": null,
+      "eco": "B00",
+      "eco_url": "https://www.chess.com/openings/Nimzowitsch-Defense-Kennedy-Paulsen-Attack",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.d4 e5 3.dxe5 Nxe5 4.Nf3 d6 5.Nxe5 dxe5",
+      "games": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186080948104",
+          "url": "https://www.chess.com/game/live/186080948104",
+          "result": "win",
+          "date": "2026-10-28T18:37:07+11:00"
+        },
+        {
+          "id": "185465025088",
+          "url": "https://www.chess.com/game/live/185465025088",
+          "result": "win",
+          "date": "2026-10-17T19:55:34+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026Nc6. It is a lesser-seen defence that can transpose into a Scotch or a 1.e4 e5 game after a later \u2026e5, or stay original if Black plays \u2026d5. The knight puts early pressure on e5 and d4.",
+      "variations": [
+        {
+          "name": "Nimzowitsch Defense: Kennedy-Paulsen Attack",
+          "eco": "B00",
+          "games": 2,
+          "win": 2,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 Nc6 2.d4 e5 3.dxe5 Nxe5 4.Nf3 d6 5.Nxe5 dxe5"
+        }
+      ]
+    },
+    {
+      "name": "Nimzowitsch-Larsen Attack: Modern Variation",
+      "variation": "Nimzowitsch-Larsen Attack: Modern Variation, 2.Bb2 Nc6 3.e3",
+      "eco": "A01",
+      "eco_url": "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3",
+      "colour": "black",
+      "moves": "1.e3 e5 2.b3 Nc6 3.Bb2",
+      "games": 2,
+      "win": 1,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 50.0,
+      "example_games": [
+        {
+          "id": "185147026612",
+          "url": "https://www.chess.com/game/live/185147026612",
+          "result": "loss",
+          "date": "2026-10-11T18:36:17+11:00"
+        },
+        {
+          "id": "184779282576",
+          "url": "https://www.chess.com/game/live/184779282576",
+          "result": "win",
+          "date": "2026-10-04T10:57:49+11:00"
+        }
+      ],
+      "explanation": "White opens 1.b3, fianchettoing the queen's bishop to b2 to pressure the centre from the wing. It is a flank opening: you let Black occupy the middle and then undermine it. Black should take the centre and not get nervous.",
+      "variations": [
+        {
+          "name": "Nimzowitsch-Larsen Attack: Modern Variation, 2.Bb2 Nc6 3.e3",
+          "eco": "A01",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e3 e5 2.b3 Nc6 3.Bb2 Bb4 4.Bb5 a6 5.Bxc6 dxc6"
+        },
+        {
+          "name": "Nimzowitsch-Larsen Attack: Modern Variation, 2.Bb2 Nc6 3.e3 Nf6",
+          "eco": "A01",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e3 e5 2.b3 Nc6 3.Bb2 Nf6 4.g3 d5 5.Bg2 d4"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening: Dutch Variation",
+      "variation": "R\u00e9ti Opening: Dutch Variation, 2.d3 d6 3.e4 e5",
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening-Dutch-Variation-2.d3-d6-3.e4-e5",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d3 d6 3.Nf3 f5 4.exf5 Bxf5 5.Qe2 Nc6",
+      "games": 2,
+      "win": 2,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "184780095244",
+          "url": "https://www.chess.com/game/live/184780095244",
+          "result": "win",
+          "date": "2026-10-04T11:32:44+11:00"
+        },
+        {
+          "id": "184654778172",
+          "url": "https://www.chess.com/game/live/184654778172",
+          "result": "win",
+          "date": "2026-10-01T23:41:40+10:00"
+        }
+      ],
+      "explanation": "Black plays a Dutch-style \u2026f5 against the R\u00e9ti. That claims kingside space but loosens the king. White usually continues development and looks to open the centre before Black's kingside attack gets going.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening: Dutch Variation, 2.d3 d6 3.e4 e5",
+          "eco": "A04",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.d3 d6 3.Nf3 f5 4.exf5 Bxf5 5.Qe2 Nc6"
+        },
+        {
+          "name": "R\u00e9ti Opening: Dutch Variation, 2.d3 Nc6 3.e4 e5",
+          "eco": "A04",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.d3 Nc6 3.Nf3 f5 4.Bg5 Nf6 5.Bxf6 Qxf6"
+        }
+      ]
+    },
+    {
+      "name": "Scotch Game: Scotch Gambit, Dubois-R\u00e9ti Advance Variation",
+      "variation": "Scotch Game: Scotch Gambit, Dubois-R\u00e9ti Advance Variation, 5...Ne4",
+      "eco": "C45",
+      "eco_url": "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-Dubois-Reti-Advance-Variation-5...Ne4",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.Nf3 e5 3.d4 exd4 4.Bc4 Nf6 5.e5",
+      "games": 2,
+      "win": 1,
+      "draw": 1,
+      "loss": 0,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "185807958132",
+          "url": "https://www.chess.com/game/live/185807958132",
+          "result": "win",
+          "date": "2026-10-24T00:20:08+11:00"
+        },
+        {
+          "id": "185522179644",
+          "url": "https://www.chess.com/game/live/185522179644",
+          "result": "draw",
+          "date": "2026-10-18T22:02:18+11:00"
+        }
+      ],
+      "explanation": "The Scotch is 1.e4 e5 2.Nf3 Nc6 3.d4. White opens the centre immediately. After 3\u2026exd4 4.Nxd4 the position is open and both sides' pieces get active early. Black can trade on d4 or keep the knight and play \u2026Nf6 / \u2026Bc5.",
+      "variations": [
+        {
+          "name": "Scotch Game: Scotch Gambit, Dubois-R\u00e9ti Advance Variation, 5...Ne4",
+          "eco": "C45",
+          "games": 1,
+          "win": 0,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 50.0,
+          "moves": "1.e4 Nc6 2.Nf3 e5 3.d4 exd4 4.Bc4 Nf6 5.e5 Ne4"
+        },
+        {
+          "name": "Scotch Game: Scotch Gambit, Dubois-R\u00e9ti Advance Variation",
+          "eco": "C45",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 Nc6 2.Nf3 e5 3.d4 exd4 4.Bc4 Nf6 5.e5 Nxe5"
+        }
+      ]
+    },
+    {
+      "name": "Bishop's Opening: Berlin Vienna Hybrid Variation",
+      "variation": "Bishop's Opening: Berlin Vienna Hybrid Variation, 4...Bb4",
+      "eco": "C28",
+      "eco_url": "https://www.chess.com/openings/Bishops-Opening-Berlin-Vienna-Hybrid-Variation-4...Bb4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Bb4 5.f4 Bxc3+",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185135594814",
+          "url": "https://www.chess.com/game/live/185135594814",
+          "result": "loss",
+          "date": "2026-10-11T11:19:37+11:00"
+        }
+      ],
+      "explanation": "White plays 1.e4 e5 2.Bc4, bringing the bishop out before the knight. It aims at f7 and can transpose into an Italian or a Vienna. Black usually develops with \u2026Nf6 or \u2026Nc6 and should remember that f7 and f2 are the soft spots.",
+      "variations": [
+        {
+          "name": "Bishop's Opening: Berlin Vienna Hybrid Variation, 4...Bb4",
+          "eco": "C28",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Bb4 5.f4 Bxc3+"
+        }
+      ]
+    },
+    {
+      "name": "Center Game Accepted: Kieseritzky Variation",
+      "variation": null,
+      "eco": "C21",
+      "eco_url": "https://www.chess.com/openings/Center-Game-Accepted-Kieseritzky-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d4 exd4 3.Nf3 Qe7 4.Bc4 Nc6 5.O-O Nf6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185609900104",
+          "url": "https://www.chess.com/game/live/185609900104",
+          "result": "win",
+          "date": "2026-10-20T10:35:45+11:00"
+        }
+      ],
+      "explanation": "White opens the centre at once with 1.e4 e5 2.d4. After 2\u2026exd4 White often recaptures with the queen (or plays c3 as a Danish-style gambit). Early queen moves mean Black can gain time by attacking her while developing.",
+      "variations": [
+        {
+          "name": "Center Game Accepted: Kieseritzky Variation",
+          "eco": "C21",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.d4 exd4 3.Nf3 Qe7 4.Bc4 Nc6 5.O-O Nf6"
+        }
+      ]
+    },
+    {
+      "name": "English Opening: King's English Queen Variation",
+      "variation": null,
+      "eco": "A20",
+      "eco_url": "https://www.chess.com/openings/English-Opening-Kings-English-Queen-Variation",
+      "colour": "black",
+      "moves": "1.c4 e5 2.Qa4 Nf6 3.Qc2 Nc6 4.b3 Bc5 5.a3 a5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185850798552",
+          "url": "https://www.chess.com/game/live/185850798552",
+          "result": "loss",
+          "date": "2026-10-24T18:33:53+11:00"
+        }
+      ],
+      "explanation": "White starts with 1.c4, controlling d5 from the flank. It can look like a reversed Sicilian if Black plays \u2026e5, or transpose into a Queen's Gambit if both sides later play d4/d5. Play is usually positional, but it opens up once the centre pawns are exchanged.",
+      "variations": [
+        {
+          "name": "English Opening: King's English Queen Variation",
+          "eco": "A20",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.c4 e5 2.Qa4 Nf6 3.Qc2 Nc6 4.b3 Bc5 5.a3 a5"
+        }
+      ]
+    },
+    {
+      "name": "English Opening: Reversed Sicilian Closed",
+      "variation": null,
+      "eco": "A25",
+      "eco_url": "https://www.chess.com/openings/English-Opening-Reversed-Sicilian-Closed",
+      "colour": "black",
+      "moves": "1.c4 Nc6 2.Nc3 e5 3.e4 Bb4 4.d3 Bxc3+ 5.bxc3 Nf6",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186084480296",
+          "url": "https://www.chess.com/game/live/186084480296",
+          "result": "win",
+          "date": "2026-10-28T20:15:29+11:00"
+        }
+      ],
+      "explanation": "White starts with 1.c4, controlling d5 from the flank. It can look like a reversed Sicilian if Black plays \u2026e5, or transpose into a Queen's Gambit if both sides later play d4/d5. Play is usually positional, but it opens up once the centre pawns are exchanged.",
+      "variations": [
+        {
+          "name": "English Opening: Reversed Sicilian Closed",
+          "eco": "A25",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.c4 Nc6 2.Nc3 e5 3.e4 Bb4 4.d3 Bxc3+ 5.bxc3 Nf6"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game: Scotch Variation",
+      "variation": "Four Knights Game: Scotch Variation, 4...Bb4",
+      "eco": "C47",
+      "eco_url": "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation-4...Bb4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 Bb4 5.dxe5 Bxc3+",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185135748548",
+          "url": "https://www.chess.com/game/live/185135748548",
+          "result": "win",
+          "date": "2026-10-11T11:26:09+11:00"
+        }
+      ],
+      "explanation": "White punches the centre with d4 in a Four Knights, the same idea as the Scotch Game. Pieces come off, the position opens, and accuracy with the queen and knights matters once the d-file opens.",
+      "variations": [
+        {
+          "name": "Four Knights Game: Scotch Variation, 4...Bb4",
+          "eco": "C47",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 Bb4 5.dxe5 Bxc3+"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game: Spanish Variation, Ranken Variation",
+      "variation": null,
+      "eco": "C48",
+      "eco_url": "https://www.chess.com/openings/Four-Knights-Game-Spanish-Variation-Ranken-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 a6 5.Bxc6 dxc6",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186556463530",
+          "url": "https://www.chess.com/game/live/186556463530",
+          "result": "loss",
+          "date": "2026-11-05T10:41:52+11:00"
+        }
+      ],
+      "explanation": "A Four Knights where White pins the knight with Bb5, in the style of a Ruy Lopez. Exchanges on c6 can double Black's c-pawns; Black needs to finish development and not go pawn-grabbing with the queen while the king is still in the centre.",
+      "variations": [
+        {
+          "name": "Four Knights Game: Spanish Variation, Ranken Variation",
+          "eco": "C48",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 a6 5.Bxc6 dxc6"
+        }
+      ]
+    },
+    {
+      "name": "French Defense: King's Indian Attack",
+      "variation": null,
+      "eco": "C00",
+      "eco_url": "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack",
+      "colour": "black",
+      "moves": "1.e4 e6 2.d3 Nc6 3.Nc3 Nf6 4.Bd2 d5 5.Qf3 dxe4",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186200550856",
+          "url": "https://www.chess.com/game/live/186200550856",
+          "result": "win",
+          "date": "2026-10-30T17:26:05+11:00"
+        }
+      ],
+      "explanation": "White meets the French with a King's Indian Attack setup (d3, Nd2, g3, Bg2, O-O, then e4 or a kingside pawn storm). The same plan as the KIA against other defences: safe king, then throw pawns at Black's king.",
+      "variations": [
+        {
+          "name": "French Defense: King's Indian Attack",
+          "eco": "C00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e6 2.d3 Nc6 3.Nc3 Nf6 4.Bd2 d5 5.Qf3 dxe4"
+        }
+      ]
+    },
+    {
+      "name": "Giuoco Piano",
+      "variation": "Giuoco Piano: 4.O O Nf6",
+      "eco": "C50",
+      "eco_url": "https://www.chess.com/openings/Giuoco-Piano-Game-4.O-O-Nf6",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.Ng5 d5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186083702784",
+          "url": "https://www.chess.com/game/live/186083702784",
+          "result": "win",
+          "date": "2026-10-28T19:55:00+11:00"
+        }
+      ],
+      "explanation": "The 'Quiet Game': an Italian where Black plays 3\u2026Bc5 and both sides develop calmly (often 4.c3 or 4.O-O and d3). Don't be fooled by the name \u2014 one loose move around f2/f7 or a hanging piece and it stops being quiet.",
+      "variations": [
+        {
+          "name": "Giuoco Piano: 4.O O Nf6",
+          "eco": "C50",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.Ng5 d5"
+        }
+      ]
+    },
+    {
+      "name": "Indian Game: Knights Variation",
+      "variation": "Indian Game: Knights Variation, 2...e6 3.g3 d5 4.Bg2",
+      "eco": "A46",
+      "eco_url": "https://www.chess.com/openings/Indian-Game-Knights-Variation-2...e6-3.g3-d5-4.Bg2",
+      "colour": "black",
+      "moves": "1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Bd7 5.O-O Bb5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185740745596",
+          "url": "https://www.chess.com/game/live/185740745596",
+          "result": "loss",
+          "date": "2026-10-22T20:47:03+11:00"
+        }
+      ],
+      "explanation": "White develops Nf3 against 1\u2026Nf6, keeping the centre flexible. It can become a King's Indian, a Torre Attack, or a queen's-pawn system. Both sides are still choosing a structure in the first few moves.",
+      "variations": [
+        {
+          "name": "Indian Game: Knights Variation, 2...e6 3.g3 d5 4.Bg2",
+          "eco": "A46",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Bd7 5.O-O Bb5"
+        }
+      ]
+    },
+    {
+      "name": "Italian Game: Two Knights, Modern Bishop's Opening",
+      "variation": null,
+      "eco": "C55",
+      "eco_url": "https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.d3 d6 5.c3 Bg4",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185199618698",
+          "url": "https://www.chess.com/game/live/185199618698",
+          "result": "win",
+          "date": "2026-10-12T19:48:50+11:00"
+        }
+      ],
+      "explanation": "A Two Knights line where White plays a quieter bishop/d3 setup instead of the immediate Ng5 raid. Both sides develop, castle, and the fight usually turns on d4 or a later kingside pawn storm.",
+      "variations": [
+        {
+          "name": "Italian Game: Two Knights, Modern Bishop's Opening",
+          "eco": "C55",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.d3 d6 5.c3 Bg4"
+        }
+      ]
+    },
+    {
+      "name": "King's Pawn Opening: King's Knight Elephant Gambit",
+      "variation": "King's Pawn Opening: King's Knight Elephant Gambit, 3.Nxe5 Bd6 4.d4 dxe4",
+      "eco": "C40",
+      "eco_url": "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Elephant-Gambit-3.Nxe5-Bd6-4.d4-dxe4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d4 d5 3.Nf3 dxe4 4.Nxe5 Bd6 5.Nc4 c5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185135967318",
+          "url": "https://www.chess.com/game/live/185135967318",
+          "result": "win",
+          "date": "2026-10-11T11:35:27+11:00"
+        }
+      ],
+      "explanation": "White opened 1.e4 and Black answered 1\u2026e5, but the game left the main named highways (Italian, Ruy Lopez, Scotch) early \u2014 for example an unusual second move like 2.Qh5, 2.Qg4 or 2.d3. The same rules still apply: develop, castle, and do not leave f2/f7 only guarded by the king.",
+      "variations": [
+        {
+          "name": "King's Pawn Opening: King's Knight Elephant Gambit, 3.Nxe5 Bd6 4.d4 dxe4",
+          "eco": "C40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.d4 d5 3.Nf3 dxe4 4.Nxe5 Bd6 5.Nc4 c5"
+        }
+      ]
+    },
+    {
+      "name": "King's Pawn Opening: King's Knight Variation",
+      "variation": null,
+      "eco": "C40",
+      "eco_url": "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 d5 3.exd5 Bc5 4.c4 c6 5.Nc3 cxd5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "185135688466",
+          "url": "https://www.chess.com/game/live/185135688466",
+          "result": "win",
+          "date": "2026-10-11T11:23:36+11:00"
+        }
+      ],
+      "explanation": "The most common king's pawn start: 1.e4 e5 2.Nf3, attacking e5. From here the game can become an Italian, a Ruy Lopez, a Scotch or a Petrov depending on what both sides play next.",
+      "variations": [
+        {
+          "name": "King's Pawn Opening: King's Knight Variation",
+          "eco": "C40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nf3 d5 3.exd5 Bc5 4.c4 c6 5.Nc3 cxd5"
+        }
+      ]
+    },
+    {
+      "name": "Petrov's Defense",
+      "variation": "Petrov's Defense: 3.d3 Nc6 4.Be2",
+      "eco": "C42",
+      "eco_url": "https://www.chess.com/openings/Petrovs-Defense-3.d3-Nc6-4.Be2",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.d3 e5 3.Nf3 Nf6 4.Be2 Qe7 5.O-O Qc5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185807427950",
+          "url": "https://www.chess.com/game/live/185807427950",
+          "result": "loss",
+          "date": "2026-10-24T00:10:04+11:00"
+        }
+      ],
+      "explanation": "Also called the Russian Game: 1.e4 e5 2.Nf3 Nf6, counter-attacking e4 instead of defending e5 with \u2026Nc6. It is solid and can become symmetrical. If White takes on e5, Black usually recovers the pawn after \u2026d6. Don't rush into tactics before the king is safe.",
+      "variations": [
+        {
+          "name": "Petrov's Defense: 3.d3 Nc6 4.Be2",
+          "eco": "C42",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 Nc6 2.d3 e5 3.Nf3 Nf6 4.Be2 Qe7 5.O-O Qc5"
+        }
+      ]
+    },
+    {
+      "name": "Petrov's Defense: Steinitz Attack Symmetrical Center Variation, Murey Variation",
+      "variation": "Petrov's Defense: Steinitz Attack Symmetrical Center Variation, Murey Variation, 5.dxe5",
+      "eco": "C43",
+      "eco_url": "https://www.chess.com/openings/Petrovs-Defense-Steinitz-Attack-Symmetrical-Center-Variation-Murey-Variation-5.dxe5",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.dxe5 Nxe4 5.Bd3 f5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186272180088",
+          "url": "https://www.chess.com/game/live/186272180088",
+          "result": "loss",
+          "date": "2026-10-31T21:44:34+11:00"
+        }
+      ],
+      "explanation": "Also called the Russian Game: 1.e4 e5 2.Nf3 Nf6, counter-attacking e4 instead of defending e5 with \u2026Nc6. It is solid and can become symmetrical. If White takes on e5, Black usually recovers the pawn after \u2026d6. Don't rush into tactics before the king is safe.",
+      "variations": [
+        {
+          "name": "Petrov's Defense: Steinitz Attack Symmetrical Center Variation, Murey Variation, 5.dxe5",
+          "eco": "C43",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.dxe5 Nxe4 5.Bd3 f5"
+        }
+      ]
+    },
+    {
+      "name": "Ponziani Opening: Jaenisch Counterattack",
+      "variation": "Ponziani Opening: Jaenisch Counterattack, 4.d4 exd4",
+      "eco": "C44",
+      "eco_url": "https://www.chess.com/openings/Ponziani-Opening-Jaenisch-Counterattack-4.d4-exd4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.d4 Nc6 3.c3 exd4 4.Nf3 Nf6 5.Bc4 dxc3",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186384254362",
+          "url": "https://www.chess.com/game/live/186384254362",
+          "result": "win",
+          "date": "2026-11-02T19:12:10+11:00"
+        }
+      ],
+      "explanation": "White plays 1.e4 e5 2.Nf3 Nc6 3.c3, preparing d4. The idea is a strong pawn centre, but c3 takes the best square from the queen's knight. Black can challenge it immediately with \u2026Nf6 or \u2026d5.",
+      "variations": [
+        {
+          "name": "Ponziani Opening: Jaenisch Counterattack, 4.d4 exd4",
+          "eco": "C44",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.d4 Nc6 3.c3 exd4 4.Nf3 Nf6 5.Bc4 dxc3"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Accepted",
+      "variation": "Queen's Gambit Accepted: 3.Nc3",
+      "eco": "D20",
+      "eco_url": "https://www.chess.com/openings/Queens-Gambit-Accepted-3.Nc3",
+      "colour": "black",
+      "moves": "1.d4 d5 2.c4 dxc4 3.Nc3 c5 4.e3 cxd4 5.Nf3 dxc3",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186144555022",
+          "url": "https://www.chess.com/game/live/186144555022",
+          "result": "loss",
+          "date": "2026-10-29T20:06:25+11:00"
+        }
+      ],
+      "explanation": "Black takes the c4 pawn after 1.d4 d5 2.c4. White usually gets the pawn back and a strong centre with e3 or e4; Black uses the temporary extra pawn to develop freely and later challenge the centre with \u2026c5 or \u2026e5.",
+      "variations": [
+        {
+          "name": "Queen's Gambit Accepted: 3.Nc3",
+          "eco": "D20",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.d4 d5 2.c4 dxc4 3.Nc3 c5 4.e3 cxd4 5.Nf3 dxc3"
+        }
+      ]
+    },
+    {
+      "name": "Ruy Lopez Opening: Morphy Defense, Caro-Norwegian Variation",
+      "variation": null,
+      "eco": "C70",
+      "eco_url": "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Caro-Norwegian-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185614566672",
+          "url": "https://www.chess.com/game/live/185614566672",
+          "result": "loss",
+          "date": "2026-10-20T13:33:29+11:00"
+        }
+      ],
+      "explanation": "Black kicks the bishop with 3\u2026a6 in the Ruy Lopez. If White takes on c6 (Exchange Variation) Black gets the bishop pair and doubled c-pawns; if the bishop drops back to a4, the usual Spanish manoeuvring game begins.",
+      "variations": [
+        {
+          "name": "Ruy Lopez Opening: Morphy Defense, Caro-Norwegian Variation",
+          "eco": "C70",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5"
+        }
+      ]
+    },
+    {
+      "name": "Ruy Lopez Opening: Morphy Defense, Exchange Variation",
+      "variation": "Ruy Lopez Opening: Morphy Defense, Exchange Variation, 4...dxc6",
+      "eco": "C68",
+      "eco_url": "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nxe5 Qd4",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "186084645170",
+          "url": "https://www.chess.com/game/live/186084645170",
+          "result": "win",
+          "date": "2026-10-28T20:19:41+11:00"
+        }
+      ],
+      "explanation": "White captures on c6 in the Ruy Lopez after 3\u2026a6. Black's pawn structure is damaged but Black keeps two bishops. The game often revolves around whether White can exploit the doubled pawns before those bishops become strong.",
+      "variations": [
+        {
+          "name": "Ruy Lopez Opening: Morphy Defense, Exchange Variation, 4...dxc6",
+          "eco": "C68",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nxe5 Qd4"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening",
+      "colour": "black",
+      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "185135769944",
+          "url": "https://www.chess.com/game/live/185135769944",
+          "result": "loss",
+          "date": "2026-10-11T11:27:03+11:00"
+        }
+      ],
+      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening",
+          "eco": "A04",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4"
+        }
+      ]
+    },
+    {
+      "name": "Scotch Game: Schmidt Variation",
+      "variation": null,
+      "eco": "C45",
+      "eco_url": "https://www.chess.com/openings/Scotch-Game-Schmidt-Variation",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Bg5 h6",
+      "games": 1,
+      "win": 0,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "186558249172",
+          "url": "https://www.chess.com/game/live/186558249172",
+          "result": "loss",
+          "date": "2026-11-05T11:36:37+11:00"
+        }
+      ],
+      "explanation": "The Scotch is 1.e4 e5 2.Nf3 Nc6 3.d4. White opens the centre immediately. After 3\u2026exd4 4.Nxd4 the position is open and both sides' pieces get active early. Black can trade on d4 or keep the knight and play \u2026Nf6 / \u2026Bc5.",
+      "variations": [
+        {
+          "name": "Scotch Game: Schmidt Variation",
+          "eco": "C45",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Bg5 h6"
+        }
+      ]
+    }
+  ]
+}
