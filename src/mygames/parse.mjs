@@ -112,6 +112,15 @@ export function parsePuzzlesDocument(data) {
     if (!COLOURS.has(puzzle.side_to_move)) fail(file, `${at}.side_to_move is invalid.`);
     reqString(file, puzzle.theme, `${at}.theme`);
     reqString(file, puzzle.hint, `${at}.hint`);
+    if (puzzle.goal != null && (typeof puzzle.goal !== 'string' || puzzle.goal.length === 0)) {
+      fail(file, `${at}.goal is invalid.`);
+    }
+    if (
+      puzzle.mate_in != null &&
+      (typeof puzzle.mate_in !== 'number' || !Number.isInteger(puzzle.mate_in) || puzzle.mate_in < 1)
+    ) {
+      fail(file, `${at}.mate_in is invalid.`);
+    }
     if (!puzzle.played || typeof puzzle.played !== 'object') fail(file, `${at} is missing played.`);
     reqString(file, puzzle.played.uci, `${at}.played.uci`);
     reqString(file, puzzle.played.san, `${at}.played.san`);

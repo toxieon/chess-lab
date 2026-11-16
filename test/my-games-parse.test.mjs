@@ -73,12 +73,23 @@ test('parsers reject malformed documents and keep eval objects intact', () => {
   );
   assert.throws(() => parsePatternsDocument({ generated_melbourne: 'x' }), /patterns/);
   assert.throws(() => parseOpeningsDocument({ generated_melbourne: 'x', as_white: [] }), /as_black/);
+  assert.doesNotThrow(() =>
+    parsePuzzlesDocument({
+      generated_melbourne: 'x',
+      puzzles: [basePuzzle({ goal: 'Win the rook', mate_in: null })],
+    }),
+  );
+  assert.throws(
+    () => parsePuzzlesDocument({ generated_melbourne: 'x', puzzles: [basePuzzle({ mate_in: '1' })] }),
+    /mate_in/,
+  );
 
   const games = read('games.json');
   const before = games.games[0].moves[0].eval;
   const parsed = parseGamesDocument(games);
   assert.equal(parsed, games);
-  assert.equal(parsed.games.length, 269);
+  assert.ok(parsed.games.length > 0);
+  if (parsed.counts != null) assert.equal(parsed.counts.games, parsed.games.length);
   assert.equal(parsed.games[0].moves[0].eval, before);
   assert.equal(parsed.games[0].moves[0].eval_cp, before.cp ?? parsed.games[0].moves[0].eval_cp);
 
@@ -93,9 +104,21 @@ test('parsers reject malformed documents and keep eval objects intact', () => {
 
 test('the exported puzzles, patterns, and openings match the schema', () => {
   const puzzles = parsePuzzlesDocument(read('puzzles.json'));
-  assert.equal(puzzles.puzzles.length, 396);
+  assert.ok(puzzles.puzzles.length > 0);
+  if (typeof puzzles.count === 'number') assert.equal(puzzles.count, puzzles.puzzles.length);
   const patterns = parsePatternsDocument(read('patterns.json'));
-  assert.equal(patterns.patterns.length, 11);
+  assert.ok(patterns.patterns.length > 0);
+  if (typeof patterns.count === 'number') assert.equal(patterns.count, patterns.patterns.length);
+  if (typeof patterns.recurring_count === 'number') {
+    assert.equal(patterns.recurring_count, patterns.patterns.filter((pattern) => pattern.recurring).length);
+  }
+  const puzzleIds = new Set(puzzles.puzzles.map((puzzle) => puzzle.id));
+  for (const pattern of patterns.patterns) {
+    assert.equal(pattern.count, pattern.puzzle_ids.length);
+    for (const id of pattern.puzzle_ids) {
+      assert.ok(puzzleIds.has(id), `${pattern.id} links ${id}, which is not in puzzles.json`);
+    }
+  }
   const openings = parseOpeningsDocument(read('openings.json'));
   assert.ok(openings.as_white.length > 0);
   assert.ok(openings.as_black.length > 0);

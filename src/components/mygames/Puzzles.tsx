@@ -342,7 +342,7 @@ function PuzzleBoard({
         Move {puzzle.source.move_number} vs {puzzle.source.opponent}
         {stored === 'solved' ? ' · Solved' : stored === 'failed' ? ' · Missed' : ''}
       </p>
-      <p className="hint">{puzzle.hint}</p>
+      <p className="hint">{puzzle.goal || puzzle.hint}</p>
       <p className="status">You play {colourLabel(puzzle.side_to_move) as string}</p>
       <div className="board-slot" ref={ref} data-testid="puzzle-board">
         <Chessboard
