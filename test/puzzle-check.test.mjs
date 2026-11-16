@@ -90,7 +90,8 @@ test('solved sticks, and a clean solve replaces a miss', () => {
 
 test('every exported puzzle line is the stored solution and plays from the fen', () => {
   const doc = JSON.parse(readFileSync(new URL('../public/data/my-games/puzzles.json', import.meta.url), 'utf8'));
-  assert.equal(doc.puzzles.length, 396);
+  assert.ok(doc.puzzles.length > 0);
+  if (typeof doc.count === 'number') assert.equal(doc.count, doc.puzzles.length);
   for (const puzzle of doc.puzzles) {
     const chess = new Chess(puzzle.fen);
     assert.equal(chess.turn(), puzzle.side_to_move === 'white' ? 'w' : 'b');

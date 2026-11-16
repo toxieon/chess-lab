@@ -143,9 +143,11 @@ Each puzzle:
 | `loss_cp`, `gap_cp` | int | Why it qualified. |
 | `theme` | string | One of: `hanging-queen`, `mate-in-1`, `missed-mate`, `fork`, `f2/f7-weakness`, `back-rank`, `trapped-piece`, `loose-piece`, `king-safety`, `knight-to-h4`, `missed-tactic`. |
 | `hint` | string | One-line hint for the puzzle UI. It points at the idea, not the exact square. |
+| `goal` | string, optional | Short prompt, such as `Win the rook` or `Mate in 1`. Shown in place of `hint` when present. |
+| `mate_in` | int or null, optional | Moves until mate when the line is a forced mate. Null or absent on material puzzles. |
 | `depth` | int | Stockfish depth used. |
 
-Suggested UI: show the `fen` on a board, his colour to move, the hint, and accept the first UCI/SAN in `solution` as the correct first move. Then auto-play or let him play the rest of `solution`. After a fail, show `played` vs `solution`.
+Suggested UI: show the `fen` on a board, his colour to move, `goal` when it is set and otherwise the hint, and accept the first UCI/SAN in `solution` as the correct first move. Then auto-play or let him play the rest of `solution`. After a fail, show `played` vs `solution`.
 
 ## `patterns.json`
 

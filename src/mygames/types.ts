@@ -101,6 +101,8 @@ export type Puzzle = {
   gap_cp: number;
   theme: string;
   hint: string;
+  goal?: string | null;
+  mate_in?: number | null;
   depth: number;
 };
 
