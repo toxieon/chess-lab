@@ -43,6 +43,13 @@ for (const file of [
   'dist/data/my-games/puzzles.json',
   'dist/data/my-games/patterns.json',
   'dist/data/my-games/openings.json',
+  'dist/favicon.svg',
+  'dist/favicon.ico',
+  'dist/favicon-32x32.png',
+  'dist/apple-touch-icon.png',
+  'dist/icon-192.png',
+  'dist/icon-512.png',
+  'dist/manifest.webmanifest',
 ]) {
   if (!existsSync(file)) {
     console.error(`missing ${file}`);
