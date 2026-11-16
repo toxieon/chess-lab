@@ -1,6 +1,8 @@
 name: Pages
 
 on:
+  # No path filter. A nightly push that only changes public/data/** must
+  # still build and deploy GitHub Pages.
   push:
     branches: [main]
   workflow_dispatch:

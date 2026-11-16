@@ -24,11 +24,29 @@ const assets = 'dist/assets';
 if (existsSync(assets)) {
   for (const name of readdirSync(assets)) {
     if (!name.endsWith('.js')) continue;
-    const text = readFileSync(join(assets, name), 'utf8');
+    const file = join(assets, name);
+    const text = readFileSync(file, 'utf8');
     if (text.includes('Stockfish.js 18')) {
       console.error(`Stockfish was bundled into ${name}`);
       process.exit(1);
     }
+    // games.json is about 12 MB. It must be fetched, not bundled.
+    if (text.length > 1_500_000) {
+      console.error(`${name} is ${text.length} bytes; My Games JSON may have been bundled`);
+      process.exit(1);
+    }
+  }
+}
+
+for (const file of [
+  'dist/data/my-games/games.json',
+  'dist/data/my-games/puzzles.json',
+  'dist/data/my-games/patterns.json',
+  'dist/data/my-games/openings.json',
+]) {
+  if (!existsSync(file)) {
+    console.error(`missing ${file}`);
+    process.exit(1);
   }
 }
 
