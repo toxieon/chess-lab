@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-16T10:33:09+11:00",
+  "generated_melbourne": "2026-11-16T21:04:01+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -177,6 +177,78 @@
       ]
     },
     {
+      "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
+      "variation": null,
+      "eco": "D02",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation",
+      "colour": "white",
+      "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3",
+      "games": 14,
+      "win": 6,
+      "draw": 1,
+      "loss": 7,
+      "score_pct": 46.4,
+      "example_games": [
+        {
+          "id": "187302882340",
+          "url": "https://www.chess.com/game/live/187302882340",
+          "result": "loss",
+          "date": "2026-11-16T13:10:27+11:00"
+        },
+        {
+          "id": "186496623856",
+          "url": "https://www.chess.com/game/live/186496623856",
+          "result": "win",
+          "date": "2026-11-04T12:25:55+11:00"
+        },
+        {
+          "id": "186209041036",
+          "url": "https://www.chess.com/game/live/186209041036",
+          "result": "loss",
+          "date": "2026-10-30T21:11:16+11:00"
+        },
+        {
+          "id": "185851422416",
+          "url": "https://www.chess.com/game/live/185851422416",
+          "result": "draw",
+          "date": "2026-10-24T18:52:00+11:00"
+        }
+      ],
+      "explanation": "This is the Zukertort (1.d4 d5 2.Nf3) meeting the Chigorin idea \u2026Nc6. Black puts pressure on d4 with the knight instead of supporting the centre with \u2026c6 or \u2026e6. The position gets piece-oriented and can turn tactical if the d-pawn is challenged.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
+          "eco": "D02",
+          "games": 12,
+          "win": 6,
+          "draw": 0,
+          "loss": 6,
+          "score_pct": 50.0,
+          "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3 Nf6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Bf5 4.e3",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 1,
+          "loss": 0,
+          "score_pct": 50.0,
+          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Bf5 4.e3 Nf6 5.Bd3 e6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6",
+          "eco": "D02",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Nf6 4.Nc3 e6 5.Qd3 Be7"
+        }
+      ]
+    },
+    {
       "name": "R\u00e9ti Opening",
       "variation": null,
       "eco": "A04",
@@ -225,78 +297,6 @@
           "loss": 8,
           "score_pct": 42.9,
           "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6"
-        }
-      ]
-    },
-    {
-      "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
-      "variation": null,
-      "eco": "D02",
-      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation",
-      "colour": "white",
-      "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3",
-      "games": 13,
-      "win": 6,
-      "draw": 1,
-      "loss": 6,
-      "score_pct": 50.0,
-      "example_games": [
-        {
-          "id": "186496623856",
-          "url": "https://www.chess.com/game/live/186496623856",
-          "result": "win",
-          "date": "2026-11-04T12:25:55+11:00"
-        },
-        {
-          "id": "186209041036",
-          "url": "https://www.chess.com/game/live/186209041036",
-          "result": "loss",
-          "date": "2026-10-30T21:11:16+11:00"
-        },
-        {
-          "id": "186084566030",
-          "url": "https://www.chess.com/game/live/186084566030",
-          "result": "win",
-          "date": "2026-10-28T20:17:40+11:00"
-        },
-        {
-          "id": "185851422416",
-          "url": "https://www.chess.com/game/live/185851422416",
-          "result": "draw",
-          "date": "2026-10-24T18:52:00+11:00"
-        }
-      ],
-      "explanation": "This is the Zukertort (1.d4 d5 2.Nf3) meeting the Chigorin idea \u2026Nc6. Black puts pressure on d4 with the knight instead of supporting the centre with \u2026c6 or \u2026e6. The position gets piece-oriented and can turn tactical if the d-pawn is challenged.",
-      "variations": [
-        {
-          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
-          "eco": "D02",
-          "games": 11,
-          "win": 6,
-          "draw": 0,
-          "loss": 5,
-          "score_pct": 54.5,
-          "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3 Nf6"
-        },
-        {
-          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Bf5 4.e3",
-          "eco": "D02",
-          "games": 1,
-          "win": 0,
-          "draw": 1,
-          "loss": 0,
-          "score_pct": 50.0,
-          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Bf5 4.e3 Nf6 5.Bd3 e6"
-        },
-        {
-          "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6",
-          "eco": "D02",
-          "games": 1,
-          "win": 0,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 0.0,
-          "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Nf6 4.Nc3 e6 5.Qd3 Be7"
         }
       ]
     },
@@ -2429,6 +2429,62 @@
       ]
     },
     {
+      "name": "Vienna Game: Max Lange Defense",
+      "variation": "Vienna Game: Max Lange Defense, 3.Bc4",
+      "eco": "C25",
+      "eco_url": "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense-3.Bc4",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4",
+      "games": 5,
+      "win": 1,
+      "draw": 0,
+      "loss": 4,
+      "score_pct": 20.0,
+      "example_games": [
+        {
+          "id": "187316975928",
+          "url": "https://www.chess.com/game/live/187316975928",
+          "result": "win",
+          "date": "2026-11-16T19:46:40+11:00"
+        },
+        {
+          "id": "186248600204",
+          "url": "https://www.chess.com/game/live/186248600204",
+          "result": "loss",
+          "date": "2026-10-31T09:46:13+11:00"
+        },
+        {
+          "id": "185784594630",
+          "url": "https://www.chess.com/game/live/185784594630",
+          "result": "loss",
+          "date": "2026-10-23T13:46:16+11:00"
+        }
+      ],
+      "explanation": "A Vienna line with \u2026Nc6, sometimes meeting Bc4. Both sides develop toward the centre; watch the typical Italian-style shots on f2 and f7 if a bishop lands on c4 or c5.",
+      "variations": [
+        {
+          "name": "Vienna Game: Max Lange Defense, 3.Bc4",
+          "eco": "C25",
+          "games": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "score_pct": 0.0,
+          "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4"
+        },
+        {
+          "name": "Vienna Game: Max Lange Defense",
+          "eco": "C25",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.Nc3 e5 2.e4 Nc6 3.Bd3 f5 4.exf5 d5 5.Qh5+ g6"
+        }
+      ]
+    },
+    {
       "name": "Englund Gambit",
       "variation": null,
       "eco": "A40",
@@ -2471,6 +2527,52 @@
           "loss": 1,
           "score_pct": 75.0,
           "moves": "1.d4 e5 2.c4 exd4 3.Qxd4 Nc6 4.Qd1 Nf6 5.Nc3 Bb4"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game: Italian Variation",
+      "variation": null,
+      "eco": "C47",
+      "eco_url": "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation",
+      "colour": "black",
+      "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3",
+      "games": 4,
+      "win": 3,
+      "draw": 0,
+      "loss": 1,
+      "score_pct": 75.0,
+      "example_games": [
+        {
+          "id": "187302954184",
+          "url": "https://www.chess.com/game/live/187302954184",
+          "result": "win",
+          "date": "2026-11-16T13:12:37+11:00"
+        },
+        {
+          "id": "185807513398",
+          "url": "https://www.chess.com/game/live/185807513398",
+          "result": "win",
+          "date": "2026-10-24T00:11:42+11:00"
+        },
+        {
+          "id": "185358363030",
+          "url": "https://www.chess.com/game/live/185358363030",
+          "result": "loss",
+          "date": "2026-10-15T20:03:50+11:00"
+        }
+      ],
+      "explanation": "A Four Knights where White posts the bishop on c4 instead of b5. It looks like an Italian with both pairs of knights out. Standard plans: castle, play d3 or d4, and watch f2/f7.",
+      "variations": [
+        {
+          "name": "Four Knights Game: Italian Variation",
+          "eco": "C47",
+          "games": 4,
+          "win": 3,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 75.0,
+          "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3"
         }
       ]
     },
@@ -2589,108 +2691,6 @@
           "loss": 3,
           "score_pct": 25.0,
           "moves": "1.e4 e5 2.d3 Nc6"
-        }
-      ]
-    },
-    {
-      "name": "Vienna Game: Max Lange Defense",
-      "variation": "Vienna Game: Max Lange Defense, 3.Bc4",
-      "eco": "C25",
-      "eco_url": "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense-3.Bc4",
-      "colour": "black",
-      "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4",
-      "games": 4,
-      "win": 0,
-      "draw": 0,
-      "loss": 4,
-      "score_pct": 0.0,
-      "example_games": [
-        {
-          "id": "186248600204",
-          "url": "https://www.chess.com/game/live/186248600204",
-          "result": "loss",
-          "date": "2026-10-31T09:46:13+11:00"
-        },
-        {
-          "id": "185784594630",
-          "url": "https://www.chess.com/game/live/185784594630",
-          "result": "loss",
-          "date": "2026-10-23T13:46:16+11:00"
-        },
-        {
-          "id": "185741003698",
-          "url": "https://www.chess.com/game/live/185741003698",
-          "result": "loss",
-          "date": "2026-10-22T20:53:36+11:00"
-        }
-      ],
-      "explanation": "A Vienna line with \u2026Nc6, sometimes meeting Bc4. Both sides develop toward the centre; watch the typical Italian-style shots on f2 and f7 if a bishop lands on c4 or c5.",
-      "variations": [
-        {
-          "name": "Vienna Game: Max Lange Defense, 3.Bc4",
-          "eco": "C25",
-          "games": 3,
-          "win": 0,
-          "draw": 0,
-          "loss": 3,
-          "score_pct": 0.0,
-          "moves": "1.e4 e5 2.Nc3 Nc6 3.Bc4"
-        },
-        {
-          "name": "Vienna Game: Max Lange Defense",
-          "eco": "C25",
-          "games": 1,
-          "win": 0,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 0.0,
-          "moves": "1.Nc3 e5 2.e4 Nc6 3.Bd3 f5 4.exf5 d5 5.Qh5+ g6"
-        }
-      ]
-    },
-    {
-      "name": "Four Knights Game: Italian Variation",
-      "variation": null,
-      "eco": "C47",
-      "eco_url": "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation",
-      "colour": "black",
-      "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3",
-      "games": 3,
-      "win": 2,
-      "draw": 0,
-      "loss": 1,
-      "score_pct": 66.7,
-      "example_games": [
-        {
-          "id": "185807513398",
-          "url": "https://www.chess.com/game/live/185807513398",
-          "result": "win",
-          "date": "2026-10-24T00:11:42+11:00"
-        },
-        {
-          "id": "185358363030",
-          "url": "https://www.chess.com/game/live/185358363030",
-          "result": "loss",
-          "date": "2026-10-15T20:03:50+11:00"
-        },
-        {
-          "id": "185310754578",
-          "url": "https://www.chess.com/game/live/185310754578",
-          "result": "win",
-          "date": "2026-10-14T22:23:11+11:00"
-        }
-      ],
-      "explanation": "A Four Knights where White posts the bishop on c4 instead of b5. It looks like an Italian with both pairs of knights out. Standard plans: castle, play d3 or d4, and watch f2/f7.",
-      "variations": [
-        {
-          "name": "Four Knights Game: Italian Variation",
-          "eco": "C47",
-          "games": 3,
-          "win": 2,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 66.7,
-          "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3"
         }
       ]
     },
