@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-16T21:04:01+11:00",
+  "generated_melbourne": "2026-11-17T21:03:29+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -9,12 +9,18 @@
       "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6",
       "colour": "white",
       "moves": "1.d4 d5 2.Nf3 e5 3.dxe5 Bg4 4.h3 Bxf3 5.exf3 Nc6",
-      "games": 21,
-      "win": 10,
+      "games": 22,
+      "win": 11,
       "draw": 2,
       "loss": 9,
-      "score_pct": 52.4,
+      "score_pct": 54.5,
       "example_games": [
+        {
+          "id": "187383961270",
+          "url": "https://www.chess.com/game/live/187383961270",
+          "result": "win",
+          "date": "2026-11-17T17:50:21+11:00"
+        },
         {
           "id": "187224384202",
           "url": "https://www.chess.com/game/live/187224384202",
@@ -26,18 +32,6 @@
           "url": "https://www.chess.com/game/live/186562570872",
           "result": "draw",
           "date": "2026-11-05T13:55:14+11:00"
-        },
-        {
-          "id": "186376615940",
-          "url": "https://www.chess.com/game/live/186376615940",
-          "result": "loss",
-          "date": "2026-11-02T15:06:21+11:00"
-        },
-        {
-          "id": "186271978736",
-          "url": "https://www.chess.com/game/live/186271978736",
-          "result": "win",
-          "date": "2026-10-31T21:40:02+11:00"
         }
       ],
       "explanation": "The Zukertort Variation is 1.d4 d5 2.Nf3. White develops the king's knight before deciding on c4, Bf4 or a fianchetto. It avoids some sharp Queen's Gambit lines and can still transpose into a proper Queen's Gambit, a London-style setup, or a Colle. The knight on f3 stops \u2026e5 and keeps the king safe.",
@@ -45,11 +39,11 @@
         {
           "name": "Queen's Pawn Opening: Zukertort Variation, 2...e6",
           "eco": "D02",
-          "games": 9,
-          "win": 5,
+          "games": 10,
+          "win": 6,
           "draw": 0,
           "loss": 4,
-          "score_pct": 55.6,
+          "score_pct": 60.0,
           "moves": "1.d4 d5 2.Nf3 e6 3.Nc3"
         },
         {
@@ -177,6 +171,58 @@
       ]
     },
     {
+      "name": "R\u00e9ti Opening",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening",
+      "colour": "white",
+      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6",
+      "games": 15,
+      "win": 6,
+      "draw": 0,
+      "loss": 9,
+      "score_pct": 40.0,
+      "example_games": [
+        {
+          "id": "187370720858",
+          "url": "https://www.chess.com/game/live/187370720858",
+          "result": "loss",
+          "date": "2026-11-17T11:30:18+11:00"
+        },
+        {
+          "id": "187093895766",
+          "url": "https://www.chess.com/game/live/187093895766",
+          "result": "loss",
+          "date": "2026-11-13T13:03:07+11:00"
+        },
+        {
+          "id": "186700782022",
+          "url": "https://www.chess.com/game/live/186700782022",
+          "result": "loss",
+          "date": "2026-11-07T17:58:30+11:00"
+        },
+        {
+          "id": "186562501334",
+          "url": "https://www.chess.com/game/live/186562501334",
+          "result": "win",
+          "date": "2026-11-05T13:53:00+11:00"
+        }
+      ],
+      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening",
+          "eco": "A04",
+          "games": 15,
+          "win": 6,
+          "draw": 0,
+          "loss": 9,
+          "score_pct": 40.0,
+          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6"
+        }
+      ]
+    },
+    {
       "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
       "variation": null,
       "eco": "D02",
@@ -245,58 +291,6 @@
           "loss": 1,
           "score_pct": 0.0,
           "moves": "1.Nf3 d5 2.d4 Nc6 3.Bf4 Nf6 4.Nc3 e6 5.Qd3 Be7"
-        }
-      ]
-    },
-    {
-      "name": "R\u00e9ti Opening",
-      "variation": null,
-      "eco": "A04",
-      "eco_url": "https://www.chess.com/openings/Reti-Opening",
-      "colour": "white",
-      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6",
-      "games": 14,
-      "win": 6,
-      "draw": 0,
-      "loss": 8,
-      "score_pct": 42.9,
-      "example_games": [
-        {
-          "id": "187093895766",
-          "url": "https://www.chess.com/game/live/187093895766",
-          "result": "loss",
-          "date": "2026-11-13T13:03:07+11:00"
-        },
-        {
-          "id": "186700782022",
-          "url": "https://www.chess.com/game/live/186700782022",
-          "result": "loss",
-          "date": "2026-11-07T17:58:30+11:00"
-        },
-        {
-          "id": "186582905810",
-          "url": "https://www.chess.com/game/live/186582905810",
-          "result": "loss",
-          "date": "2026-11-05T23:02:52+11:00"
-        },
-        {
-          "id": "186562501334",
-          "url": "https://www.chess.com/game/live/186562501334",
-          "result": "win",
-          "date": "2026-11-05T13:53:00+11:00"
-        }
-      ],
-      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
-      "variations": [
-        {
-          "name": "R\u00e9ti Opening",
-          "eco": "A04",
-          "games": 14,
-          "win": 6,
-          "draw": 0,
-          "loss": 8,
-          "score_pct": 42.9,
-          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6"
         }
       ]
     },
@@ -1803,12 +1797,18 @@
       "eco_url": "https://www.chess.com/openings/Italian-Game",
       "colour": "black",
       "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Qe7",
-      "games": 10,
-      "win": 3,
+      "games": 11,
+      "win": 4,
       "draw": 0,
       "loss": 7,
-      "score_pct": 30.0,
+      "score_pct": 36.4,
       "example_games": [
+        {
+          "id": "187383829086",
+          "url": "https://www.chess.com/game/live/187383829086",
+          "result": "win",
+          "date": "2026-11-17T17:46:56+11:00"
+        },
         {
           "id": "187224014984",
           "url": "https://www.chess.com/game/live/187224014984",
@@ -1820,12 +1820,6 @@
           "url": "https://www.chess.com/game/live/187105223886",
           "result": "win",
           "date": "2026-11-13T18:30:22+11:00"
-        },
-        {
-          "id": "186716055478",
-          "url": "https://www.chess.com/game/live/186716055478",
-          "result": "win",
-          "date": "2026-11-07T23:48:08+11:00"
         }
       ],
       "explanation": "The Italian Game starts 1.e4 e5 2.Nf3 Nc6 3.Bc4. White eyes the weak f7 pawn and develops quickly, ready to castle. Black can answer with the solid 3\u2026Bc5 (Giuoco Piano), the fighting 3\u2026Nf6 (Two Knights Defense), or slower moves like \u2026Be7 or \u2026d6. The opening is classical: pieces out, king safe, then fight in the centre.",
@@ -1833,11 +1827,11 @@
         {
           "name": "Italian Game",
           "eco": "C50",
-          "games": 9,
-          "win": 3,
+          "games": 10,
+          "win": 4,
           "draw": 0,
           "loss": 6,
-          "score_pct": 33.3,
+          "score_pct": 40.0,
           "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Qe7"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-16T21:04:01+11:00",
+  "generated_melbourne": "2026-11-17T21:03:29+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 174,
+  "count": 178,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -7697,6 +7697,182 @@
       "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
       "goal": "Win the queen",
       "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187383829086-8",
+      "source": {
+        "game_id": "187383829086",
+        "url": "https://www.chess.com/game/live/187383829086",
+        "move_number": 4,
+        "ply": 8,
+        "colour": "black",
+        "opponent": "RATA_LADRONA_155",
+        "date": "2026-11-17T17:46:56+11:00"
+      },
+      "fen": "r1bqkbnr/1ppp1ppp/p1n5/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 1 4",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nh6",
+        "uci": "g8h6"
+      },
+      "solution": {
+        "san": [
+          "Qxg5"
+        ],
+        "uci": [
+          "d8g5"
+        ]
+      },
+      "eval_before": {
+        "cp": 388
+      },
+      "eval_after": {
+        "cp": -37
+      },
+      "eval_best": {
+        "cp": 388
+      },
+      "loss_cp": 425,
+      "gap_cp": 192,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187383829086-30",
+      "source": {
+        "game_id": "187383829086",
+        "url": "https://www.chess.com/game/live/187383829086",
+        "move_number": 15,
+        "ply": 30,
+        "colour": "black",
+        "opponent": "RATA_LADRONA_155",
+        "date": "2026-11-17T17:46:56+11:00"
+      },
+      "fen": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/2KP2n1/PPP2q1P/RN1Q3R b k - 5 15",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nxh1",
+        "uci": "g3h1"
+      },
+      "solution": {
+        "san": [
+          "b4+",
+          "Kc4",
+          "Qc5#"
+        ],
+        "uci": [
+          "b5b4",
+          "c3c4",
+          "f2c5"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "cp": 709
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 791,
+      "gap_cp": 0,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187383829086-32",
+      "source": {
+        "game_id": "187383829086",
+        "url": "https://www.chess.com/game/live/187383829086",
+        "move_number": 16,
+        "ply": 32,
+        "colour": "black",
+        "opponent": "RATA_LADRONA_155",
+        "date": "2026-11-17T17:46:56+11:00"
+      },
+      "fen": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/2KP4/PPP2q1P/RN5Q b k - 0 16",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qc5+",
+        "uci": "f2c5"
+      },
+      "solution": {
+        "san": [
+          "b4+",
+          "Kc4",
+          "Qc5#"
+        ],
+        "uci": [
+          "b5b4",
+          "c3c4",
+          "f2c5"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "cp": 829
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 671,
+      "gap_cp": 543,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187383961270-35",
+      "source": {
+        "game_id": "187383961270",
+        "url": "https://www.chess.com/game/live/187383961270",
+        "move_number": 18,
+        "ply": 35,
+        "colour": "white",
+        "opponent": "Ivimin",
+        "date": "2026-11-17T17:50:21+11:00"
+      },
+      "fen": "r4rk1/1b1n4/1p3pPQ/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 1 18",
+      "side_to_move": "white",
+      "played": {
+        "san": "g7",
+        "uci": "g6g7"
+      },
+      "solution": {
+        "san": [
+          "Qh7#"
+        ],
+        "uci": [
+          "h6h7"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "cp": 912
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 588,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1 on the back rank",
+      "mate_in": 1,
       "depth": 16
     }
   ]
