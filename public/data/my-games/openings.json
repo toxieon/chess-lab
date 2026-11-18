@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-17T21:03:29+11:00",
+  "generated_melbourne": "2026-11-18T21:04:27+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -9,12 +9,18 @@
       "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6",
       "colour": "white",
       "moves": "1.d4 d5 2.Nf3 e5 3.dxe5 Bg4 4.h3 Bxf3 5.exf3 Nc6",
-      "games": 22,
-      "win": 11,
+      "games": 23,
+      "win": 12,
       "draw": 2,
       "loss": 9,
-      "score_pct": 54.5,
+      "score_pct": 56.5,
       "example_games": [
+        {
+          "id": "187437974520",
+          "url": "https://www.chess.com/game/live/187437974520",
+          "result": "win",
+          "date": "2026-11-18T09:25:49+11:00"
+        },
         {
           "id": "187383961270",
           "url": "https://www.chess.com/game/live/187383961270",
@@ -85,6 +91,16 @@
           "loss": 0,
           "score_pct": 50.0,
           "moves": "1.Nf3 d5 2.d4 Bf5 3.Nc3 Nc6 4.h3 Nb4 5.g4 Bg6"
+        },
+        {
+          "name": "Queen's Pawn Opening: Zukertort Variation, 2...e6 3.Bf4 Nf6",
+          "eco": "D02",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 d5 2.d4 e6 3.Bf4 Nf6 4.Nc3 Be7 5.Qd3 O-O"
         }
       ]
     },

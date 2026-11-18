@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-17T21:03:29+11:00",
+  "generated_melbourne": "2026-11-18T21:04:27+11:00",
   "player": "brandonneillthegreat",
   "player_url": "https://www.chess.com/member/brandonneillthegreat",
   "months": [
@@ -13,7 +13,7 @@
     "notes": "Per-position analysis at depth 16. MultiPV=3 on the player's turns, MultiPV=1 otherwise. Evals and PVs are engine output only. Terminal checkmates/draws use the rules of chess."
   },
   "counts": {
-    "games": 275,
+    "games": 276,
     "puzzles": 178,
     "patterns": 10
   },
@@ -395830,9 +395830,9 @@
           "fen_before": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
           "fen_after": "rnbqkbnr/ppppppp1/8/7p/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
           "eval": {
-            "cp": 117
+            "cp": 111
           },
-          "eval_cp": 117,
+          "eval_cp": 111,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -395876,9 +395876,9 @@
           "fen_before": "rnbqkbnr/ppppppp1/8/7p/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2",
           "fen_after": "rnbqkbnr/ppppppp1/8/8/3P3p/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
           "eval": {
-            "cp": 156
+            "cp": 149
           },
-          "eval_cp": 156,
+          "eval_cp": 149,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -395922,9 +395922,9 @@
           "fen_before": "rnbqkbnr/ppppppp1/8/8/3P3p/5N1P/PPP1PPP1/RNBQKB1R b KQkq - 0 3",
           "fen_after": "rnbqkbnr/ppp1ppp1/8/3p4/3P3p/5N1P/PPP1PPP1/RNBQKB1R w KQkq - 0 4",
           "eval": {
-            "cp": 140
+            "cp": 148
           },
-          "eval_cp": 140,
+          "eval_cp": 148,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -395968,9 +395968,9 @@
           "fen_before": "rnbqkbnr/ppp1ppp1/8/3p4/3P3p/2N2N1P/PPP1PPP1/R1BQKB1R b KQkq - 1 4",
           "fen_after": "rnbqkb1r/ppp1ppp1/5n2/3p4/3P3p/2N2N1P/PPP1PPP1/R1BQKB1R w KQkq - 2 5",
           "eval": {
-            "cp": 85
+            "cp": 83
           },
-          "eval_cp": 85,
+          "eval_cp": 83,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396060,9 +396060,9 @@
           "fen_before": "r1bqkb1r/ppp1ppp1/2n2n2/3p4/3P3p/2NQ1N1P/PPPBPPP1/R3KB1R b KQkq - 5 6",
           "fen_after": "r1bqkb1r/1pp1ppp1/2n2n2/p2p4/3P3p/2NQ1N1P/PPPBPPP1/R3KB1R w KQkq - 0 7",
           "eval": {
-            "cp": 72
+            "cp": 75
           },
-          "eval_cp": 72,
+          "eval_cp": 75,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396106,9 +396106,9 @@
           "fen_before": "r1bqkb1r/1pp1ppp1/2n2n2/p2p4/3P3p/2NQ1N1P/PPPBPPP1/2KR1B1R b kq - 1 7",
           "fen_after": "r1bqkb1r/1pp1ppp1/2n2n2/3p4/p2P3p/2NQ1N1P/PPPBPPP1/2KR1B1R w kq - 0 8",
           "eval": {
-            "cp": 114
+            "cp": 88
           },
-          "eval_cp": 114,
+          "eval_cp": 88,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396152,9 +396152,9 @@
           "fen_before": "r1bqkb1r/1pp1ppp1/2n2n2/3p4/p2P3p/P1NQ1N1P/1PPBPPP1/2KR1B1R b kq - 0 8",
           "fen_after": "r1bqkb1r/1pp2pp1/2n2n2/3pp3/p2P3p/P1NQ1N1P/1PPBPPP1/2KR1B1R w kq - 0 9",
           "eval": {
-            "cp": 356
+            "cp": 341
           },
-          "eval_cp": 356,
+          "eval_cp": 341,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396402,9 +396402,9 @@
           "fen_before": "r1bqkbnr/1ppp1ppp/p1n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
           "fen_after": "r1bqkbnr/1ppp1ppp/p1n5/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 1 4",
           "eval": {
-            "cp": 383
+            "cp": 388
           },
-          "eval_cp": 383,
+          "eval_cp": 388,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396448,9 +396448,9 @@
           "fen_before": "r1bqkb1r/1ppp1ppp/p1n4n/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 2 5",
           "fen_after": "r1bqkb1r/1ppp1ppp/p1n4n/4p1N1/2B1P3/3P4/PPP2PPP/RNBQK2R b KQkq - 0 5",
           "eval": {
-            "cp": -21
+            "cp": -20
           },
-          "eval_cp": -21,
+          "eval_cp": -20,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396540,9 +396540,9 @@
           "fen_before": "r1bqkb1r/2pp1ppp/2n4n/pp2p1N1/4P3/1B1P4/PPP2PPP/RNBQK2R w KQkq - 0 7",
           "fen_after": "r1bqkb1r/2pp1ppp/2n4n/pp2p3/4P3/1B1P1N2/PPP2PPP/RNBQK2R b KQkq - 1 7",
           "eval": {
-            "cp": -94
+            "cp": -93
           },
-          "eval_cp": -94,
+          "eval_cp": -93,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396586,9 +396586,9 @@
           "fen_before": "r1bqkb1r/2pp1ppp/2n4n/1p2p3/p3P3/1B1P1N2/PPP2PPP/RNBQK2R w KQkq - 0 8",
           "fen_after": "r1bqkb1r/2pp1ppp/2n4B/1p2p3/p3P3/1B1P1N2/PPP2PPP/RN1QK2R b KQkq - 0 8",
           "eval": {
-            "cp": 114
+            "cp": 115
           },
-          "eval_cp": 114,
+          "eval_cp": 115,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396632,9 +396632,9 @@
           "fen_before": "r1bqkb1r/2pp1p1p/2n4p/1p2p3/p3P3/1B1P1N2/PPP2PPP/RN1QK2R w KQkq - 0 9",
           "fen_after": "r1bqkb1r/2pp1p1p/2n4p/1p1Bp3/p3P3/3P1N2/PPP2PPP/RN1QK2R b KQkq - 1 9",
           "eval": {
-            "cp": -41
+            "cp": -40
           },
-          "eval_cp": -41,
+          "eval_cp": -40,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396678,9 +396678,9 @@
           "fen_before": "r1bqkb1r/2pp1p1p/7p/1p1Bp3/p2nP3/3P1N2/PPP2PPP/RN1QK2R w KQkq - 2 10",
           "fen_after": "r1bqkb1r/2pp1p1p/7p/1p1Bp1N1/p2nP3/3P4/PPP2PPP/RN1QK2R b KQkq - 3 10",
           "eval": {
-            "cp": 470
+            "cp": 493
           },
-          "eval_cp": 470,
+          "eval_cp": 493,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396724,9 +396724,9 @@
           "fen_before": "r1b1kb1r/2pp1p1p/7p/1p1Bp1q1/p2nP3/3P4/PPP2PPP/RN1QK2R w KQkq - 0 11",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p1q1/p2nP3/3P4/PPP2PPP/RN1QK2R b KQk - 0 11",
           "eval": {
-            "cp": 521
+            "cp": 533
           },
-          "eval_cp": 521,
+          "eval_cp": 533,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396770,9 +396770,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/p2nP3/3P4/PPP2PqP/RN1QK2R w KQk - 0 12",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p3/p2nP3/3P4/PPPK1PqP/RN1Q3R b k - 1 12",
           "eval": {
-            "cp": 705
+            "cp": 692
           },
-          "eval_cp": 705,
+          "eval_cp": 692,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396816,9 +396816,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/p2nP3/3P4/PPPK1q1P/RN1Q3R w k - 0 13",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p3/p2nP3/2KP4/PPP2q1P/RN1Q3R b k - 1 13",
           "eval": {
-            "mate": 5
+            "mate": 3
           },
-          "eval_cp": 9995,
+          "eval_cp": 9997,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -396862,9 +396862,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/2KP4/PPP1nq1P/RN1Q3R w k - 2 14",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/3P4/PPPKnq1P/RN1Q3R b k - 3 14",
           "eval": {
-            "cp": 1133
+            "mate": 12
           },
-          "eval_cp": 1133,
+          "eval_cp": 9988,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397000,9 +397000,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1pq1p3/p3P3/2KP4/PPP4P/RN5Q w k - 1 17",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1pq1p3/p3P3/3P4/PPPK3P/RN5Q b k - 2 17",
           "eval": {
-            "cp": 836
+            "cp": 837
           },
-          "eval_cp": 836,
+          "eval_cp": 837,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397046,9 +397046,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/pq2P3/3P4/PPPK3P/RN5Q w k - 3 18",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p3/pq2P3/2NP4/PPPK3P/R6Q b k - 4 18",
           "eval": {
-            "cp": 384
+            "cp": 405
           },
-          "eval_cp": 384,
+          "eval_cp": 405,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397092,9 +397092,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/2NP4/PqPK3P/R6Q w k - 0 19",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/2NP4/PqPK3P/1R5Q b k - 1 19",
           "eval": {
-            "cp": 321
+            "cp": 334
           },
-          "eval_cp": 321,
+          "eval_cp": 334,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397138,9 +397138,9 @@
           "fen_before": "B1b1kb1r/2pp1p1p/7p/1p2p3/p3P3/q1NP4/P1PK3P/1R5Q w k - 2 20",
           "fen_after": "B1b1kb1r/2pp1p1p/7p/1R2p3/p3P3/q1NP4/P1PK3P/7Q b k - 0 20",
           "eval": {
-            "cp": 379
+            "cp": 391
           },
-          "eval_cp": 379,
+          "eval_cp": 391,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397184,9 +397184,9 @@
           "fen_before": "B3kb1r/2pp1p1p/b6p/1R2p3/p3P3/q1NP4/P1PK3P/7Q w k - 1 21",
           "fen_after": "B3kb1r/2pp1p1p/b6p/R3p3/p3P3/q1NP4/P1PK3P/7Q b k - 2 21",
           "eval": {
-            "cp": 498
+            "cp": 549
           },
-          "eval_cp": 498,
+          "eval_cp": 549,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397276,9 +397276,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/p3P3/q1bP4/P1PK3P/7Q w k - 0 23",
           "fen_after": "B3k2r/2pp1p1p/R6p/4p3/p3P3/q1bPK3/P1P4P/7Q b k - 1 23",
           "eval": {
-            "cp": 501
+            "cp": 658
           },
-          "eval_cp": 501,
+          "eval_cp": 658,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397322,9 +397322,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/p3P3/q2PK3/P1Pb3P/7Q w k - 2 24",
           "fen_after": "B3k2r/2pp1p1p/R6p/4p3/p3P3/q2P4/P1PK3P/7Q b k - 0 24",
           "eval": {
-            "cp": -112
+            "cp": -151
           },
-          "eval_cp": -112,
+          "eval_cp": -151,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397368,9 +397368,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/p3P3/3P4/q1PK3P/7Q w k - 0 25",
           "fen_after": "B3k2r/2pp1p1p/R6p/4p3/p3P3/3P4/q1PK3P/4Q3 b k - 1 25",
           "eval": {
-            "cp": -322
+            "cp": -334
           },
-          "eval_cp": -322,
+          "eval_cp": -334,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397414,9 +397414,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/4P3/p2P4/q1PK3P/4Q3 w k - 0 26",
           "fen_after": "B3k2r/2pp1p1p/R6p/4p3/4P3/p2PQ3/q1PK3P/8 b k - 1 26",
           "eval": {
-            "cp": -338
+            "cp": -363
           },
-          "eval_cp": -338,
+          "eval_cp": -363,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397460,9 +397460,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/4P3/p2PQ3/1qPK3P/8 w k - 2 27",
           "fen_after": "B3k2r/2pp1p1p/R6p/4p3/3QP3/p2P4/1qPK3P/8 b k - 3 27",
           "eval": {
-            "cp": 785
+            "cp": 865
           },
-          "eval_cp": 785,
+          "eval_cp": 865,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397506,9 +397506,9 @@
           "fen_before": "B3k2r/2pp1p1p/R6p/4p3/3qP3/p2P4/2PK3P/8 w k - 0 28",
           "fen_after": "B3k2r/2pp1p1p/7p/4p3/3qP3/R2P4/2PK3P/8 b k - 0 28",
           "eval": {
-            "cp": 881
+            "mate": 10
           },
-          "eval_cp": 881,
+          "eval_cp": 9990,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397552,9 +397552,9 @@
           "fen_before": "B3k2r/2pp1p1p/7p/4p3/1q2P3/R2P4/2PK3P/8 w k - 1 29",
           "fen_after": "B3k2r/2pp1p1p/7p/4p3/1q2P3/R2PK3/2P4P/8 b k - 2 29",
           "eval": {
-            "mate": 11
+            "mate": 8
           },
-          "eval_cp": 9989,
+          "eval_cp": 9992,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397598,9 +397598,9 @@
           "fen_before": "B3k2r/2pp1p1p/7p/4p3/4P3/q2PK3/2P4P/8 w k - 0 30",
           "fen_after": "B3k2r/2pp1p1p/7p/4p3/4P3/q2P4/2PK3P/8 b k - 1 30",
           "eval": {
-            "mate": 6
+            "mate": 5
           },
-          "eval_cp": 9994,
+          "eval_cp": 9995,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397874,9 +397874,9 @@
           "fen_before": "4k2r/2pp1p1p/7p/4q3/4PK2/8/7P/8 w k - 0 36",
           "fen_after": "4k2r/2pp1p1p/7p/4K3/4P3/8/7P/8 b k - 0 36",
           "eval": {
-            "cp": 871
+            "cp": 905
           },
-          "eval_cp": 871,
+          "eval_cp": 905,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397920,9 +397920,9 @@
           "fen_before": "4k2r/2p2p1p/3p3p/4K3/4P3/8/7P/8 w k - 0 37",
           "fen_after": "4k2r/2p2p1p/3p3p/3K4/4P3/8/7P/8 b k - 1 37",
           "eval": {
-            "cp": 783
+            "cp": 794
           },
-          "eval_cp": 783,
+          "eval_cp": 794,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -397966,9 +397966,9 @@
           "fen_before": "4k2r/2p4p/3p3p/3K1p2/4P3/8/7P/8 w k - 0 38",
           "fen_after": "4k2r/2p4p/2Kp3p/5p2/4P3/8/7P/8 b k - 1 38",
           "eval": {
-            "cp": 939
+            "cp": 1101
           },
-          "eval_cp": 939,
+          "eval_cp": 1101,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398012,9 +398012,9 @@
           "fen_before": "4k2r/2p4p/2Kp3p/8/4Pp2/8/7P/8 w k - 0 39",
           "fen_after": "4k2r/2K4p/3p3p/8/4Pp2/8/7P/8 b k - 0 39",
           "eval": {
-            "cp": 1116
+            "mate": 15
           },
-          "eval_cp": 1116,
+          "eval_cp": 9985,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398058,9 +398058,9 @@
           "fen_before": "4k2r/2K4p/3p3p/8/4P3/5p2/7P/8 w k - 0 40",
           "fen_after": "4k2r/7p/3K3p/8/4P3/5p2/7P/8 b k - 0 40",
           "eval": {
-            "mate": 18
+            "mate": 16
           },
-          "eval_cp": 9982,
+          "eval_cp": 9984,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398104,9 +398104,9 @@
           "fen_before": "4k2r/7p/3K3p/8/4P3/8/5p1P/8 w k - 0 41",
           "fen_after": "4k2r/7p/3K3p/4P3/8/8/5p1P/8 b k - 0 41",
           "eval": {
-            "mate": 12
+            "mate": 10
           },
-          "eval_cp": 9988,
+          "eval_cp": 9990,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398150,9 +398150,9 @@
           "fen_before": "4k2r/7p/3K3p/4P3/8/8/7P/5q2 w k - 0 42",
           "fen_after": "4k2r/7p/3KP2p/8/8/8/7P/5q2 b k - 0 42",
           "eval": {
-            "mate": 8
+            "mate": 6
           },
-          "eval_cp": 9992,
+          "eval_cp": 9994,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398196,9 +398196,9 @@
           "fen_before": "4k2r/7p/3KP2p/8/8/8/7P/3q4 w k - 1 43",
           "fen_after": "4k2r/7p/4P2p/4K3/8/8/7P/3q4 b k - 2 43",
           "eval": {
-            "mate": 6
+            "mate": 5
           },
-          "eval_cp": 9994,
+          "eval_cp": 9995,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398242,9 +398242,9 @@
           "fen_before": "4k2r/7p/4P2p/4K3/8/8/7P/4q3 w k - 3 44",
           "fen_after": "4k2r/7p/4P2p/3K4/8/8/7P/4q3 b k - 4 44",
           "eval": {
-            "mate": 11
+            "mate": 10
           },
-          "eval_cp": 9989,
+          "eval_cp": 9990,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398380,9 +398380,9 @@
           "fen_before": "4k2r/7p/4P2p/3K4/8/8/7q/8 w k - 0 47",
           "fen_after": "4k2r/7p/2K1P2p/8/8/8/7q/8 b k - 1 47",
           "eval": {
-            "mate": 10
+            "mate": 9
           },
-          "eval_cp": 9990,
+          "eval_cp": 9991,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398518,9 +398518,9 @@
           "fen_before": "7r/4k2p/4q2p/3K4/8/8/8/8 w - - 0 50",
           "fen_after": "7r/4k2p/4q2p/8/3K4/8/8/8 b - - 1 50",
           "eval": {
-            "mate": 7
+            "mate": 5
           },
-          "eval_cp": 9993,
+          "eval_cp": 9995,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398564,9 +398564,9 @@
           "fen_before": "4r3/4k2p/4q2p/8/3K4/8/8/8 w - - 2 51",
           "fen_after": "4r3/4k2p/4q2p/8/8/3K4/8/8 b - - 3 51",
           "eval": {
-            "mate": 6
+            "mate": 5
           },
-          "eval_cp": 9994,
+          "eval_cp": 9995,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398862,9 +398862,9 @@
           "fen_before": "rnbqkbnr/pp3ppp/2p1p3/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 1 4",
           "fen_after": "rnbqk1nr/pp3ppp/2pbp3/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 2 5",
           "eval": {
-            "cp": 106
+            "cp": 82
           },
-          "eval_cp": 106,
+          "eval_cp": 82,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398908,9 +398908,9 @@
           "fen_before": "rnbqk1nr/pp3ppp/2pBp3/3p4/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 0 5",
           "fen_after": "rnb1k1nr/pp3ppp/2pqp3/3p4/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 6",
           "eval": {
-            "cp": 87
+            "cp": 88
           },
-          "eval_cp": 87,
+          "eval_cp": 88,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -398954,9 +398954,9 @@
           "fen_before": "rnb1k1nr/pp3ppp/2pqp3/3p4/3P4/2N2N2/PPPQPPPP/R3KB1R b KQkq - 1 6",
           "fen_after": "rnb1k1nr/p4ppp/1ppqp3/3p4/3P4/2N2N2/PPPQPPPP/R3KB1R w KQkq - 0 7",
           "eval": {
-            "cp": 108
+            "cp": 104
           },
-          "eval_cp": 108,
+          "eval_cp": 104,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399000,9 +399000,9 @@
           "fen_before": "rnb1k1nr/p4ppp/1ppqp3/3p4/3P4/2N2N2/PPPQPPPP/2KR1B1R b kq - 1 7",
           "fen_after": "rnb1k1nr/5ppp/1ppqp3/p2p4/3P4/2N2N2/PPPQPPPP/2KR1B1R w kq - 0 8",
           "eval": {
-            "cp": 123
+            "cp": 137
           },
-          "eval_cp": 123,
+          "eval_cp": 137,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399046,9 +399046,9 @@
           "fen_before": "rnb1k1nr/5ppp/1ppqp3/p2p4/3P4/2N2NP1/PPPQPP1P/2KR1B1R b kq - 0 8",
           "fen_after": "rnb1k2r/4nppp/1ppqp3/p2p4/3P4/2N2NP1/PPPQPP1P/2KR1B1R w kq - 1 9",
           "eval": {
-            "cp": 51
+            "cp": 43
           },
-          "eval_cp": 51,
+          "eval_cp": 43,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399092,9 +399092,9 @@
           "fen_before": "rnb1k2r/4nppp/1ppqp3/p2p4/3P1Q2/2N2NP1/PPP1PP1P/2KR1B1R b kq - 2 9",
           "fen_after": "rnb2rk1/4nppp/1ppqp3/p2p4/3P1Q2/2N2NP1/PPP1PP1P/2KR1B1R w - - 3 10",
           "eval": {
-            "cp": 681
+            "cp": 671
           },
-          "eval_cp": 681,
+          "eval_cp": 671,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399138,9 +399138,9 @@
           "fen_before": "rnb2rk1/4nppp/1ppQp3/p2p4/3P4/2N2NP1/PPP1PP1P/2KR1B1R b - - 0 10",
           "fen_after": "rnb2rk1/5ppp/1ppQp3/p2p1n2/3P4/2N2NP1/PPP1PP1P/2KR1B1R w - - 1 11",
           "eval": {
-            "cp": 669
+            "cp": 675
           },
-          "eval_cp": 669,
+          "eval_cp": 675,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399184,9 +399184,9 @@
           "fen_before": "rnb2rk1/2Q2ppp/1pp1p3/p2p1n2/3P4/2N2NP1/PPP1PP1P/2KR1B1R b - - 2 11",
           "fen_after": "r1b2rk1/2Qn1ppp/1pp1p3/p2p1n2/3P4/2N2NP1/PPP1PP1P/2KR1B1R w - - 3 12",
           "eval": {
-            "cp": 673
+            "cp": 690
           },
-          "eval_cp": 673,
+          "eval_cp": 690,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399230,9 +399230,9 @@
           "fen_before": "r1b2rk1/2Qn1ppp/1pp1p3/p2N1n2/3P4/5NP1/PPP1PP1P/2KR1B1R b - - 0 12",
           "fen_after": "r1b2rk1/2Qn1ppp/1p2p3/p2p1n2/3P4/5NP1/PPP1PP1P/2KR1B1R w - - 0 13",
           "eval": {
-            "cp": 572
+            "cp": 578
           },
-          "eval_cp": 572,
+          "eval_cp": 578,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399276,9 +399276,9 @@
           "fen_before": "r1b2rk1/3n1ppp/1p2p3/p2p1n2/3P1Q2/5NP1/PPP1PP1P/2KR1B1R b - - 1 13",
           "fen_after": "r1b2rk1/3n2pp/1p2pp2/p2p1n2/3P1Q2/5NP1/PPP1PP1P/2KR1B1R w - - 0 14",
           "eval": {
-            "cp": 630
+            "cp": 597
           },
-          "eval_cp": 630,
+          "eval_cp": 597,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399322,9 +399322,9 @@
           "fen_before": "r1b2rk1/3n2pp/1p2pp2/p2p1n2/3P1QP1/5N2/PPP1PP1P/2KR1B1R b - - 0 14",
           "fen_after": "r1b2rk1/3n2p1/1p2pp1p/p2p1n2/3P1QP1/5N2/PPP1PP1P/2KR1B1R w - - 0 15",
           "eval": {
-            "cp": 751
+            "cp": 768
           },
-          "eval_cp": 751,
+          "eval_cp": 768,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399368,9 +399368,9 @@
           "fen_before": "r1b2rk1/3n2p1/1p2pp1p/p2p1P2/3P1Q2/5N2/PPP1PP1P/2KR1B1R b - - 0 15",
           "fen_after": "r1b2rk1/3n4/1p2pp1p/p2p1Pp1/3P1Q2/5N2/PPP1PP1P/2KR1B1R w - g6 0 16",
           "eval": {
-            "cp": 817
+            "cp": 864
           },
-          "eval_cp": 817,
+          "eval_cp": 864,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399414,9 +399414,9 @@
           "fen_before": "r1b2rk1/3n4/1p2ppPp/p2p4/3P1Q2/5N2/PPP1PP1P/2KR1B1R b - - 0 16",
           "fen_after": "r1b2rk1/3n4/1p3pPp/p2pp3/3P1Q2/5N2/PPP1PP1P/2KR1B1R w - - 0 17",
           "eval": {
-            "cp": 1245
+            "mate": 19
           },
-          "eval_cp": 1245,
+          "eval_cp": 9981,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399506,9 +399506,9 @@
           "fen_before": "r4rk1/1b1n2P1/1p3p1Q/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R b - - 0 18",
           "fen_after": "4rrk1/1b1n2P1/1p3p1Q/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 1 19",
           "eval": {
-            "mate": 7
+            "mate": 12
           },
-          "eval_cp": 9993,
+          "eval_cp": 9988,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399552,9 +399552,9 @@
           "fen_before": "4rrkQ/1b1n2P1/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R b - - 2 19",
           "fen_after": "4rr1Q/1b1n1kP1/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 3 20",
           "eval": {
-            "cp": 1111
+            "cp": 1192
           },
-          "eval_cp": 1111,
+          "eval_cp": 1192,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399598,9 +399598,9 @@
           "fen_before": "4rQ1Q/1b1n1k2/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R b - - 0 20",
           "fen_after": "5r1Q/1b1n1k2/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 0 21",
           "eval": {
-            "cp": 1273
+            "cp": 1341
           },
-          "eval_cp": 1273,
+          "eval_cp": 1341,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399644,9 +399644,9 @@
           "fen_before": "5r2/1b1n1k1Q/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R b - - 1 21",
           "fen_after": "4kr2/1b1n3Q/1p3p2/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 2 22",
           "eval": {
-            "cp": 1447
+            "mate": 21
           },
-          "eval_cp": 1447,
+          "eval_cp": 9979,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399690,9 +399690,9 @@
           "fen_before": "4kr2/1b1n4/1p3pQ1/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R b - - 3 22",
           "fen_after": "3k1r2/1b1n4/1p3pQ1/p2pp3/3P4/5N2/PPP1PP1P/2KR1B1R w - - 4 23",
           "eval": {
-            "cp": 1029
+            "cp": 1032
           },
-          "eval_cp": 1029,
+          "eval_cp": 1032,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399736,9 +399736,9 @@
           "fen_before": "3k1r2/1b1n4/1p3pQ1/p2pp1N1/3P4/8/PPP1PP1P/2KR1B1R b - - 5 23",
           "fen_after": "3k1r2/3n4/1pb2pQ1/p2pp1N1/3P4/8/PPP1PP1P/2KR1B1R w - - 6 24",
           "eval": {
-            "cp": 1048
+            "cp": 1084
           },
-          "eval_cp": 1048,
+          "eval_cp": 1084,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399782,9 +399782,9 @@
           "fen_before": "3k1r2/3n4/1pb1NpQ1/p2pp3/3P4/8/PPP1PP1P/2KR1B1R b - - 7 24",
           "fen_after": "5r2/3nk3/1pb1NpQ1/p2pp3/3P4/8/PPP1PP1P/2KR1B1R w - - 8 25",
           "eval": {
-            "cp": 1142
+            "cp": 1181
           },
-          "eval_cp": 1142,
+          "eval_cp": 1181,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399874,9 +399874,9 @@
           "fen_before": "5k2/3n4/1pb2Q2/p2pp3/3P4/8/PPP1PP1P/2KR1B1R b - - 0 26",
           "fen_after": "5k2/8/1pb2n2/p2pp3/3P4/8/PPP1PP1P/2KR1B1R w - - 0 27",
           "eval": {
-            "cp": 824
+            "cp": 846
           },
-          "eval_cp": 824,
+          "eval_cp": 846,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399920,9 +399920,9 @@
           "fen_before": "5k2/8/1pb2n2/p2pP3/8/8/PPP1PP1P/2KR1B1R b - - 0 27",
           "fen_after": "5k2/8/1pb5/p2pP3/4n3/8/PPP1PP1P/2KR1B1R w - - 1 28",
           "eval": {
-            "cp": 864
+            "cp": 875
           },
-          "eval_cp": 864,
+          "eval_cp": 875,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -399966,9 +399966,9 @@
           "fen_before": "5k2/8/1pb5/p2pP3/4n3/8/PPP1PPBP/2KR3R b - - 2 28",
           "fen_after": "5k2/8/1pb5/p2pP1n1/8/8/PPP1PPBP/2KR3R w - - 3 29",
           "eval": {
-            "cp": 889
+            "cp": 897
           },
-          "eval_cp": 889,
+          "eval_cp": 897,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400012,9 +400012,9 @@
           "fen_before": "5k2/8/1pb5/p2BP1n1/8/8/PPP1PP1P/2KR3R b - - 0 29",
           "fen_after": "8/4k3/1pb5/p2BP1n1/8/8/PPP1PP1P/2KR3R w - - 1 30",
           "eval": {
-            "cp": 960
+            "cp": 993
           },
-          "eval_cp": 960,
+          "eval_cp": 993,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400058,9 +400058,9 @@
           "fen_before": "8/4k3/1pB5/p3P1n1/8/8/PPP1PP1P/2KR3R b - - 0 30",
           "fen_after": "8/8/1pB1k3/p3P1n1/8/8/PPP1PP1P/2KR3R w - - 1 31",
           "eval": {
-            "cp": 1050
+            "cp": 1077
           },
-          "eval_cp": 1050,
+          "eval_cp": 1077,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400104,9 +400104,9 @@
           "fen_before": "8/8/1pB1k3/p2RP1n1/8/8/PPP1PP1P/2K4R b - - 2 31",
           "fen_after": "8/5n2/1pB1k3/p2RP3/8/8/PPP1PP1P/2K4R w - - 3 32",
           "eval": {
-            "cp": 1013
+            "cp": 1033
           },
-          "eval_cp": 1013,
+          "eval_cp": 1033,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400150,9 +400150,9 @@
           "fen_before": "8/5n2/1pB1k3/p2RP3/5P2/8/PPP1P2P/2K4R b - - 0 32",
           "fen_after": "3n4/8/1pB1k3/p2RP3/5P2/8/PPP1P2P/2K4R w - - 1 33",
           "eval": {
-            "mate": 14
+            "mate": 9
           },
-          "eval_cp": 9986,
+          "eval_cp": 9991,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400242,9 +400242,9 @@
           "fen_before": "8/8/1pn1k3/p2RPP2/4P3/8/PPP4P/2K4R b - - 0 34",
           "fen_after": "8/4k3/1pn5/p2RPP2/4P3/8/PPP4P/2K4R w - - 1 35",
           "eval": {
-            "cp": 1110
+            "mate": 23
           },
-          "eval_cp": 1110,
+          "eval_cp": 9977,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400288,9 +400288,9 @@
           "fen_before": "8/4k3/1pn2P2/p2RP3/4P3/8/PPP4P/2K4R b - - 0 35",
           "fen_after": "8/5k2/1pn2P2/p2RP3/4P3/8/PPP4P/2K4R w - - 1 36",
           "eval": {
-            "mate": 22
+            "mate": 12
           },
-          "eval_cp": 9978,
+          "eval_cp": 9988,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400334,9 +400334,9 @@
           "fen_before": "8/5k2/1pn1PP2/p2R4/4P3/8/PPP4P/2K4R b - - 0 36",
           "fen_after": "8/8/1pn1kP2/p2R4/4P3/8/PPP4P/2K4R w - - 0 37",
           "eval": {
-            "cp": 937
+            "cp": 1094
           },
-          "eval_cp": 937,
+          "eval_cp": 1094,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400380,9 +400380,9 @@
           "fen_before": "8/5P2/1pn1k3/p2R4/4P3/8/PPP4P/2K4R b - - 0 37",
           "fen_after": "8/5k2/1pn5/p2R4/4P3/8/PPP4P/2K4R w - - 0 38",
           "eval": {
-            "cp": 854
+            "cp": 860
           },
-          "eval_cp": 854,
+          "eval_cp": 860,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400426,9 +400426,9 @@
           "fen_before": "8/3R1k2/1pn5/p7/4P3/8/PPP4P/2K4R b - - 1 38",
           "fen_after": "8/3R4/1pn1k3/p7/4P3/8/PPP4P/2K4R w - - 2 39",
           "eval": {
-            "cp": 822
+            "cp": 818
           },
-          "eval_cp": 822,
+          "eval_cp": 818,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400472,9 +400472,9 @@
           "fen_before": "8/2R5/1pn1k3/p7/4P3/8/PPP4P/2K4R b - - 3 39",
           "fen_after": "8/2R5/1p2k3/p3n3/4P3/8/PPP4P/2K4R w - - 4 40",
           "eval": {
-            "cp": 774
+            "cp": 792
           },
-          "eval_cp": 774,
+          "eval_cp": 792,
           "eval_before": null,
           "best_san": null,
           "best_uci": null,
@@ -400506,6 +400506,1363 @@
           "loss_cp": 29,
           "gap_cp": 6,
           "judgment": "good",
+          "depth": 16
+        }
+      ]
+    },
+    {
+      "id": "187437974520",
+      "url": "https://www.chess.com/game/live/187437974520",
+      "date": "2026-11-18T09:25:49+11:00",
+      "end_melbourne": "2026-11-18T09:27:39+11:00",
+      "colour": "white",
+      "opponent": "wafaabdj",
+      "ratings": {
+        "player": 626,
+        "opponent": 630
+      },
+      "white": "BrandonNeillTheGreat",
+      "black": "wafaabdj",
+      "white_elo": 626,
+      "black_elo": 630,
+      "time_control": "60",
+      "time_control_label": "1+0",
+      "time_class": "bullet",
+      "rated": true,
+      "result": "win",
+      "result_pgn": "1-0",
+      "termination": "BrandonNeillTheGreat won by checkmate",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.11.17\"]\n[Round \"-\"]\n[White \"BrandonNeillTheGreat\"]\n[Black \"wafaabdj\"]\n[Result \"1-0\"]\n[CurrentPosition \"4Q1k1/1p3ppp/8/3r4/8/6K1/PPP4P/7R b - - 2 29\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4-Nf6\"]\n[UTCDate \"2026.11.17\"]\n[UTCTime \"22:25:49\"]\n[WhiteElo \"626\"]\n[BlackElo \"630\"]\n[TimeControl \"60\"]\n[Termination \"BrandonNeillTheGreat won by checkmate\"]\n[StartTime \"22:25:49\"]\n[EndDate \"2026.11.17\"]\n[EndTime \"22:27:39\"]\n[Link \"https://www.chess.com/game/live/187437974520\"]\n\n1. Nf3 {[%clk 0:00:59.9]} 1... d5 {[%clk 0:00:58.1]} 2. d4 {[%clk 0:00:59.1]} 2... e6 {[%clk 0:00:57.5]} 3. Bf4 {[%clk 0:00:57.8]} 3... Nf6 {[%clk 0:00:57.1]} 4. Nc3 {[%clk 0:00:56.1]} 4... Be7 {[%clk 0:00:56.8]} 5. Qd3 {[%clk 0:00:55.3]} 5... O-O {[%clk 0:00:56.4]} 6. O-O-O {[%clk 0:00:54.3]} 6... c5 {[%clk 0:00:55.6]} 7. dxc5 {[%clk 0:00:53.1]} 7... Bxc5 {[%clk 0:00:55.5]} 8. Ne5 {[%clk 0:00:50.6]} 8... Nc6 {[%clk 0:00:53.6]} 9. e4 {[%clk 0:00:48]} 9... Nxe5 {[%clk 0:00:49.9]} 10. Bxe5 {[%clk 0:00:45.7]} 10... Qe7 {[%clk 0:00:49.3]} 11. exd5 {[%clk 0:00:44.6]} 11... exd5 {[%clk 0:00:46.9]} 12. Bxf6 {[%clk 0:00:43.7]} 12... Qxf6 {[%clk 0:00:44.3]} 13. Qxd5 {[%clk 0:00:42.4]} 13... Qh6+ {[%clk 0:00:40.3]} 14. f4 {[%clk 0:00:40.5]} 14... Qxf4+ {[%clk 0:00:37.4]} 15. Rd2 {[%clk 0:00:39.5]} 15... Be3 {[%clk 0:00:36]} 16. Ne2 {[%clk 0:00:36.6]} 16... Qh6 {[%clk 0:00:33.7]} 17. Kd1 {[%clk 0:00:33.1]} 17... Bxd2 {[%clk 0:00:32.8]} 18. Qxd2 {[%clk 0:00:32.5]} 18... Bg4 {[%clk 0:00:30.7]} 19. Qxh6 {[%clk 0:00:31.2]} 19... Rad8+ {[%clk 0:00:29.2]} 20. Ke1 {[%clk 0:00:30]} 20... Bxe2 {[%clk 0:00:27.4]} 21. Qe3 {[%clk 0:00:25.8]} 21... Rfe8 {[%clk 0:00:27.3]} 22. Qa3 {[%clk 0:00:21.5]} 22... Bb5+ {[%clk 0:00:24.6]} 23. Be2 {[%clk 0:00:19.7]} 23... Bxe2 {[%clk 0:00:21.5]} 24. Qxa7 {[%clk 0:00:16.2]} 24... Bf3+ {[%clk 0:00:20]} 25. Kf2 {[%clk 0:00:14.6]} 25... Bxg2 {[%clk 0:00:19.9]} 26. Kxg2 {[%clk 0:00:13.7]} 26... Rd2+ {[%clk 0:00:18.3]} 27. Kg3 {[%clk 0:00:11.2]} 27... Re3+ {[%clk 0:00:17.5]} 28. Qxe3 {[%clk 0:00:10.2]} 28... Rd5 {[%clk 0:00:16.3]} 29. Qe8# {[%clk 0:00:09.2]} 1-0\n",
+      "opening": {
+        "eco": "D02",
+        "name": "Queen's Pawn Opening: Zukertort Variation, 2...e6 3.Bf4 Nf6",
+        "family": "Queen's Pawn Opening: Zukertort Variation",
+        "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4-Nf6"
+      },
+      "plies": 57,
+      "my_moves": 29,
+      "best_move_count": 14,
+      "best_move_pct": 48.3,
+      "blunder_count": 6,
+      "mistake_count": 1,
+      "great_count": 5,
+      "engine": {
+        "name": "Stockfish 17.1",
+        "depth": 16,
+        "multipv": 3
+      },
+      "moves": [
+        {
+          "ply": 1,
+          "move_number": 1,
+          "san": "Nf3",
+          "uci": "g1f3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+          "fen_after": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+          "eval": {
+            "cp": 36
+          },
+          "eval_cp": 36,
+          "eval_before": {
+            "cp": 26
+          },
+          "best_san": "e4",
+          "best_uci": "e2e4",
+          "second_san": "Nf3",
+          "loss_cp": -10,
+          "gap_cp": 0,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 2,
+          "move_number": 1,
+          "san": "d5",
+          "uci": "d7d5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+          "fen_after": "rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
+          "eval": {
+            "cp": 34
+          },
+          "eval_cp": 34,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 3,
+          "move_number": 2,
+          "san": "d4",
+          "uci": "d2d4",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
+          "fen_after": "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2",
+          "eval": {
+            "cp": 33
+          },
+          "eval_cp": 33,
+          "eval_before": {
+            "cp": 34
+          },
+          "best_san": "d4",
+          "best_uci": "d2d4",
+          "second_san": "g3",
+          "loss_cp": 1,
+          "gap_cp": 5,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 4,
+          "move_number": 2,
+          "san": "e6",
+          "uci": "e7e6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2",
+          "fen_after": "rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
+          "eval": {
+            "cp": 31
+          },
+          "eval_cp": 31,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 5,
+          "move_number": 3,
+          "san": "Bf4",
+          "uci": "c1f4",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
+          "fen_after": "rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3",
+          "eval": {
+            "cp": 20
+          },
+          "eval_cp": 20,
+          "eval_before": {
+            "cp": 31
+          },
+          "best_san": "g3",
+          "best_uci": "g2g3",
+          "second_san": "c4",
+          "loss_cp": 11,
+          "gap_cp": 1,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 6,
+          "move_number": 3,
+          "san": "Nf6",
+          "uci": "g8f6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3",
+          "fen_after": "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4",
+          "eval": {
+            "cp": 21
+          },
+          "eval_cp": 21,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 7,
+          "move_number": 4,
+          "san": "Nc3",
+          "uci": "b1c3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4",
+          "fen_after": "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 3 4",
+          "eval": {
+            "cp": -30
+          },
+          "eval_cp": -30,
+          "eval_before": {
+            "cp": 22
+          },
+          "best_san": "e3",
+          "best_uci": "e2e3",
+          "second_san": "Nbd2",
+          "loss_cp": 52,
+          "gap_cp": 3,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 8,
+          "move_number": 4,
+          "san": "Be7",
+          "uci": "f8e7",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 3 4",
+          "fen_after": "rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 4 5",
+          "eval": {
+            "cp": 15
+          },
+          "eval_cp": 15,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 9,
+          "move_number": 5,
+          "san": "Qd3",
+          "uci": "d1d3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 4 5",
+          "fen_after": "rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/R3KB1R b KQkq - 5 5",
+          "eval": {
+            "cp": -44
+          },
+          "eval_cp": -44,
+          "eval_before": {
+            "cp": 9
+          },
+          "best_san": "e3",
+          "best_uci": "e2e3",
+          "second_san": "Nb5",
+          "loss_cp": 53,
+          "gap_cp": 1,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 10,
+          "move_number": 5,
+          "san": "O-O",
+          "uci": "e8g8",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/R3KB1R b KQkq - 5 5",
+          "fen_after": "rnbq1rk1/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/R3KB1R w KQ - 6 6",
+          "eval": {
+            "cp": -19
+          },
+          "eval_cp": -19,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 11,
+          "move_number": 6,
+          "san": "O-O-O",
+          "uci": "e1c1",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbq1rk1/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/R3KB1R w KQ - 6 6",
+          "fen_after": "rnbq1rk1/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/2KR1B1R b - - 7 6",
+          "eval": {
+            "cp": -137
+          },
+          "eval_cp": -137,
+          "eval_before": {
+            "cp": -8
+          },
+          "best_san": "e4",
+          "best_uci": "e2e4",
+          "second_san": "a3",
+          "loss_cp": 129,
+          "gap_cp": 35,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 12,
+          "move_number": 6,
+          "san": "c5",
+          "uci": "c7c5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbq1rk1/ppp1bppp/4pn2/3p4/3P1B2/2NQ1N2/PPP1PPPP/2KR1B1R b - - 7 6",
+          "fen_after": "rnbq1rk1/pp2bppp/4pn2/2pp4/3P1B2/2NQ1N2/PPP1PPPP/2KR1B1R w - - 0 7",
+          "eval": {
+            "cp": -159
+          },
+          "eval_cp": -159,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 13,
+          "move_number": 7,
+          "san": "dxc5",
+          "uci": "d4c5",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbq1rk1/pp2bppp/4pn2/2pp4/3P1B2/2NQ1N2/PPP1PPPP/2KR1B1R w - - 0 7",
+          "fen_after": "rnbq1rk1/pp2bppp/4pn2/2Pp4/5B2/2NQ1N2/PPP1PPPP/2KR1B1R b - - 0 7",
+          "eval": {
+            "cp": -159
+          },
+          "eval_cp": -159,
+          "eval_before": {
+            "cp": -154
+          },
+          "best_san": "dxc5",
+          "best_uci": "d4c5",
+          "second_san": "e4",
+          "loss_cp": 5,
+          "gap_cp": 18,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 14,
+          "move_number": 7,
+          "san": "Bxc5",
+          "uci": "e7c5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbq1rk1/pp2bppp/4pn2/2Pp4/5B2/2NQ1N2/PPP1PPPP/2KR1B1R b - - 0 7",
+          "fen_after": "rnbq1rk1/pp3ppp/4pn2/2bp4/5B2/2NQ1N2/PPP1PPPP/2KR1B1R w - - 0 8",
+          "eval": {
+            "cp": 47
+          },
+          "eval_cp": 47,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 15,
+          "move_number": 8,
+          "san": "Ne5",
+          "uci": "f3e5",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "rnbq1rk1/pp3ppp/4pn2/2bp4/5B2/2NQ1N2/PPP1PPPP/2KR1B1R w - - 0 8",
+          "fen_after": "rnbq1rk1/pp3ppp/4pn2/2bpN3/5B2/2NQ4/PPP1PPPP/2KR1B1R b - - 1 8",
+          "eval": {
+            "cp": -89
+          },
+          "eval_cp": -89,
+          "eval_before": {
+            "cp": 30
+          },
+          "best_san": "e4",
+          "best_uci": "e2e4",
+          "second_san": "Bg5",
+          "loss_cp": 119,
+          "gap_cp": 24,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 16,
+          "move_number": 8,
+          "san": "Nc6",
+          "uci": "b8c6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "rnbq1rk1/pp3ppp/4pn2/2bpN3/5B2/2NQ4/PPP1PPPP/2KR1B1R b - - 1 8",
+          "fen_after": "r1bq1rk1/pp3ppp/2n1pn2/2bpN3/5B2/2NQ4/PPP1PPPP/2KR1B1R w - - 2 9",
+          "eval": {
+            "cp": -97
+          },
+          "eval_cp": -97,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 17,
+          "move_number": 9,
+          "san": "e4",
+          "uci": "e2e4",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1bq1rk1/pp3ppp/2n1pn2/2bpN3/5B2/2NQ4/PPP1PPPP/2KR1B1R w - - 2 9",
+          "fen_after": "r1bq1rk1/pp3ppp/2n1pn2/2bpN3/4PB2/2NQ4/PPP2PPP/2KR1B1R b - - 0 9",
+          "eval": {
+            "cp": -323
+          },
+          "eval_cp": -323,
+          "eval_before": {
+            "cp": -86
+          },
+          "best_san": "e3",
+          "best_uci": "e2e3",
+          "second_san": "Qf3",
+          "loss_cp": 237,
+          "gap_cp": 22,
+          "judgment": "mistake",
+          "depth": 16
+        },
+        {
+          "ply": 18,
+          "move_number": 9,
+          "san": "Nxe5",
+          "uci": "c6e5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1bq1rk1/pp3ppp/2n1pn2/2bpN3/4PB2/2NQ4/PPP2PPP/2KR1B1R b - - 0 9",
+          "fen_after": "r1bq1rk1/pp3ppp/4pn2/2bpn3/4PB2/2NQ4/PPP2PPP/2KR1B1R w - - 0 10",
+          "eval": {
+            "cp": -26
+          },
+          "eval_cp": -26,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 19,
+          "move_number": 10,
+          "san": "Bxe5",
+          "uci": "f4e5",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1bq1rk1/pp3ppp/4pn2/2bpn3/4PB2/2NQ4/PPP2PPP/2KR1B1R w - - 0 10",
+          "fen_after": "r1bq1rk1/pp3ppp/4pn2/2bpB3/4P3/2NQ4/PPP2PPP/2KR1B1R b - - 0 10",
+          "eval": {
+            "cp": -15
+          },
+          "eval_cp": -15,
+          "eval_before": {
+            "cp": -25
+          },
+          "best_san": "Bxe5",
+          "best_uci": "f4e5",
+          "second_san": "Qe2",
+          "loss_cp": -10,
+          "gap_cp": 366,
+          "judgment": "great",
+          "depth": 16
+        },
+        {
+          "ply": 20,
+          "move_number": 10,
+          "san": "Qe7",
+          "uci": "d8e7",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1bq1rk1/pp3ppp/4pn2/2bpB3/4P3/2NQ4/PPP2PPP/2KR1B1R b - - 0 10",
+          "fen_after": "r1b2rk1/pp2qppp/4pn2/2bpB3/4P3/2NQ4/PPP2PPP/2KR1B1R w - - 1 11",
+          "eval": {
+            "cp": 72
+          },
+          "eval_cp": 72,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 21,
+          "move_number": 11,
+          "san": "exd5",
+          "uci": "e4d5",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp2qppp/4pn2/2bpB3/4P3/2NQ4/PPP2PPP/2KR1B1R w - - 1 11",
+          "fen_after": "r1b2rk1/pp2qppp/4pn2/2bPB3/8/2NQ4/PPP2PPP/2KR1B1R b - - 0 11",
+          "eval": {
+            "cp": 52
+          },
+          "eval_cp": 52,
+          "eval_before": {
+            "cp": 70
+          },
+          "best_san": "Be2",
+          "best_uci": "f1e2",
+          "second_san": "exd5",
+          "loss_cp": 18,
+          "gap_cp": 18,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 22,
+          "move_number": 11,
+          "san": "exd5",
+          "uci": "e6d5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp2qppp/4pn2/2bPB3/8/2NQ4/PPP2PPP/2KR1B1R b - - 0 11",
+          "fen_after": "r1b2rk1/pp2qppp/5n2/2bpB3/8/2NQ4/PPP2PPP/2KR1B1R w - - 0 12",
+          "eval": {
+            "cp": 54
+          },
+          "eval_cp": 54,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 23,
+          "move_number": 12,
+          "san": "Bxf6",
+          "uci": "e5f6",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp2qppp/5n2/2bpB3/8/2NQ4/PPP2PPP/2KR1B1R w - - 0 12",
+          "fen_after": "r1b2rk1/pp2qppp/5B2/2bp4/8/2NQ4/PPP2PPP/2KR1B1R b - - 0 12",
+          "eval": {
+            "cp": -10
+          },
+          "eval_cp": -10,
+          "eval_before": {
+            "cp": 54
+          },
+          "best_san": "Qg3",
+          "best_uci": "d3g3",
+          "second_san": "f4",
+          "loss_cp": 64,
+          "gap_cp": 5,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 24,
+          "move_number": 12,
+          "san": "Qxf6",
+          "uci": "e7f6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp2qppp/5B2/2bp4/8/2NQ4/PPP2PPP/2KR1B1R b - - 0 12",
+          "fen_after": "r1b2rk1/pp3ppp/5q2/2bp4/8/2NQ4/PPP2PPP/2KR1B1R w - - 0 13",
+          "eval": {
+            "cp": -11
+          },
+          "eval_cp": -11,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 25,
+          "move_number": 13,
+          "san": "Qxd5",
+          "uci": "d3d5",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/5q2/2bp4/8/2NQ4/PPP2PPP/2KR1B1R w - - 0 13",
+          "fen_after": "r1b2rk1/pp3ppp/5q2/2bQ4/8/2N5/PPP2PPP/2KR1B1R b - - 0 13",
+          "eval": {
+            "cp": -18
+          },
+          "eval_cp": -18,
+          "eval_before": {
+            "cp": -15
+          },
+          "best_san": "Qxd5",
+          "best_uci": "d3d5",
+          "second_san": "Be2",
+          "loss_cp": 3,
+          "gap_cp": 2,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 26,
+          "move_number": 13,
+          "san": "Qh6+",
+          "uci": "f6h6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/5q2/2bQ4/8/2N5/PPP2PPP/2KR1B1R b - - 0 13",
+          "fen_after": "r1b2rk1/pp3ppp/7q/2bQ4/8/2N5/PPP2PPP/2KR1B1R w - - 1 14",
+          "eval": {
+            "cp": 52
+          },
+          "eval_cp": 52,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 27,
+          "move_number": 14,
+          "san": "f4",
+          "uci": "f2f4",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/7q/2bQ4/8/2N5/PPP2PPP/2KR1B1R w - - 1 14",
+          "fen_after": "r1b2rk1/pp3ppp/7q/2bQ4/5P2/2N5/PPP3PP/2KR1B1R b - - 0 14",
+          "eval": {
+            "cp": 5
+          },
+          "eval_cp": 5,
+          "eval_before": {
+            "cp": 47
+          },
+          "best_san": "Kb1",
+          "best_uci": "c1b1",
+          "second_san": "Qd2",
+          "loss_cp": 42,
+          "gap_cp": 1,
+          "judgment": "good",
+          "depth": 16
+        },
+        {
+          "ply": 28,
+          "move_number": 14,
+          "san": "Qxf4+",
+          "uci": "h6f4",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/7q/2bQ4/5P2/2N5/PPP3PP/2KR1B1R b - - 0 14",
+          "fen_after": "r1b2rk1/pp3ppp/8/2bQ4/5q2/2N5/PPP3PP/2KR1B1R w - - 0 15",
+          "eval": {
+            "cp": 2
+          },
+          "eval_cp": 2,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 29,
+          "move_number": 15,
+          "san": "Rd2",
+          "uci": "d1d2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/8/2bQ4/5q2/2N5/PPP3PP/2KR1B1R w - - 0 15",
+          "fen_after": "r1b2rk1/pp3ppp/8/2bQ4/5q2/2N5/PPPR2PP/2K2B1R b - - 1 15",
+          "eval": {
+            "cp": -420
+          },
+          "eval_cp": -420,
+          "eval_before": {
+            "cp": 13
+          },
+          "best_san": "Kb1",
+          "best_uci": "c1b1",
+          "second_san": "Rd2",
+          "loss_cp": 433,
+          "gap_cp": 415,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 30,
+          "move_number": 15,
+          "san": "Be3",
+          "uci": "c5e3",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/8/2bQ4/5q2/2N5/PPPR2PP/2K2B1R b - - 1 15",
+          "fen_after": "r1b2rk1/pp3ppp/8/3Q4/5q2/2N1b3/PPPR2PP/2K2B1R w - - 2 16",
+          "eval": {
+            "cp": -412
+          },
+          "eval_cp": -412,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 31,
+          "move_number": 16,
+          "san": "Ne2",
+          "uci": "c3e2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/8/3Q4/5q2/2N1b3/PPPR2PP/2K2B1R w - - 2 16",
+          "fen_after": "r1b2rk1/pp3ppp/8/3Q4/5q2/4b3/PPPRN1PP/2K2B1R b - - 3 16",
+          "eval": {
+            "cp": -561
+          },
+          "eval_cp": -561,
+          "eval_before": {
+            "cp": -425
+          },
+          "best_san": "Nd1",
+          "best_uci": "c3d1",
+          "second_san": "g3",
+          "loss_cp": 136,
+          "gap_cp": 13,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 32,
+          "move_number": 16,
+          "san": "Qh6",
+          "uci": "f4h6",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/8/3Q4/5q2/4b3/PPPRN1PP/2K2B1R b - - 3 16",
+          "fen_after": "r1b2rk1/pp3ppp/7q/3Q4/8/4b3/PPPRN1PP/2K2B1R w - - 4 17",
+          "eval": {
+            "cp": -544
+          },
+          "eval_cp": -544,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 33,
+          "move_number": 17,
+          "san": "Kd1",
+          "uci": "c1d1",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/7q/3Q4/8/4b3/PPPRN1PP/2K2B1R w - - 4 17",
+          "fen_after": "r1b2rk1/pp3ppp/7q/3Q4/8/4b3/PPPRN1PP/3K1B1R b - - 5 17",
+          "eval": {
+            "cp": -610
+          },
+          "eval_cp": -610,
+          "eval_before": {
+            "cp": -554
+          },
+          "best_san": "Nd4",
+          "best_uci": "e2d4",
+          "second_san": "Kb1",
+          "loss_cp": 56,
+          "gap_cp": 22,
+          "judgment": "inaccuracy",
+          "depth": 16
+        },
+        {
+          "ply": 34,
+          "move_number": 17,
+          "san": "Bxd2",
+          "uci": "e3d2",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/7q/3Q4/8/4b3/PPPRN1PP/3K1B1R b - - 5 17",
+          "fen_after": "r1b2rk1/pp3ppp/7q/3Q4/8/8/PPPbN1PP/3K1B1R w - - 0 18",
+          "eval": {
+            "cp": -412
+          },
+          "eval_cp": -412,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 35,
+          "move_number": 18,
+          "san": "Qxd2",
+          "uci": "d5d2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r1b2rk1/pp3ppp/7q/3Q4/8/8/PPPbN1PP/3K1B1R w - - 0 18",
+          "fen_after": "r1b2rk1/pp3ppp/7q/8/8/8/PPPQN1PP/3K1B1R b - - 0 18",
+          "eval": {
+            "cp": -422
+          },
+          "eval_cp": -422,
+          "eval_before": {
+            "cp": -422
+          },
+          "best_san": "Qxd2",
+          "best_uci": "d5d2",
+          "second_san": "h3",
+          "loss_cp": 0,
+          "gap_cp": 258,
+          "judgment": "great",
+          "depth": 16
+        },
+        {
+          "ply": 36,
+          "move_number": 18,
+          "san": "Bg4",
+          "uci": "c8g4",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r1b2rk1/pp3ppp/7q/8/8/8/PPPQN1PP/3K1B1R b - - 0 18",
+          "fen_after": "r4rk1/pp3ppp/7q/8/6b1/8/PPPQN1PP/3K1B1R w - - 1 19",
+          "eval": {
+            "cp": -357
+          },
+          "eval_cp": -357,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 37,
+          "move_number": 19,
+          "san": "Qxh6",
+          "uci": "d2h6",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "r4rk1/pp3ppp/7q/8/6b1/8/PPPQN1PP/3K1B1R w - - 1 19",
+          "fen_after": "r4rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/3K1B1R b - - 0 19",
+          "eval": {
+            "cp": -365
+          },
+          "eval_cp": -365,
+          "eval_before": {
+            "cp": -360
+          },
+          "best_san": "Qxh6",
+          "best_uci": "d2h6",
+          "second_san": "Kc1",
+          "loss_cp": 5,
+          "gap_cp": 166,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 38,
+          "move_number": 19,
+          "san": "Rad8+",
+          "uci": "a8d8",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "r4rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/3K1B1R b - - 0 19",
+          "fen_after": "3r1rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/3K1B1R w - - 1 20",
+          "eval": {
+            "cp": 441
+          },
+          "eval_cp": 441,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 39,
+          "move_number": 20,
+          "san": "Ke1",
+          "uci": "d1e1",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3r1rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/3K1B1R w - - 1 20",
+          "fen_after": "3r1rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/4KB1R b - - 2 20",
+          "eval": {
+            "cp": -475
+          },
+          "eval_cp": -475,
+          "eval_before": {
+            "cp": 446
+          },
+          "best_san": "Qd2",
+          "best_uci": "h6d2",
+          "second_san": "Kc1",
+          "loss_cp": 921,
+          "gap_cp": 782,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 40,
+          "move_number": 20,
+          "san": "Bxe2",
+          "uci": "g4e2",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3r1rk1/pp3ppp/7Q/8/6b1/8/PPP1N1PP/4KB1R b - - 2 20",
+          "fen_after": "3r1rk1/pp3ppp/7Q/8/8/8/PPP1b1PP/4KB1R w - - 0 21",
+          "eval": {
+            "cp": 398
+          },
+          "eval_cp": 398,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 41,
+          "move_number": 21,
+          "san": "Qe3",
+          "uci": "h6e3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3r1rk1/pp3ppp/7Q/8/8/8/PPP1b1PP/4KB1R w - - 0 21",
+          "fen_after": "3r1rk1/pp3ppp/8/8/8/4Q3/PPP1b1PP/4KB1R b - - 1 21",
+          "eval": {
+            "cp": 22
+          },
+          "eval_cp": 22,
+          "eval_before": {
+            "cp": 422
+          },
+          "best_san": "Qf4",
+          "best_uci": "h6f4",
+          "second_san": "Qg5",
+          "loss_cp": 400,
+          "gap_cp": 16,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 42,
+          "move_number": 21,
+          "san": "Rfe8",
+          "uci": "f8e8",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3r1rk1/pp3ppp/8/8/8/4Q3/PPP1b1PP/4KB1R b - - 1 21",
+          "fen_after": "3rr1k1/pp3ppp/8/8/8/4Q3/PPP1b1PP/4KB1R w - - 2 22",
+          "eval": {
+            "cp": 557
+          },
+          "eval_cp": 557,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 43,
+          "move_number": 22,
+          "san": "Qa3",
+          "uci": "e3a3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3rr1k1/pp3ppp/8/8/8/4Q3/PPP1b1PP/4KB1R w - - 2 22",
+          "fen_after": "3rr1k1/pp3ppp/8/8/8/Q7/PPP1b1PP/4KB1R b - - 3 22",
+          "eval": {
+            "cp": 0
+          },
+          "eval_cp": 0,
+          "eval_before": {
+            "cp": 540
+          },
+          "best_san": "Qxe8+",
+          "best_uci": "e3e8",
+          "second_san": "Qxe2",
+          "loss_cp": 540,
+          "gap_cp": 8,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 44,
+          "move_number": 22,
+          "san": "Bb5+",
+          "uci": "e2b5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3rr1k1/pp3ppp/8/8/8/Q7/PPP1b1PP/4KB1R b - - 3 22",
+          "fen_after": "3rr1k1/pp3ppp/8/1b6/8/Q7/PPP3PP/4KB1R w - - 4 23",
+          "eval": {
+            "cp": 272
+          },
+          "eval_cp": 272,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 45,
+          "move_number": 23,
+          "san": "Be2",
+          "uci": "f1e2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3rr1k1/pp3ppp/8/1b6/8/Q7/PPP3PP/4KB1R w - - 4 23",
+          "fen_after": "3rr1k1/pp3ppp/8/1b6/8/Q7/PPP1B1PP/4K2R b - - 5 23",
+          "eval": {
+            "mate": -2
+          },
+          "eval_cp": -9998,
+          "eval_before": {
+            "cp": 302
+          },
+          "best_san": "Kf2",
+          "best_uci": "e1f2",
+          "second_san": "Qe3",
+          "loss_cp": 1802,
+          "gap_cp": 948,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 46,
+          "move_number": 23,
+          "san": "Bxe2",
+          "uci": "b5e2",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3rr1k1/pp3ppp/8/1b6/8/Q7/PPP1B1PP/4K2R b - - 5 23",
+          "fen_after": "3rr1k1/pp3ppp/8/8/8/Q7/PPP1b1PP/4K2R w - - 0 24",
+          "eval": {
+            "cp": 0
+          },
+          "eval_cp": 0,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 47,
+          "move_number": 24,
+          "san": "Qxa7",
+          "uci": "a3a7",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3rr1k1/pp3ppp/8/8/8/Q7/PPP1b1PP/4K2R w - - 0 24",
+          "fen_after": "3rr1k1/Qp3ppp/8/8/8/8/PPP1b1PP/4K2R b - - 0 24",
+          "eval": {
+            "cp": -467
+          },
+          "eval_cp": -467,
+          "eval_before": {
+            "cp": 0
+          },
+          "best_san": "Kf2",
+          "best_uci": "e1f2",
+          "second_san": "Rg1",
+          "loss_cp": 467,
+          "gap_cp": 325,
+          "judgment": "blunder",
+          "depth": 16
+        },
+        {
+          "ply": 48,
+          "move_number": 24,
+          "san": "Bf3+",
+          "uci": "e2f3",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3rr1k1/Qp3ppp/8/8/8/8/PPP1b1PP/4K2R b - - 0 24",
+          "fen_after": "3rr1k1/Qp3ppp/8/8/8/5b2/PPP3PP/4K2R w - - 1 25",
+          "eval": {
+            "cp": -205
+          },
+          "eval_cp": -205,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 49,
+          "move_number": 25,
+          "san": "Kf2",
+          "uci": "e1f2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3rr1k1/Qp3ppp/8/8/8/5b2/PPP3PP/4K2R w - - 1 25",
+          "fen_after": "3rr1k1/Qp3ppp/8/8/8/5b2/PPP2KPP/7R b - - 2 25",
+          "eval": {
+            "cp": -233
+          },
+          "eval_cp": -233,
+          "eval_before": {
+            "cp": -216
+          },
+          "best_san": "Kf2",
+          "best_uci": "e1f2",
+          "second_san": "Kf1",
+          "loss_cp": 17,
+          "gap_cp": 106,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 50,
+          "move_number": 25,
+          "san": "Bxg2",
+          "uci": "f3g2",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3rr1k1/Qp3ppp/8/8/8/5b2/PPP2KPP/7R b - - 2 25",
+          "fen_after": "3rr1k1/Qp3ppp/8/8/8/8/PPP2KbP/7R w - - 0 26",
+          "eval": {
+            "cp": 265
+          },
+          "eval_cp": 265,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 51,
+          "move_number": 26,
+          "san": "Kxg2",
+          "uci": "f2g2",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "3rr1k1/Qp3ppp/8/8/8/8/PPP2KbP/7R w - - 0 26",
+          "fen_after": "3rr1k1/Qp3ppp/8/8/8/8/PPP3KP/7R b - - 0 26",
+          "eval": {
+            "cp": 353
+          },
+          "eval_cp": 353,
+          "eval_before": {
+            "cp": 333
+          },
+          "best_san": "Kxg2",
+          "best_uci": "f2g2",
+          "second_san": "Re1",
+          "loss_cp": -20,
+          "gap_cp": 333,
+          "judgment": "great",
+          "depth": 16
+        },
+        {
+          "ply": 52,
+          "move_number": 26,
+          "san": "Rd2+",
+          "uci": "d8d2",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "3rr1k1/Qp3ppp/8/8/8/8/PPP3KP/7R b - - 0 26",
+          "fen_after": "4r1k1/Qp3ppp/8/8/8/8/PPPr2KP/7R w - - 1 27",
+          "eval": {
+            "cp": 357
+          },
+          "eval_cp": 357,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 53,
+          "move_number": 27,
+          "san": "Kg3",
+          "uci": "g2g3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "4r1k1/Qp3ppp/8/8/8/8/PPPr2KP/7R w - - 1 27",
+          "fen_after": "4r1k1/Qp3ppp/8/8/8/6K1/PPPr3P/7R b - - 2 27",
+          "eval": {
+            "cp": 366
+          },
+          "eval_cp": 366,
+          "eval_before": {
+            "cp": 362
+          },
+          "best_san": "Kg3",
+          "best_uci": "g2g3",
+          "second_san": "Kf3",
+          "loss_cp": -4,
+          "gap_cp": 45,
+          "judgment": "best",
+          "depth": 16
+        },
+        {
+          "ply": 54,
+          "move_number": 27,
+          "san": "Re3+",
+          "uci": "e8e3",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "4r1k1/Qp3ppp/8/8/8/6K1/PPPr3P/7R b - - 2 27",
+          "fen_after": "6k1/Qp3ppp/8/8/8/4r1K1/PPPr3P/7R w - - 3 28",
+          "eval": {
+            "cp": 736
+          },
+          "eval_cp": 736,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 55,
+          "move_number": 28,
+          "san": "Qxe3",
+          "uci": "a7e3",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "6k1/Qp3ppp/8/8/8/4r1K1/PPPr3P/7R w - - 3 28",
+          "fen_after": "6k1/1p3ppp/8/8/8/4Q1K1/PPPr3P/7R b - - 0 28",
+          "eval": {
+            "cp": 874
+          },
+          "eval_cp": 874,
+          "eval_before": {
+            "cp": 828
+          },
+          "best_san": "Qxe3",
+          "best_uci": "a7e3",
+          "second_san": "Kf4",
+          "loss_cp": -46,
+          "gap_cp": 455,
+          "judgment": "great",
+          "depth": 16
+        },
+        {
+          "ply": 56,
+          "move_number": 28,
+          "san": "Rd5",
+          "uci": "d2d5",
+          "colour": "black",
+          "is_player_move": false,
+          "fen_before": "6k1/1p3ppp/8/8/8/4Q1K1/PPPr3P/7R b - - 0 28",
+          "fen_after": "6k1/1p3ppp/8/3r4/8/4Q1K1/PPP4P/7R w - - 1 29",
+          "eval": {
+            "mate": 1
+          },
+          "eval_cp": 9999,
+          "eval_before": null,
+          "best_san": null,
+          "best_uci": null,
+          "second_san": null,
+          "loss_cp": null,
+          "gap_cp": null,
+          "judgment": null,
+          "depth": 16
+        },
+        {
+          "ply": 57,
+          "move_number": 29,
+          "san": "Qe8#",
+          "uci": "e3e8",
+          "colour": "white",
+          "is_player_move": true,
+          "fen_before": "6k1/1p3ppp/8/3r4/8/4Q1K1/PPP4P/7R w - - 1 29",
+          "fen_after": "4Q1k1/1p3ppp/8/3r4/8/6K1/PPP4P/7R b - - 2 29",
+          "eval": {
+            "mate": 0,
+            "winner": "white"
+          },
+          "eval_cp": 10000,
+          "eval_before": {
+            "mate": 1
+          },
+          "best_san": "Qe8#",
+          "best_uci": "e3e8",
+          "second_san": "Qe7",
+          "loss_cp": 0,
+          "gap_cp": 619,
+          "judgment": "great",
           "depth": 16
         }
       ]
