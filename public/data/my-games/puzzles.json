@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-18T21:04:27+11:00",
+  "generated_melbourne": "2026-11-19T20:55:38+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 178,
+  "count": 182,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -7869,6 +7869,182 @@
       },
       "loss_cp": 588,
       "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1 on the back rank",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187473775412-50",
+      "source": {
+        "game_id": "187473775412",
+        "url": "https://www.chess.com/game/live/187473775412",
+        "move_number": 25,
+        "ply": 50,
+        "colour": "black",
+        "opponent": "Ekscluzev-4ic",
+        "date": "2026-11-18T23:44:32+11:00"
+      },
+      "fen": "2k5/q2r1ppp/5n2/2p1N3/6b1/2nP2P1/P1P1rPBP/5RK1 b - - 3 25",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qxa2",
+        "uci": "a7a2"
+      },
+      "solution": {
+        "san": [
+          "Rxe5"
+        ],
+        "uci": [
+          "e2e5"
+        ]
+      },
+      "eval_before": {
+        "cp": 1044
+      },
+      "eval_after": {
+        "cp": 853
+      },
+      "eval_best": {
+        "cp": 1044
+      },
+      "loss_cp": 191,
+      "gap_cp": 156,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187473775412-80",
+      "source": {
+        "game_id": "187473775412",
+        "url": "https://www.chess.com/game/live/187473775412",
+        "move_number": 40,
+        "ply": 80,
+        "colour": "black",
+        "opponent": "Ekscluzev-4ic",
+        "date": "2026-11-18T23:44:32+11:00"
+      },
+      "fen": "8/3k1ppp/8/2p1K3/7P/6Pr/6q1/8 b - - 5 40",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qxg3+",
+        "uci": "g2g3"
+      },
+      "solution": {
+        "san": [
+          "Qf3",
+          "g4",
+          "f6#"
+        ],
+        "uci": [
+          "g2f3",
+          "g3g4",
+          "f7f6"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187519708350-38",
+      "source": {
+        "game_id": "187519708350",
+        "url": "https://www.chess.com/game/live/187519708350",
+        "move_number": 19,
+        "ply": 38,
+        "colour": "black",
+        "opponent": "Kiwi_Mulcc",
+        "date": "2026-11-19T13:24:22+11:00"
+      },
+      "fen": "2kr3r/pp2qppp/4b3/2p1P3/3nN3/1P5P/P1PQ2P1/2KR1B1R b - - 1 19",
+      "side_to_move": "black",
+      "played": {
+        "san": "Bf5",
+        "uci": "e6f5"
+      },
+      "solution": {
+        "san": [
+          "Nxb3+",
+          "axb3",
+          "Rxd2"
+        ],
+        "uci": [
+          "d4b3",
+          "a2b3",
+          "d8d2"
+        ]
+      },
+      "eval_before": {
+        "cp": 358
+      },
+      "eval_after": {
+        "cp": -26
+      },
+      "eval_best": {
+        "cp": 358
+      },
+      "loss_cp": 384,
+      "gap_cp": 237,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win the queen with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187519708350-42",
+      "source": {
+        "game_id": "187519708350",
+        "url": "https://www.chess.com/game/live/187519708350",
+        "move_number": 21,
+        "ply": 42,
+        "colour": "black",
+        "opponent": "Kiwi_Mulcc",
+        "date": "2026-11-19T13:24:22+11:00"
+      },
+      "fen": "2kr3r/pp3ppp/8/2q1Pb2/3Q4/1P5P/P1P3P1/2KR1B1R b - - 0 21",
+      "side_to_move": "black",
+      "played": {
+        "san": "Rxd4",
+        "uci": "d8d4"
+      },
+      "solution": {
+        "san": [
+          "Qxc2#"
+        ],
+        "uci": [
+          "c5c2"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "cp": 1142
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 358,
+      "gap_cp": 499,
       "theme": "mate-in-1",
       "hint": "You have a mate in one. Look at every check before you move.",
       "goal": "Mate in 1 on the back rank",

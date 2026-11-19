@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-18T21:04:27+11:00",
+  "generated_melbourne": "2026-11-19T20:55:38+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -9,7 +9,7 @@
       "theme": "mate-in-1",
       "title": "Missed mate in one",
       "description": "You had a mate in one and played something else. Before you move, scan every check \u2014 if they can't stop it, that's the game.",
-      "count": 24,
+      "count": 25,
       "recurring": true,
       "puzzle_ids": [
         "p-184699983008-63",
@@ -35,7 +35,8 @@
         "p-186887800156-20",
         "p-187023744686-82",
         "p-187093895766-39",
-        "p-187383961270-35"
+        "p-187383961270-35",
+        "p-187519708350-42"
       ]
     },
     {
@@ -43,7 +44,7 @@
       "theme": "mate-in-2",
       "title": "Missed mate in two",
       "description": "You had a forced mate in two and let it go. Look for a check that leaves them only bad replies, then deliver the mate.",
-      "count": 12,
+      "count": 13,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-88",
@@ -57,7 +58,8 @@
         "p-186319281976-53",
         "p-186496623856-87",
         "p-187383829086-30",
-        "p-187383829086-32"
+        "p-187383829086-32",
+        "p-187473775412-80"
       ]
     },
     {
@@ -137,7 +139,7 @@
       "theme": "fork",
       "title": "Forks",
       "description": "You missed a fork: one move attacked two valuable targets at once (often the king and a piece) and won one of them.",
-      "count": 8,
+      "count": 9,
       "recurring": true,
       "puzzle_ids": [
         "p-184884786508-57",
@@ -147,7 +149,8 @@
         "p-186145045572-16",
         "p-186765223276-28",
         "p-186887452952-17",
-        "p-187093895766-17"
+        "p-187093895766-17",
+        "p-187519708350-38"
       ]
     },
     {
@@ -155,7 +158,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 89,
+      "count": 90,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -246,7 +249,8 @@
         "p-186765223276-4",
         "p-187093895766-59",
         "p-187105223886-24",
-        "p-187383829086-8"
+        "p-187383829086-8",
+        "p-187473775412-50"
       ]
     },
     {
