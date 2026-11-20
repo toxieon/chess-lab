@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-19T20:55:38+11:00",
+  "generated_melbourne": "2026-11-20T20:59:52+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -377,6 +377,72 @@
       ]
     },
     {
+      "name": "Queen's Pawn Opening: Horwitz Defense",
+      "variation": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
+      "eco": "A40",
+      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3",
+      "colour": "white",
+      "moves": "1.d4 e6 2.Nf3 c6 3.Nc3",
+      "games": 5,
+      "win": 3,
+      "draw": 0,
+      "loss": 2,
+      "score_pct": 60.0,
+      "example_games": [
+        {
+          "id": "187539832598",
+          "url": "https://www.chess.com/game/live/187539832598",
+          "result": "loss",
+          "date": "2026-11-19T21:52:25+11:00"
+        },
+        {
+          "id": "185609067546",
+          "url": "https://www.chess.com/game/live/185609067546",
+          "result": "loss",
+          "date": "2026-10-20T10:06:10+11:00"
+        },
+        {
+          "id": "185346799314",
+          "url": "https://www.chess.com/game/live/185346799314",
+          "result": "win",
+          "date": "2026-10-15T13:23:09+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.d4 with \u2026e6. It is a flexible wait-and-see move that can become a French, a Queen's Gambit, or a Dutch. White usually continues Nf3 or c4 and occupies the centre.",
+      "variations": [
+        {
+          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
+          "eco": "A40",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.d4 e6 2.Nf3 c6 3.Nc3"
+        },
+        {
+          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3 b6",
+          "eco": "A40",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.d4 e6 2.Nf3 b6 3.Nc3 g6 4.Ne4 Bg7 5.d5 e5"
+        },
+        {
+          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3 c5",
+          "eco": "A40",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 e6 2.d4 c5 3.Nc3 d5 4.dxc5 Bxc5 5.e3 Nc6"
+        }
+      ]
+    },
+    {
       "name": "R\u00e9ti Opening: Queenside Fianchetto Variation",
       "variation": "R\u00e9ti Opening: Queenside Fianchetto Variation, 2.d4 Bb7",
       "eco": "A04",
@@ -593,62 +659,6 @@
           "loss": 1,
           "score_pct": 75.0,
           "moves": "1.Nf3 d5 2.d4 Nf6 3.Nc3 Nc6 4.Bg5"
-        }
-      ]
-    },
-    {
-      "name": "Queen's Pawn Opening: Horwitz Defense",
-      "variation": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
-      "eco": "A40",
-      "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3",
-      "colour": "white",
-      "moves": "1.d4 e6 2.Nf3 c6 3.Nc3",
-      "games": 4,
-      "win": 3,
-      "draw": 0,
-      "loss": 1,
-      "score_pct": 75.0,
-      "example_games": [
-        {
-          "id": "185609067546",
-          "url": "https://www.chess.com/game/live/185609067546",
-          "result": "loss",
-          "date": "2026-10-20T10:06:10+11:00"
-        },
-        {
-          "id": "185346799314",
-          "url": "https://www.chess.com/game/live/185346799314",
-          "result": "win",
-          "date": "2026-10-15T13:23:09+11:00"
-        },
-        {
-          "id": "185146220024",
-          "url": "https://www.chess.com/game/live/185146220024",
-          "result": "win",
-          "date": "2026-10-11T18:10:49+11:00"
-        }
-      ],
-      "explanation": "Black answers 1.d4 with \u2026e6. It is a flexible wait-and-see move that can become a French, a Queen's Gambit, or a Dutch. White usually continues Nf3 or c4 and occupies the centre.",
-      "variations": [
-        {
-          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
-          "eco": "A40",
-          "games": 3,
-          "win": 2,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 66.7,
-          "moves": "1.d4 e6 2.Nf3 c6 3.Nc3"
-        },
-        {
-          "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3 b6",
-          "eco": "A40",
-          "games": 1,
-          "win": 1,
-          "draw": 0,
-          "loss": 0,
-          "score_pct": 100.0,
-          "moves": "1.d4 e6 2.Nf3 b6 3.Nc3 g6 4.Ne4 Bg7 5.d5 e5"
         }
       ]
     },
@@ -2281,6 +2291,78 @@
       ]
     },
     {
+      "name": "King's Fianchetto Opening",
+      "variation": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
+      "eco": "A00",
+      "eco_url": "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5-2.Bg2-Nc6",
+      "colour": "black",
+      "moves": "1.g3 e5 2.Bg2 Nc6 3.e3",
+      "games": 5,
+      "win": 3,
+      "draw": 0,
+      "loss": 2,
+      "score_pct": 60.0,
+      "example_games": [
+        {
+          "id": "187593986462",
+          "url": "https://www.chess.com/game/live/187593986462",
+          "result": "win",
+          "date": "2026-11-20T14:21:59+11:00"
+        },
+        {
+          "id": "186885842314",
+          "url": "https://www.chess.com/game/live/186885842314",
+          "result": "win",
+          "date": "2026-11-10T13:18:28+11:00"
+        },
+        {
+          "id": "186391560182",
+          "url": "https://www.chess.com/game/live/186391560182",
+          "result": "win",
+          "date": "2026-11-02T22:15:12+11:00"
+        },
+        {
+          "id": "185956979988",
+          "url": "https://www.chess.com/game/live/185956979988",
+          "result": "loss",
+          "date": "2026-10-26T14:41:10+11:00"
+        }
+      ],
+      "explanation": "White plays 1.g3 and puts the bishop on g2. This often becomes a King's Indian Attack or a R\u00e9ti. White's king is usually very safe behind the fianchetto; the plan is to castle and later strike with e4 or c4.",
+      "variations": [
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
+          "eco": "A00",
+          "games": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 66.7,
+          "moves": "1.g3 e5 2.Bg2 Nc6 3.e3"
+        },
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6 3.d3",
+          "eco": "A00",
+          "games": 1,
+          "win": 0,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 0.0,
+          "moves": "1.g3 e5 2.Bg2 Nc6 3.d3 Nf6 4.c3 e4 5.Bg5 exd3"
+        },
+        {
+          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nf6",
+          "eco": "A00",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.g3 e5 2.Bg2 Nf6 3.b3 Nc6 4.Bb2 Bb4 5.a3 Bc5"
+        }
+      ]
+    },
+    {
       "name": "Queen's Pawn Opening: Accelerated London System",
       "variation": null,
       "eco": "D00",
@@ -2583,72 +2665,6 @@
           "loss": 1,
           "score_pct": 75.0,
           "moves": "1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.Nc3"
-        }
-      ]
-    },
-    {
-      "name": "King's Fianchetto Opening",
-      "variation": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
-      "eco": "A00",
-      "eco_url": "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5-2.Bg2-Nc6",
-      "colour": "black",
-      "moves": "1.g3 e5 2.Bg2 Nc6",
-      "games": 4,
-      "win": 2,
-      "draw": 0,
-      "loss": 2,
-      "score_pct": 50.0,
-      "example_games": [
-        {
-          "id": "186885842314",
-          "url": "https://www.chess.com/game/live/186885842314",
-          "result": "win",
-          "date": "2026-11-10T13:18:28+11:00"
-        },
-        {
-          "id": "186391560182",
-          "url": "https://www.chess.com/game/live/186391560182",
-          "result": "win",
-          "date": "2026-11-02T22:15:12+11:00"
-        },
-        {
-          "id": "185956979988",
-          "url": "https://www.chess.com/game/live/185956979988",
-          "result": "loss",
-          "date": "2026-10-26T14:41:10+11:00"
-        }
-      ],
-      "explanation": "White plays 1.g3 and puts the bishop on g2. This often becomes a King's Indian Attack or a R\u00e9ti. White's king is usually very safe behind the fianchetto; the plan is to castle and later strike with e4 or c4.",
-      "variations": [
-        {
-          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6",
-          "eco": "A00",
-          "games": 2,
-          "win": 1,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 50.0,
-          "moves": "1.g3 e5 2.Bg2 Nc6"
-        },
-        {
-          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nc6 3.d3",
-          "eco": "A00",
-          "games": 1,
-          "win": 0,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 0.0,
-          "moves": "1.g3 e5 2.Bg2 Nc6 3.d3 Nf6 4.c3 e4 5.Bg5 exd3"
-        },
-        {
-          "name": "King's Fianchetto Opening: 1...e5 2.Bg2 Nf6",
-          "eco": "A00",
-          "games": 1,
-          "win": 1,
-          "draw": 0,
-          "loss": 0,
-          "score_pct": 100.0,
-          "moves": "1.g3 e5 2.Bg2 Nf6 3.b3 Nc6 4.Bb2 Bb4 5.a3 Bc5"
         }
       ]
     },
