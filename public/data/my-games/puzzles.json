@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-20T20:59:52+11:00",
+  "generated_melbourne": "2026-11-21T20:57:29+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 182,
+  "count": 193,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -8049,6 +8049,486 @@
       "hint": "You have a mate in one. Look at every check before you move.",
       "goal": "Mate in 1 on the back rank",
       "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187671573944-51",
+      "source": {
+        "game_id": "187671573944",
+        "url": "https://www.chess.com/game/live/187671573944",
+        "move_number": 26,
+        "ply": 51,
+        "colour": "white",
+        "opponent": "EatChurros",
+        "date": "2026-11-21T16:18:30+11:00"
+      },
+      "fen": "6k1/ppp3pp/2n2p2/2Q4q/P7/B7/2P2PPP/3K4 w - - 3 26",
+      "side_to_move": "white",
+      "played": {
+        "san": "f3",
+        "uci": "f2f3"
+      },
+      "solution": {
+        "san": [
+          "Qxh5"
+        ],
+        "uci": [
+          "c5h5"
+        ]
+      },
+      "eval_before": {
+        "cp": 852
+      },
+      "eval_after": {
+        "cp": -278
+      },
+      "eval_best": {
+        "cp": 852
+      },
+      "loss_cp": 1130,
+      "gap_cp": 1069,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the queen",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187674306214-18",
+      "source": {
+        "game_id": "187674306214",
+        "url": "https://www.chess.com/game/live/187674306214",
+        "move_number": 9,
+        "ply": 18,
+        "colour": "black",
+        "opponent": "sebastian0913",
+        "date": "2026-11-21T17:35:17+11:00"
+      },
+      "fen": "r1b1kb1r/1pp1qppp/p4n2/2p3B1/4P3/5N2/PPP1QPPP/RN2K2R b KQkq - 3 9",
+      "side_to_move": "black",
+      "played": {
+        "san": "Bg4",
+        "uci": "c8g4"
+      },
+      "solution": {
+        "san": [
+          "Qxe4",
+          "Nc3"
+        ],
+        "uci": [
+          "e7e4",
+          "b1c3"
+        ]
+      },
+      "eval_before": {
+        "cp": 171
+      },
+      "eval_after": {
+        "cp": -23
+      },
+      "eval_best": {
+        "cp": 171
+      },
+      "loss_cp": 194,
+      "gap_cp": 157,
+      "theme": "winning-tactic",
+      "hint": "There's a tactic that wins material. Look at every capture and every check.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677761540-11",
+      "source": {
+        "game_id": "187677761540",
+        "url": "https://www.chess.com/game/live/187677761540",
+        "move_number": 6,
+        "ply": 11,
+        "colour": "white",
+        "opponent": "iyuprumi",
+        "date": "2026-11-21T19:02:46+11:00"
+      },
+      "fen": "rnbk1bnr/ppp3pp/5p2/4N3/8/8/PPP1PPPP/RNB1KB1R w KQ - 0 6",
+      "side_to_move": "white",
+      "played": {
+        "san": "Nc4",
+        "uci": "e5c4"
+      },
+      "solution": {
+        "san": [
+          "Nf7+",
+          "Ke8",
+          "Nxh8"
+        ],
+        "uci": [
+          "e5f7",
+          "d8e8",
+          "f7h8"
+        ]
+      },
+      "eval_before": {
+        "cp": 445
+      },
+      "eval_after": {
+        "cp": 179
+      },
+      "eval_best": {
+        "cp": 445
+      },
+      "loss_cp": 266,
+      "gap_cp": 239,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win the rook with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677761540-37",
+      "source": {
+        "game_id": "187677761540",
+        "url": "https://www.chess.com/game/live/187677761540",
+        "move_number": 19,
+        "ply": 37,
+        "colour": "white",
+        "opponent": "iyuprumi",
+        "date": "2026-11-21T19:02:46+11:00"
+      },
+      "fen": "1r1k2nr/2p4p/5ppb/2P5/3B4/1N2P3/2P2PPP/2KR1B1R w - - 1 19",
+      "side_to_move": "white",
+      "played": {
+        "san": "f4",
+        "uci": "f2f4"
+      },
+      "solution": {
+        "san": [
+          "Bxf6+"
+        ],
+        "uci": [
+          "d4f6"
+        ]
+      },
+      "eval_before": {
+        "cp": 870
+      },
+      "eval_after": {
+        "cp": 674
+      },
+      "eval_best": {
+        "cp": 870
+      },
+      "loss_cp": 196,
+      "gap_cp": 159,
+      "theme": "winning-tactic",
+      "hint": "There's a tactic that wins material. Look at every capture and every check.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677761540-77",
+      "source": {
+        "game_id": "187677761540",
+        "url": "https://www.chess.com/game/live/187677761540",
+        "move_number": 39,
+        "ply": 77,
+        "colour": "white",
+        "opponent": "iyuprumi",
+        "date": "2026-11-21T19:02:46+11:00"
+      },
+      "fen": "8/6kp/2Np4/7P/4B1p1/2n3P1/2PK4/8 w - - 2 39",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bd5",
+        "uci": "e4d5"
+      },
+      "solution": {
+        "san": [
+          "Kxc3"
+        ],
+        "uci": [
+          "d2c3"
+        ]
+      },
+      "eval_before": {
+        "cp": 1142
+      },
+      "eval_after": {
+        "cp": -13
+      },
+      "eval_best": {
+        "cp": 1142
+      },
+      "loss_cp": 1155,
+      "gap_cp": 312,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677761540-81",
+      "source": {
+        "game_id": "187677761540",
+        "url": "https://www.chess.com/game/live/187677761540",
+        "move_number": 41,
+        "ply": 81,
+        "colour": "white",
+        "opponent": "iyuprumi",
+        "date": "2026-11-21T19:02:46+11:00"
+      },
+      "fen": "8/6kp/2Np4/3B3P/6p1/3K2P1/2Pn4/8 w - - 6 41",
+      "side_to_move": "white",
+      "played": {
+        "san": "Kc3",
+        "uci": "d3c3"
+      },
+      "solution": {
+        "san": [
+          "Kxd2"
+        ],
+        "uci": [
+          "d3d2"
+        ]
+      },
+      "eval_before": {
+        "cp": 1092
+      },
+      "eval_after": {
+        "cp": 372
+      },
+      "eval_best": {
+        "cp": 1092
+      },
+      "loss_cp": 720,
+      "gap_cp": 511,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677857006-40",
+      "source": {
+        "game_id": "187677857006",
+        "url": "https://www.chess.com/game/live/187677857006",
+        "move_number": 20,
+        "ply": 40,
+        "colour": "black",
+        "opponent": "Muhammadyusuf_99",
+        "date": "2026-11-21T19:05:01+11:00"
+      },
+      "fen": "2k2b1r/ppp2ppp/1q6/8/4r3/4nQPK/PP5P/RN2R3 b - - 1 20",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qe6+",
+        "uci": "b6e6"
+      },
+      "solution": {
+        "san": [
+          "Qh6+",
+          "Qh5",
+          "Qxh5#"
+        ],
+        "uci": [
+          "b6h6",
+          "f3h5",
+          "h6h5"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187677857006-44",
+      "source": {
+        "game_id": "187677857006",
+        "url": "https://www.chess.com/game/live/187677857006",
+        "move_number": 22,
+        "ply": 44,
+        "colour": "black",
+        "opponent": "Muhammadyusuf_99",
+        "date": "2026-11-21T19:05:01+11:00"
+      },
+      "fen": "2k2b1r/ppp2ppp/4q3/8/6r1/2N1nQ1K/PP5P/R3R3 b - - 1 22",
+      "side_to_move": "black",
+      "played": {
+        "san": "Rf4+",
+        "uci": "g4f4"
+      },
+      "solution": {
+        "san": [
+          "Qh6#"
+        ],
+        "uci": [
+          "e6h6"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 9
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187677857006-62",
+      "source": {
+        "game_id": "187677857006",
+        "url": "https://www.chess.com/game/live/187677857006",
+        "move_number": 31,
+        "ply": 62,
+        "colour": "black",
+        "opponent": "Muhammadyusuf_99",
+        "date": "2026-11-21T19:05:01+11:00"
+      },
+      "fen": "4Rb1r/pppk1ppp/8/8/8/1KN5/PP3q2/3R4 b - - 5 31",
+      "side_to_move": "black",
+      "played": {
+        "san": "Bd6",
+        "uci": "f8d6"
+      },
+      "solution": {
+        "san": [
+          "Kxe8"
+        ],
+        "uci": [
+          "d7e8"
+        ]
+      },
+      "eval_before": {
+        "cp": 867
+      },
+      "eval_after": {
+        "cp": 473
+      },
+      "eval_best": {
+        "cp": 867
+      },
+      "loss_cp": 394,
+      "gap_cp": 338,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the rook",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187677857006-74",
+      "source": {
+        "game_id": "187677857006",
+        "url": "https://www.chess.com/game/live/187677857006",
+        "move_number": 37,
+        "ply": 74,
+        "colour": "black",
+        "opponent": "Muhammadyusuf_99",
+        "date": "2026-11-21T19:05:01+11:00"
+      },
+      "fen": "4r3/pp1k1ppp/8/2q5/1b6/3K4/PP6/2R5 b - - 5 37",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qd5+",
+        "uci": "c5d5"
+      },
+      "solution": {
+        "san": [
+          "Re3#"
+        ],
+        "uci": [
+          "e8e3"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187677857006-82",
+      "source": {
+        "game_id": "187677857006",
+        "url": "https://www.chess.com/game/live/187677857006",
+        "move_number": 41,
+        "ply": 82,
+        "colour": "black",
+        "opponent": "Muhammadyusuf_99",
+        "date": "2026-11-21T19:05:01+11:00"
+      },
+      "fen": "2r5/pp1k1ppp/8/8/8/1K6/PP6/2q5 b - - 2 41",
+      "side_to_move": "black",
+      "played": {
+        "san": "Qc4+",
+        "uci": "c1c4"
+      },
+      "solution": {
+        "san": [
+          "Qc2+",
+          "Ka3",
+          "Rc4",
+          "b3",
+          "Qc1#"
+        ],
+        "uci": [
+          "c1c2",
+          "b3a3",
+          "c8c4",
+          "b2b3",
+          "c2c1"
+        ]
+      },
+      "eval_before": {
+        "mate": 3
+      },
+      "eval_after": {
+        "mate": 3
+      },
+      "eval_best": {
+        "mate": 3
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-3",
+      "hint": "You have a forced mate in three. Keep checking until the king has no escape.",
+      "goal": "Mate in 3",
+      "mate_in": 3,
       "depth": 16
     }
   ]
