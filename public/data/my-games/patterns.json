@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-21T20:57:29+11:00",
+  "generated_melbourne": "2026-11-22T21:05:41+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -9,7 +9,7 @@
       "theme": "mate-in-1",
       "title": "Missed mate in one",
       "description": "You had a mate in one and played something else. Before you move, scan every check \u2014 if they can't stop it, that's the game.",
-      "count": 27,
+      "count": 29,
       "recurring": true,
       "puzzle_ids": [
         "p-184699983008-63",
@@ -38,7 +38,9 @@
         "p-187383961270-35",
         "p-187519708350-42",
         "p-187677857006-44",
-        "p-187677857006-74"
+        "p-187677857006-74",
+        "p-187745051152-67",
+        "p-187745051152-77"
       ]
     },
     {
@@ -46,7 +48,7 @@
       "theme": "mate-in-2",
       "title": "Missed mate in two",
       "description": "You had a forced mate in two and let it go. Look for a check that leaves them only bad replies, then deliver the mate.",
-      "count": 14,
+      "count": 18,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-88",
@@ -62,7 +64,11 @@
         "p-187383829086-30",
         "p-187383829086-32",
         "p-187473775412-80",
-        "p-187677857006-40"
+        "p-187677857006-40",
+        "p-187693666260-65",
+        "p-187745051152-23",
+        "p-187745051152-25",
+        "p-187745051152-69"
       ]
     },
     {
@@ -88,7 +94,7 @@
       "theme": "mate-in-4",
       "title": "Missed mate in four",
       "description": "You had a forced mate in four and played something else. The line is short enough to calculate: check, check, and finish.",
-      "count": 10,
+      "count": 11,
       "recurring": true,
       "puzzle_ids": [
         "p-184880104876-85",
@@ -100,7 +106,8 @@
         "p-185607362506-31",
         "p-186083702784-56",
         "p-186083702784-66",
-        "p-186887710508-57"
+        "p-186887710508-57",
+        "p-187745267996-31"
       ]
     },
     {
@@ -128,14 +135,15 @@
       "theme": "f2/f7-weakness",
       "title": "f2/f7 left weak",
       "description": "The f-pawn in front of the king (f2 for White, f7 for Black) was the tactical weak spot \u2014 a capture there won material or led the attack. That pawn is often only guarded by the king. Always check captures on f2 and f7.",
-      "count": 5,
+      "count": 6,
       "recurring": true,
       "puzzle_ids": [
         "p-184830813132-31",
         "p-185137261700-17",
         "p-185358363030-22",
         "p-185893963010-52",
-        "p-186017719176-59"
+        "p-186017719176-59",
+        "p-187745383728-27"
       ]
     },
     {
@@ -143,7 +151,7 @@
       "theme": "fork",
       "title": "Forks",
       "description": "You missed a fork: one move attacked two valuable targets at once (often the king and a piece) and won one of them.",
-      "count": 10,
+      "count": 12,
       "recurring": true,
       "puzzle_ids": [
         "p-184884786508-57",
@@ -155,7 +163,9 @@
         "p-186887452952-17",
         "p-187093895766-17",
         "p-187519708350-38",
-        "p-187677761540-11"
+        "p-187677761540-11",
+        "p-187745136856-56",
+        "p-187745383728-17"
       ]
     },
     {
@@ -163,7 +173,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 94,
+      "count": 96,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -259,7 +269,9 @@
         "p-187671573944-51",
         "p-187677761540-77",
         "p-187677761540-81",
-        "p-187677857006-62"
+        "p-187677857006-62",
+        "p-187693781186-26",
+        "p-187745267996-9"
       ]
     },
     {
@@ -267,7 +279,7 @@
       "theme": "trapped-piece",
       "title": "Trapped piece",
       "description": "A piece had no safe square left, and that was the tactic. Sometimes it was yours; sometimes you could have trapped one of theirs.",
-      "count": 7,
+      "count": 8,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-50",
@@ -276,7 +288,8 @@
         "p-185522276070-37",
         "p-186496623856-23",
         "p-186496623856-69",
-        "p-186835826516-37"
+        "p-186835826516-37",
+        "p-187745267996-69"
       ]
     },
     {
