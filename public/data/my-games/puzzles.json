@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-22T21:05:41+11:00",
+  "generated_melbourne": "2026-11-24T20:57:55+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 206,
+  "count": 210,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -9116,6 +9116,186 @@
       "theme": "f2/f7-weakness",
       "hint": "The pawn in front of the king is the soft spot. Look at captures on f2 and f7 \u2014 especially checks.",
       "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187828275584-23",
+      "source": {
+        "game_id": "187828275584",
+        "url": "https://www.chess.com/game/live/187828275584",
+        "move_number": 12,
+        "ply": 23,
+        "colour": "white",
+        "opponent": "S1E7ES",
+        "date": "2026-11-23T22:06:25+11:00"
+      },
+      "fen": "r2qkr2/p1pp1pQp/2p5/8/4n3/8/PPP2PPP/R1B1KR2 w Qq - 1 12",
+      "side_to_move": "white",
+      "played": {
+        "san": "Qxh7",
+        "uci": "g7h7"
+      },
+      "solution": {
+        "san": [
+          "Bh6",
+          "Qe7",
+          "Qxf8+",
+          "Qxf8",
+          "Bxf8"
+        ],
+        "uci": [
+          "c1h6",
+          "d8e7",
+          "g7f8",
+          "e7f8",
+          "h6f8"
+        ]
+      },
+      "eval_before": {
+        "cp": 424
+      },
+      "eval_after": {
+        "cp": 40
+      },
+      "eval_best": {
+        "cp": 424
+      },
+      "loss_cp": 384,
+      "gap_cp": 169,
+      "theme": "trapped-piece",
+      "hint": "A piece has nowhere safe to go. See whether you can save yours, or trap theirs.",
+      "goal": "Win the rook",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187898776034-26",
+      "source": {
+        "game_id": "187898776034",
+        "url": "https://www.chess.com/game/live/187898776034",
+        "move_number": 13,
+        "ply": 26,
+        "colour": "black",
+        "opponent": "s_maurya00",
+        "date": "2026-11-24T20:43:37+11:00"
+      },
+      "fen": "r3kb1r/ppp2p1p/2B5/5bp1/2P5/3pB1P1/Pq3P1P/R2QK2R b KQkq - 0 13",
+      "side_to_move": "black",
+      "played": {
+        "san": "Ke7",
+        "uci": "e8e7"
+      },
+      "solution": {
+        "san": [
+          "bxc6"
+        ],
+        "uci": [
+          "b7c6"
+        ]
+      },
+      "eval_before": {
+        "cp": 484
+      },
+      "eval_after": {
+        "cp": 74
+      },
+      "eval_best": {
+        "cp": 484
+      },
+      "loss_cp": 410,
+      "gap_cp": 315,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187898776034-58",
+      "source": {
+        "game_id": "187898776034",
+        "url": "https://www.chess.com/game/live/187898776034",
+        "move_number": 29,
+        "ply": 58,
+        "colour": "black",
+        "opponent": "s_maurya00",
+        "date": "2026-11-24T20:43:37+11:00"
+      },
+      "fen": "3r4/pp3kr1/2p1p3/2PQ4/8/6P1/3b1P1P/1R1R2K1 b - - 0 29",
+      "side_to_move": "black",
+      "played": {
+        "san": "exd5",
+        "uci": "e6d5"
+      },
+      "solution": {
+        "san": [
+          "Rxd5"
+        ],
+        "uci": [
+          "d8d5"
+        ]
+      },
+      "eval_before": {
+        "cp": 409
+      },
+      "eval_after": {
+        "cp": -90
+      },
+      "eval_best": {
+        "cp": 409
+      },
+      "loss_cp": 499,
+      "gap_cp": 500,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the queen",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187898961486-37",
+      "source": {
+        "game_id": "187898961486",
+        "url": "https://www.chess.com/game/live/187898961486",
+        "move_number": 19,
+        "ply": 37,
+        "colour": "white",
+        "opponent": "nisheshonly1",
+        "date": "2026-11-24T20:47:10+11:00"
+      },
+      "fen": "1k3r2/pp3B1p/2n2N1b/2p4p/8/5P2/PPP2PPP/1K1R4 w - - 6 19",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rd7",
+        "uci": "d1d7"
+      },
+      "solution": {
+        "san": [
+          "Nd7+",
+          "Kc7",
+          "Nxf8"
+        ],
+        "uci": [
+          "f6d7",
+          "b8c7",
+          "d7f8"
+        ]
+      },
+      "eval_before": {
+        "cp": 583
+      },
+      "eval_after": {
+        "cp": 35
+      },
+      "eval_best": {
+        "cp": 583
+      },
+      "loss_cp": 548,
+      "gap_cp": 531,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win the rook with a fork",
       "mate_in": null,
       "depth": 16
     }

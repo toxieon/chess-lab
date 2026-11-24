@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-22T21:05:41+11:00",
+  "generated_melbourne": "2026-11-24T20:57:55+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -151,7 +151,7 @@
       "theme": "fork",
       "title": "Forks",
       "description": "You missed a fork: one move attacked two valuable targets at once (often the king and a piece) and won one of them.",
-      "count": 12,
+      "count": 13,
       "recurring": true,
       "puzzle_ids": [
         "p-184884786508-57",
@@ -165,7 +165,8 @@
         "p-187519708350-38",
         "p-187677761540-11",
         "p-187745136856-56",
-        "p-187745383728-17"
+        "p-187745383728-17",
+        "p-187898961486-37"
       ]
     },
     {
@@ -173,7 +174,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 96,
+      "count": 98,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -271,7 +272,9 @@
         "p-187677761540-81",
         "p-187677857006-62",
         "p-187693781186-26",
-        "p-187745267996-9"
+        "p-187745267996-9",
+        "p-187898776034-26",
+        "p-187898776034-58"
       ]
     },
     {
@@ -279,7 +282,7 @@
       "theme": "trapped-piece",
       "title": "Trapped piece",
       "description": "A piece had no safe square left, and that was the tactic. Sometimes it was yours; sometimes you could have trapped one of theirs.",
-      "count": 8,
+      "count": 9,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-50",
@@ -289,7 +292,8 @@
         "p-186496623856-23",
         "p-186496623856-69",
         "p-186835826516-37",
-        "p-187745267996-69"
+        "p-187745267996-69",
+        "p-187828275584-23"
       ]
     },
     {
