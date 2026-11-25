@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-24T20:57:55+11:00",
+  "generated_melbourne": "2026-11-25T21:05:29+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -9,7 +9,7 @@
       "theme": "mate-in-1",
       "title": "Missed mate in one",
       "description": "You had a mate in one and played something else. Before you move, scan every check \u2014 if they can't stop it, that's the game.",
-      "count": 29,
+      "count": 34,
       "recurring": true,
       "puzzle_ids": [
         "p-184699983008-63",
@@ -40,7 +40,12 @@
         "p-187677857006-44",
         "p-187677857006-74",
         "p-187745051152-67",
-        "p-187745051152-77"
+        "p-187745051152-77",
+        "p-187958787258-43",
+        "p-187958787258-51",
+        "p-187958787258-53",
+        "p-187958787258-55",
+        "p-187958787258-67"
       ]
     },
     {
@@ -48,7 +53,7 @@
       "theme": "mate-in-2",
       "title": "Missed mate in two",
       "description": "You had a forced mate in two and let it go. Look for a check that leaves them only bad replies, then deliver the mate.",
-      "count": 18,
+      "count": 20,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-88",
@@ -68,7 +73,9 @@
         "p-187693666260-65",
         "p-187745051152-23",
         "p-187745051152-25",
-        "p-187745051152-69"
+        "p-187745051152-69",
+        "p-187946119074-37",
+        "p-187958787258-49"
       ]
     },
     {
@@ -76,7 +83,7 @@
       "theme": "mate-in-3",
       "title": "Missed mate in three",
       "description": "You had a forced mate in three. When the king is boxed in, keep looking at checks until the mate is actually on the board.",
-      "count": 8,
+      "count": 10,
       "recurring": true,
       "puzzle_ids": [
         "p-184840260408-79",
@@ -86,7 +93,9 @@
         "p-185470454946-59",
         "p-185524333210-61",
         "p-186074032768-64",
-        "p-187677857006-82"
+        "p-187677857006-82",
+        "p-187946119074-61",
+        "p-187958787258-57"
       ]
     },
     {

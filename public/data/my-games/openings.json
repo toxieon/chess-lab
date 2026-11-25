@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-24T20:57:55+11:00",
+  "generated_melbourne": "2026-11-25T21:05:28+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -111,12 +111,18 @@
       "eco_url": "https://www.chess.com/openings/Reti-Opening",
       "colour": "white",
       "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6",
-      "games": 19,
-      "win": 8,
+      "games": 20,
+      "win": 9,
       "draw": 0,
       "loss": 11,
-      "score_pct": 42.1,
+      "score_pct": 45.0,
       "example_games": [
+        {
+          "id": "187958850198",
+          "url": "https://www.chess.com/game/live/187958850198",
+          "result": "win",
+          "date": "2026-11-25T14:27:53+11:00"
+        },
         {
           "id": "187898961486",
           "url": "https://www.chess.com/game/live/187898961486",
@@ -128,12 +134,6 @@
           "url": "https://www.chess.com/game/live/187828275584",
           "result": "win",
           "date": "2026-11-23T22:06:25+11:00"
-        },
-        {
-          "id": "187745267996",
-          "url": "https://www.chess.com/game/live/187745267996",
-          "result": "win",
-          "date": "2026-11-22T17:34:12+11:00"
         }
       ],
       "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
@@ -141,11 +141,11 @@
         {
           "name": "R\u00e9ti Opening",
           "eco": "A04",
-          "games": 19,
-          "win": 8,
+          "games": 20,
+          "win": 9,
           "draw": 0,
           "loss": 11,
-          "score_pct": 42.1,
+          "score_pct": 45.0,
           "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6"
         }
       ]
@@ -1141,6 +1141,40 @@
       ]
     },
     {
+      "name": "Closed Sicilian Defense",
+      "variation": "Closed Sicilian Defense: 2...g6 3.Nf3 Bg7 4.d4",
+      "eco": "B23",
+      "eco_url": "https://www.chess.com/openings/Closed-Sicilian-Defense-2...g6-3.Nf3-Bg7-4.d4",
+      "colour": "white",
+      "moves": "1.Nf3 g6 2.d4 Bg7 3.Nc3 c5 4.e4 d6 5.dxc5 dxc5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "187958787258",
+          "url": "https://www.chess.com/game/live/187958787258",
+          "result": "win",
+          "date": "2026-11-25T14:26:07+11:00"
+        }
+      ],
+      "explanation": "The Closed Sicilian Defense (ECO B23) is the name Chess.com gives this opening. It showed up in your games after 1.Nf3 g6 2.d4 Bg7 3.Nc3 c5 4.e4 d6 5.dxc5 dxc5. Develop your pieces, castle early, and watch the f2 and f7 pawns \u2014 those are the usual soft spots in this kind of position.",
+      "variations": [
+        {
+          "name": "Closed Sicilian Defense: 2...g6 3.Nf3 Bg7 4.d4",
+          "eco": "B23",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 g6 2.d4 Bg7 3.Nc3 c5 4.e4 d6 5.dxc5 dxc5"
+        }
+      ]
+    },
+    {
       "name": "English Defense",
       "variation": null,
       "eco": "A40",
@@ -1719,6 +1753,40 @@
       ]
     },
     {
+      "name": "R\u00e9ti Opening: Slav Invitation",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening-Slav-Invitation",
+      "colour": "white",
+      "moves": "1.Nf3 c6 2.d3 d5 3.d4 Nf6 4.Nc3 Nbd7 5.Bg5 e5",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "187946119074",
+          "url": "https://www.chess.com/game/live/187946119074",
+          "result": "win",
+          "date": "2026-11-25T09:01:34+11:00"
+        }
+      ],
+      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening: Slav Invitation",
+          "eco": "A04",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 c6 2.d3 d5 3.d4 Nf6 4.Nc3 Nbd7 5.Bg5 e5"
+        }
+      ]
+    },
+    {
       "name": "Sicilian Defense: French Variation",
       "variation": "Sicilian Defense: French Variation, 3.Nc3 d5 4.exd5 exd5",
       "eco": "B40",
@@ -1749,6 +1817,40 @@
           "loss": 0,
           "score_pct": 100.0,
           "moves": "1.Nf3 e6 2.e4 d5 3.exd5 exd5 4.Nc3 c5 5.d4 Nc6"
+        }
+      ]
+    },
+    {
+      "name": "Sicilian Defense: Taimanov Variation",
+      "variation": "Sicilian Defense: Taimanov Variation, 5.Nc3",
+      "eco": "B45",
+      "eco_url": "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation-5.Nc3",
+      "colour": "white",
+      "moves": "1.Nf3 e6 2.d4 c5 3.Nc3 cxd4 4.Nxd4 Nc6 5.e4 Nxd4",
+      "games": 1,
+      "win": 1,
+      "draw": 0,
+      "loss": 0,
+      "score_pct": 100.0,
+      "example_games": [
+        {
+          "id": "187958752746",
+          "url": "https://www.chess.com/game/live/187958752746",
+          "result": "win",
+          "date": "2026-11-25T14:25:08+11:00"
+        }
+      ],
+      "explanation": "Black answers 1.e4 with 1\u2026c5, fighting for the d4 square and creating an unbalanced position. It is one of the most popular replies to 1.e4. The French Variation (\u2026e6) can still transpose into Open Sicilian or other structures depending on White's next moves.",
+      "variations": [
+        {
+          "name": "Sicilian Defense: Taimanov Variation, 5.Nc3",
+          "eco": "B45",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.Nf3 e6 2.d4 c5 3.Nc3 cxd4 4.Nxd4 Nc6 5.e4 Nxd4"
         }
       ]
     },
@@ -1979,6 +2081,62 @@
       ]
     },
     {
+      "name": "Bishop's Opening",
+      "variation": "Bishop's Opening: 2...Nc6",
+      "eco": "C23",
+      "eco_url": "https://www.chess.com/openings/Bishops-Opening-2...Nc6",
+      "colour": "black",
+      "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3 Nh6",
+      "games": 9,
+      "win": 4,
+      "draw": 0,
+      "loss": 5,
+      "score_pct": 44.4,
+      "example_games": [
+        {
+          "id": "187946533184",
+          "url": "https://www.chess.com/game/live/187946533184",
+          "result": "win",
+          "date": "2026-11-25T09:09:52+11:00"
+        },
+        {
+          "id": "187693530896",
+          "url": "https://www.chess.com/game/live/187693530896",
+          "result": "win",
+          "date": "2026-11-22T00:09:54+11:00"
+        },
+        {
+          "id": "187677729486",
+          "url": "https://www.chess.com/game/live/187677729486",
+          "result": "loss",
+          "date": "2026-11-21T19:02:00+11:00"
+        }
+      ],
+      "explanation": "White plays 1.e4 e5 2.Bc4, bringing the bishop out before the knight. It aims at f7 and can transpose into an Italian or a Vienna. Black usually develops with \u2026Nf6 or \u2026Nc6 and should remember that f7 and f2 are the soft spots.",
+      "variations": [
+        {
+          "name": "Bishop's Opening: 2...Nc6",
+          "eco": "C23",
+          "games": 7,
+          "win": 3,
+          "draw": 0,
+          "loss": 4,
+          "score_pct": 42.9,
+          "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3 Nh6 4.d3"
+        },
+        {
+          "name": "Bishop's Opening",
+          "eco": "C23",
+          "games": 2,
+          "win": 1,
+          "draw": 0,
+          "loss": 1,
+          "score_pct": 50.0,
+          "moves": "1.e4 e5 2.Bc4 f5 3.exf5 Qg5 4.d4 exd4 5.Bxg5 Ne7"
+        }
+      ]
+    },
+    {
       "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
       "variation": "Queen's Pawn Opening: Zukertort-Chigorin Variation, 3.Bf4 Nf6 4.e3",
       "eco": "D02",
@@ -2067,62 +2225,6 @@
           "loss": 1,
           "score_pct": 0.0,
           "moves": "1.d4 d5 2.Bf4 Nc6 3.Nf3 Qd7 4.e3 Qf5 5.Bd3 Nxd4"
-        }
-      ]
-    },
-    {
-      "name": "Bishop's Opening",
-      "variation": "Bishop's Opening: 2...Nc6",
-      "eco": "C23",
-      "eco_url": "https://www.chess.com/openings/Bishops-Opening-2...Nc6",
-      "colour": "black",
-      "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3",
-      "games": 8,
-      "win": 3,
-      "draw": 0,
-      "loss": 5,
-      "score_pct": 37.5,
-      "example_games": [
-        {
-          "id": "187693530896",
-          "url": "https://www.chess.com/game/live/187693530896",
-          "result": "win",
-          "date": "2026-11-22T00:09:54+11:00"
-        },
-        {
-          "id": "187677729486",
-          "url": "https://www.chess.com/game/live/187677729486",
-          "result": "loss",
-          "date": "2026-11-21T19:02:00+11:00"
-        },
-        {
-          "id": "187023744686",
-          "url": "https://www.chess.com/game/live/187023744686",
-          "result": "loss",
-          "date": "2026-11-12T13:09:59+11:00"
-        }
-      ],
-      "explanation": "White plays 1.e4 e5 2.Bc4, bringing the bishop out before the knight. It aims at f7 and can transpose into an Italian or a Vienna. Black usually develops with \u2026Nf6 or \u2026Nc6 and should remember that f7 and f2 are the soft spots.",
-      "variations": [
-        {
-          "name": "Bishop's Opening: 2...Nc6",
-          "eco": "C23",
-          "games": 6,
-          "win": 2,
-          "draw": 0,
-          "loss": 4,
-          "score_pct": 33.3,
-          "moves": "1.e4 e5 2.Bc4 Nc6 3.Qf3 Nh6 4.d3"
-        },
-        {
-          "name": "Bishop's Opening",
-          "eco": "C23",
-          "games": 2,
-          "win": 1,
-          "draw": 0,
-          "loss": 1,
-          "score_pct": 50.0,
-          "moves": "1.e4 e5 2.Bc4 f5 3.exf5 Qg5 4.d4 exd4 5.Bxg5 Ne7"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-24T20:57:55+11:00",
+  "generated_melbourne": "2026-11-25T21:05:29+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 210,
+  "count": 219,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -9297,6 +9297,408 @@
       "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
       "goal": "Win the rook with a fork",
       "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-187946119074-37",
+      "source": {
+        "game_id": "187946119074",
+        "url": "https://www.chess.com/game/live/187946119074",
+        "move_number": 19,
+        "ply": 37,
+        "colour": "white",
+        "opponent": "Kompletlepinja1",
+        "date": "2026-11-25T09:01:34+11:00"
+      },
+      "fen": "r1b4r/pp2Q2p/1k6/4Np2/2Pp4/3B4/P1P3PP/R3K2R w KQ - 1 19",
+      "side_to_move": "white",
+      "played": {
+        "san": "Qb4+",
+        "uci": "e7b4"
+      },
+      "solution": {
+        "san": [
+          "Rb1+",
+          "Ka6",
+          "Qa3#"
+        ],
+        "uci": [
+          "a1b1",
+          "b6a6",
+          "e7a3"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187946119074-61",
+      "source": {
+        "game_id": "187946119074",
+        "url": "https://www.chess.com/game/live/187946119074",
+        "move_number": 31,
+        "ply": 61,
+        "colour": "white",
+        "opponent": "Kompletlepinja1",
+        "date": "2026-11-25T09:01:34+11:00"
+      },
+      "fen": "5Q2/pp5p/8/6k1/2Pp4/7b/P1P3P1/2K1R3 w - - 0 31",
+      "side_to_move": "white",
+      "played": {
+        "san": "gxh3",
+        "uci": "g2h3"
+      },
+      "solution": {
+        "san": [
+          "Qg7+",
+          "Kh5",
+          "Rh1",
+          "d3",
+          "Rxh3#"
+        ],
+        "uci": [
+          "f8g7",
+          "g5h5",
+          "e1h1",
+          "d4d3",
+          "h1h3"
+        ]
+      },
+      "eval_before": {
+        "mate": 3
+      },
+      "eval_after": {
+        "mate": 3
+      },
+      "eval_best": {
+        "mate": 3
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-3",
+      "hint": "You have a forced mate in three. Keep checking until the king has no escape.",
+      "goal": "Mate in 3",
+      "mate_in": 3,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-43",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 22,
+        "ply": 43,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "7R/pp3k1p/4pp1n/2B1n3/2B5/2P4P/P1P2P2/2K3R1 w - - 1 22",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rxh7+",
+        "uci": "h8h7"
+      },
+      "solution": {
+        "san": [
+          "Rf8#"
+        ],
+        "uci": [
+          "h8f8"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 6
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-49",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 25,
+        "ply": 49,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "4k3/pp5R/4Bp1n/2B1n3/8/2P4P/P1P2P2/2K5 w - - 1 25",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rxh6",
+        "uci": "h7h6"
+      },
+      "solution": {
+        "san": [
+          "Rh8+",
+          "Ng8",
+          "Rxg8#"
+        ],
+        "uci": [
+          "h7h8",
+          "h6g8",
+          "h8g8"
+        ]
+      },
+      "eval_before": {
+        "mate": 2
+      },
+      "eval_after": {
+        "mate": 7
+      },
+      "eval_best": {
+        "mate": 2
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-2",
+      "hint": "You have a forced mate in two. Look for a check they can't step out of.",
+      "goal": "Mate in 2 on the back rank",
+      "mate_in": 2,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-51",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 26,
+        "ply": 51,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "4k3/pp6/4Bp1R/2B5/2n5/2P4P/P1P2P2/2K5 w - - 1 26",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rxf6",
+        "uci": "h6f6"
+      },
+      "solution": {
+        "san": [
+          "Rh8#"
+        ],
+        "uci": [
+          "h6h8"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 2
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1 on the back rank",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-53",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 27,
+        "ply": 53,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "4k3/pp6/1n2BR2/2B5/8/2P4P/P1P2P2/2K5 w - - 1 27",
+      "side_to_move": "white",
+      "played": {
+        "san": "h4",
+        "uci": "h3h4"
+      },
+      "solution": {
+        "san": [
+          "Rf8#"
+        ],
+        "uci": [
+          "f6f8"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "cp": 922
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 578,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1 on the back rank",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-55",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 28,
+        "ply": 55,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "4k3/pp6/4BR2/2Bn4/7P/2P5/P1P2P2/2K5 w - - 1 28",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bxd5",
+        "uci": "e6d5"
+      },
+      "solution": {
+        "san": [
+          "Rf8#"
+        ],
+        "uci": [
+          "f6f8"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1 on the back rank",
+      "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-57",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 29,
+        "ply": 57,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "4k3/p7/1p3R2/2BB4/7P/2P5/P1P2P2/2K5 w - - 0 29",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bb4",
+        "uci": "c5b4"
+      },
+      "solution": {
+        "san": [
+          "Bc6+",
+          "Kd8",
+          "Bd6",
+          "Kc8",
+          "Rf8#"
+        ],
+        "uci": [
+          "d5c6",
+          "e8d8",
+          "c5d6",
+          "d8c8",
+          "f6f8"
+        ]
+      },
+      "eval_before": {
+        "mate": 3
+      },
+      "eval_after": {
+        "mate": 4
+      },
+      "eval_best": {
+        "mate": 3
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-3",
+      "hint": "You have a forced mate in three. Keep checking until the king has no escape.",
+      "goal": "Mate in 3 on the back rank",
+      "mate_in": 3,
+      "depth": 16
+    },
+    {
+      "id": "p-187958787258-67",
+      "source": {
+        "game_id": "187958787258",
+        "url": "https://www.chess.com/game/live/187958787258",
+        "move_number": 34,
+        "ply": 67,
+        "colour": "white",
+        "opponent": "SUPER_BIDA10",
+        "date": "2026-11-25T14:26:07+11:00"
+      },
+      "fen": "7Q/p2k4/1p3R2/3B4/1B6/2P5/P1P2P2/2K5 w - - 1 34",
+      "side_to_move": "white",
+      "played": {
+        "san": "Qh7+",
+        "uci": "h8h7"
+      },
+      "solution": {
+        "san": [
+          "Rf7#"
+        ],
+        "uci": [
+          "f6f7"
+        ]
+      },
+      "eval_before": {
+        "mate": 1
+      },
+      "eval_after": {
+        "mate": 1
+      },
+      "eval_best": {
+        "mate": 1
+      },
+      "loss_cp": 0,
+      "gap_cp": 0,
+      "theme": "mate-in-1",
+      "hint": "You have a mate in one. Look at every check before you move.",
+      "goal": "Mate in 1",
+      "mate_in": 1,
       "depth": 16
     }
   ]
