@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-25T21:05:29+11:00",
+  "generated_melbourne": "2026-11-26T21:02:03+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -9,7 +9,7 @@
       "theme": "mate-in-1",
       "title": "Missed mate in one",
       "description": "You had a mate in one and played something else. Before you move, scan every check \u2014 if they can't stop it, that's the game.",
-      "count": 34,
+      "count": 35,
       "recurring": true,
       "puzzle_ids": [
         "p-184699983008-63",
@@ -45,7 +45,8 @@
         "p-187958787258-51",
         "p-187958787258-53",
         "p-187958787258-55",
-        "p-187958787258-67"
+        "p-187958787258-67",
+        "p-188030530786-76"
       ]
     },
     {
@@ -183,7 +184,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 98,
+      "count": 104,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -283,7 +284,13 @@
         "p-187693781186-26",
         "p-187745267996-9",
         "p-187898776034-26",
-        "p-187898776034-58"
+        "p-187898776034-58",
+        "p-188030209470-16",
+        "p-188030209470-64",
+        "p-188030290524-48",
+        "p-188030290524-50",
+        "p-188030368066-52",
+        "p-188030530786-56"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-25T21:05:28+11:00",
+  "generated_melbourne": "2026-11-26T21:02:03+11:00",
   "player": "brandonneillthegreat",
   "as_white": [
     {
@@ -8,13 +8,19 @@
       "eco": "D02",
       "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6",
       "colour": "white",
-      "moves": "1.d4 d5 2.Nf3 e5 3.dxe5 Bg4 4.h3 Bxf3 5.exf3 Nc6",
-      "games": 25,
+      "moves": "1.Nf3 e6 2.d4 d5 3.Nc3 c5 4.Bf4 Nc6 5.dxc5 Bxc5",
+      "games": 26,
       "win": 13,
       "draw": 2,
-      "loss": 10,
-      "score_pct": 56.0,
+      "loss": 11,
+      "score_pct": 53.8,
       "example_games": [
+        {
+          "id": "188030611150",
+          "url": "https://www.chess.com/game/live/188030611150",
+          "result": "loss",
+          "date": "2026-11-26T12:53:16+11:00"
+        },
         {
           "id": "187745201062",
           "url": "https://www.chess.com/game/live/187745201062",
@@ -28,12 +34,6 @@
           "date": "2026-11-18T23:47:02+11:00"
         },
         {
-          "id": "187437974520",
-          "url": "https://www.chess.com/game/live/187437974520",
-          "result": "win",
-          "date": "2026-11-18T09:25:49+11:00"
-        },
-        {
           "id": "186562570872",
           "url": "https://www.chess.com/game/live/186562570872",
           "result": "draw",
@@ -45,11 +45,11 @@
         {
           "name": "Queen's Pawn Opening: Zukertort Variation, 2...e6",
           "eco": "D02",
-          "games": 10,
+          "games": 11,
           "win": 6,
           "draw": 0,
-          "loss": 4,
-          "score_pct": 60.0,
+          "loss": 5,
+          "score_pct": 54.5,
           "moves": "1.d4 d5 2.Nf3 e6 3.Nc3"
         },
         {
@@ -239,12 +239,18 @@
       "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation",
       "colour": "white",
       "moves": "1.Nf3 d5 2.d4 Nc6",
-      "games": 15,
-      "win": 7,
+      "games": 16,
+      "win": 8,
       "draw": 1,
       "loss": 7,
-      "score_pct": 50.0,
+      "score_pct": 53.1,
       "example_games": [
+        {
+          "id": "188030700022",
+          "url": "https://www.chess.com/game/live/188030700022",
+          "result": "win",
+          "date": "2026-11-26T12:55:42+11:00"
+        },
         {
           "id": "187898360204",
           "url": "https://www.chess.com/game/live/187898360204",
@@ -258,12 +264,6 @@
           "date": "2026-11-16T13:10:27+11:00"
         },
         {
-          "id": "186496623856",
-          "url": "https://www.chess.com/game/live/186496623856",
-          "result": "win",
-          "date": "2026-11-04T12:25:55+11:00"
-        },
-        {
           "id": "185851422416",
           "url": "https://www.chess.com/game/live/185851422416",
           "result": "draw",
@@ -275,11 +275,11 @@
         {
           "name": "Queen's Pawn Opening: Zukertort-Chigorin Variation",
           "eco": "D02",
-          "games": 13,
-          "win": 7,
+          "games": 14,
+          "win": 8,
           "draw": 0,
           "loss": 6,
-          "score_pct": 53.8,
+          "score_pct": 57.1,
           "moves": "1.Nf3 Nc6 2.d4 d5 3.Nc3"
         },
         {
@@ -310,13 +310,19 @@
       "eco": "A40",
       "eco_url": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3",
       "colour": "white",
-      "moves": "1.d4 e6 2.Nf3 c6 3.Nc3",
-      "games": 7,
-      "win": 5,
+      "moves": "1.d4 e6 2.Nf3 b6 3.Nc3 g6 4.Ne4 Bg7 5.d5 e5",
+      "games": 8,
+      "win": 6,
       "draw": 0,
       "loss": 2,
-      "score_pct": 71.4,
+      "score_pct": 75.0,
       "example_games": [
+        {
+          "id": "188030447020",
+          "url": "https://www.chess.com/game/live/188030447020",
+          "result": "win",
+          "date": "2026-11-26T12:48:44+11:00"
+        },
         {
           "id": "187745383728",
           "url": "https://www.chess.com/game/live/187745383728",
@@ -341,11 +347,11 @@
         {
           "name": "Queen's Pawn Opening: Horwitz Defense, 2.Nf3",
           "eco": "A40",
-          "games": 4,
-          "win": 3,
+          "games": 5,
+          "win": 4,
           "draw": 0,
           "loss": 1,
-          "score_pct": 75.0,
+          "score_pct": 80.0,
           "moves": "1.d4 e6 2.Nf3 c6 3.Nc3"
         },
         {
@@ -2021,12 +2027,18 @@
       "eco_url": "https://www.chess.com/openings/Three-Knights-Opening",
       "colour": "black",
       "moves": "1.e4 e5 2.Nc3 Nc6 3.Nf3",
-      "games": 10,
-      "win": 5,
+      "games": 11,
+      "win": 6,
       "draw": 0,
       "loss": 5,
-      "score_pct": 50.0,
+      "score_pct": 54.5,
       "example_games": [
+        {
+          "id": "188030530786",
+          "url": "https://www.chess.com/game/live/188030530786",
+          "result": "win",
+          "date": "2026-11-26T12:51:02+11:00"
+        },
         {
           "id": "186025806426",
           "url": "https://www.chess.com/game/live/186025806426",
@@ -2051,11 +2063,11 @@
         {
           "name": "Three Knights Opening",
           "eco": "C46",
-          "games": 7,
-          "win": 4,
+          "games": 8,
+          "win": 5,
           "draw": 0,
           "loss": 3,
-          "score_pct": 57.1,
+          "score_pct": 62.5,
           "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Qe7"
         },
         {
@@ -2879,12 +2891,18 @@
       "eco_url": "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-Nf6",
       "colour": "black",
       "moves": "1.e3 e5 2.b3 Nc6 3.Bb2",
-      "games": 3,
-      "win": 2,
+      "games": 4,
+      "win": 3,
       "draw": 0,
       "loss": 1,
-      "score_pct": 66.7,
+      "score_pct": 75.0,
       "example_games": [
+        {
+          "id": "188030209470",
+          "url": "https://www.chess.com/game/live/188030209470",
+          "result": "win",
+          "date": "2026-11-26T12:42:09+11:00"
+        },
         {
           "id": "187519708350",
           "url": "https://www.chess.com/game/live/187519708350",
@@ -2896,12 +2914,6 @@
           "url": "https://www.chess.com/game/live/185147026612",
           "result": "loss",
           "date": "2026-10-11T18:36:17+11:00"
-        },
-        {
-          "id": "184779282576",
-          "url": "https://www.chess.com/game/live/184779282576",
-          "result": "win",
-          "date": "2026-10-04T10:57:49+11:00"
         }
       ],
       "explanation": "White opens 1.b3, fianchettoing the queen's bishop to b2 to pressure the centre from the wing. It is a flank opening: you let Black occupy the middle and then undermine it. Black should take the centre and not get nervous.",
@@ -2925,6 +2937,16 @@
           "loss": 0,
           "score_pct": 100.0,
           "moves": "1.e3 e5 2.b3 Nc6 3.Bb2 Bb4 4.Bb5 a6 5.Bxc6 dxc6"
+        },
+        {
+          "name": "Nimzowitsch-Larsen Attack: Modern Variation, 2.Bb2 Nc6",
+          "eco": "A01",
+          "games": 1,
+          "win": 1,
+          "draw": 0,
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.b3 e5 2.Bb2 Nc6 3.g3 Nh6 4.Bg2 Bc5 5.Bxc6 dxc6"
         }
       ]
     },
@@ -3415,6 +3437,46 @@
           "loss": 0,
           "score_pct": 100.0,
           "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nxe5 Qd4"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9ti Opening",
+      "variation": null,
+      "eco": "A04",
+      "eco_url": "https://www.chess.com/openings/Reti-Opening",
+      "colour": "black",
+      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4",
+      "games": 2,
+      "win": 0,
+      "draw": 0,
+      "loss": 2,
+      "score_pct": 0.0,
+      "example_games": [
+        {
+          "id": "188030290524",
+          "url": "https://www.chess.com/game/live/188030290524",
+          "result": "loss",
+          "date": "2026-11-26T12:44:23+11:00"
+        },
+        {
+          "id": "185135769944",
+          "url": "https://www.chess.com/game/live/185135769944",
+          "result": "loss",
+          "date": "2026-10-11T11:27:03+11:00"
+        }
+      ],
+      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "variations": [
+        {
+          "name": "R\u00e9ti Opening",
+          "eco": "A04",
+          "games": 2,
+          "win": 0,
+          "draw": 0,
+          "loss": 2,
+          "score_pct": 0.0,
+          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4"
         }
       ]
     },
@@ -4249,36 +4311,36 @@
       ]
     },
     {
-      "name": "R\u00e9ti Opening",
-      "variation": null,
-      "eco": "A04",
-      "eco_url": "https://www.chess.com/openings/Reti-Opening",
+      "name": "Scandinavian Defense: Mieses Kotrc Variation",
+      "variation": "Scandinavian Defense: Mieses Kotrc Variation, 3.Nc3",
+      "eco": "B01",
+      "eco_url": "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3",
       "colour": "black",
-      "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4",
+      "moves": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qc5 4.d4 Qd6 5.Nf3 Qe6+",
       "games": 1,
-      "win": 0,
+      "win": 1,
       "draw": 0,
-      "loss": 1,
-      "score_pct": 0.0,
+      "loss": 0,
+      "score_pct": 100.0,
       "example_games": [
         {
-          "id": "185135769944",
-          "url": "https://www.chess.com/game/live/185135769944",
-          "result": "loss",
-          "date": "2026-10-11T11:27:03+11:00"
+          "id": "188030368066",
+          "url": "https://www.chess.com/game/live/188030368066",
+          "result": "win",
+          "date": "2026-11-26T12:46:33+11:00"
         }
       ],
-      "explanation": "The R\u00e9ti Opening starts with 1.Nf3. White develops a knight first instead of pushing a centre pawn, keeps options open, and often follows with g3, Bg2 and castling \u2014 a King's Indian Attack setup \u2014 or transposes into a Queen's Pawn game with a later d4. The idea is to pressure the centre from the flank rather than occupy it immediately.",
+      "explanation": "The Scandinavian Defense: Mieses Kotrc Variation (ECO B01) is the name Chess.com gives this opening. It showed up in your games after 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qc5 4.d4 Qd6 5.Nf3 Qe6+. Develop your pieces, castle early, and watch the f2 and f7 pawns \u2014 those are the usual soft spots in this kind of position.",
       "variations": [
         {
-          "name": "R\u00e9ti Opening",
-          "eco": "A04",
+          "name": "Scandinavian Defense: Mieses Kotrc Variation, 3.Nc3",
+          "eco": "B01",
           "games": 1,
-          "win": 0,
+          "win": 1,
           "draw": 0,
-          "loss": 1,
-          "score_pct": 0.0,
-          "moves": "1.Nf3 e5 2.Nxe5 Nc6 3.Nxc6 dxc6 4.e3 c5 5.d4 cxd4"
+          "loss": 0,
+          "score_pct": 100.0,
+          "moves": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qc5 4.d4 Qd6 5.Nf3 Qe6+"
         }
       ]
     },
