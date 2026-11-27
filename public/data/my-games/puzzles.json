@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-26T21:02:03+11:00",
+  "generated_melbourne": "2026-11-27T20:59:36+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 226,
+  "count": 231,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -9995,6 +9995,216 @@
       "hint": "You have a mate in one. Look at every check before you move.",
       "goal": "Mate in 1 on the back rank",
       "mate_in": 1,
+      "depth": 16
+    },
+    {
+      "id": "p-188055475956-43",
+      "source": {
+        "game_id": "188055475956",
+        "url": "https://www.chess.com/game/live/188055475956",
+        "move_number": 22,
+        "ply": 43,
+        "colour": "white",
+        "opponent": "daivik_ash_ninja10",
+        "date": "2026-11-26T22:27:06+11:00"
+      },
+      "fen": "r4rk1/p2b1pp1/2p1p2p/1p1pP2B/q7/P1Q1P1R1/1PP4P/2K3R1 w - - 0 22",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bxf7+",
+        "uci": "h5f7"
+      },
+      "solution": {
+        "san": [
+          "Rxg7+"
+        ],
+        "uci": [
+          "g3g7"
+        ]
+      },
+      "eval_before": {
+        "cp": 804
+      },
+      "eval_after": {
+        "cp": -351
+      },
+      "eval_best": {
+        "cp": 804
+      },
+      "loss_cp": 1155,
+      "gap_cp": 256,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188116706508-11",
+      "source": {
+        "game_id": "188116706508",
+        "url": "https://www.chess.com/game/live/188116706508",
+        "move_number": 6,
+        "ply": 11,
+        "colour": "white",
+        "opponent": "10Donquixote",
+        "date": "2026-11-27T17:13:09+11:00"
+      },
+      "fen": "rnbqk2r/ppp1bppp/5n2/3p1N2/8/2N5/PPP1PPPP/R1BQKB1R w KQkq - 0 6",
+      "side_to_move": "white",
+      "played": {
+        "san": "Nxe7",
+        "uci": "f5e7"
+      },
+      "solution": {
+        "san": [
+          "Nxg7+"
+        ],
+        "uci": [
+          "f5g7"
+        ]
+      },
+      "eval_before": {
+        "cp": 338
+      },
+      "eval_after": {
+        "cp": 73
+      },
+      "eval_best": {
+        "cp": 338
+      },
+      "loss_cp": 265,
+      "gap_cp": 241,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188116706508-43",
+      "source": {
+        "game_id": "188116706508",
+        "url": "https://www.chess.com/game/live/188116706508",
+        "move_number": 22,
+        "ply": 43,
+        "colour": "white",
+        "opponent": "10Donquixote",
+        "date": "2026-11-27T17:13:09+11:00"
+      },
+      "fen": "6k1/ppp2ppp/3r4/4n1B1/8/1PK4B/P1P2P1P/R6b w - - 4 22",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bf4",
+        "uci": "g5f4"
+      },
+      "solution": {
+        "san": [
+          "Rxh1"
+        ],
+        "uci": [
+          "a1h1"
+        ]
+      },
+      "eval_before": {
+        "cp": 470
+      },
+      "eval_after": {
+        "cp": 3
+      },
+      "eval_best": {
+        "cp": 470
+      },
+      "loss_cp": 467,
+      "gap_cp": 265,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188116706508-49",
+      "source": {
+        "game_id": "188116706508",
+        "url": "https://www.chess.com/game/live/188116706508",
+        "move_number": 25,
+        "ply": 49,
+        "colour": "white",
+        "opponent": "10Donquixote",
+        "date": "2026-11-27T17:13:09+11:00"
+      },
+      "fen": "6k1/ppp2ppp/2r5/8/4KB2/1P5B/P1P2P1n/R6b w - - 0 25",
+      "side_to_move": "white",
+      "played": {
+        "san": "Kf5",
+        "uci": "e4f5"
+      },
+      "solution": {
+        "san": [
+          "Rxh1"
+        ],
+        "uci": [
+          "a1h1"
+        ]
+      },
+      "eval_before": {
+        "cp": 473
+      },
+      "eval_after": {
+        "cp": -581
+      },
+      "eval_best": {
+        "cp": 473
+      },
+      "loss_cp": 1054,
+      "gap_cp": 353,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188116706508-63",
+      "source": {
+        "game_id": "188116706508",
+        "url": "https://www.chess.com/game/live/188116706508",
+        "move_number": 32,
+        "ply": 63,
+        "colour": "white",
+        "opponent": "10Donquixote",
+        "date": "2026-11-27T17:13:09+11:00"
+      },
+      "fen": "6k1/ppp2p1p/8/4n1K1/5B2/1P5r/P1P2P2/7R w - - 0 32",
+      "side_to_move": "white",
+      "played": {
+        "san": "Bxe5",
+        "uci": "f4e5"
+      },
+      "solution": {
+        "san": [
+          "Rxh3"
+        ],
+        "uci": [
+          "h1h3"
+        ]
+      },
+      "eval_before": {
+        "cp": 569
+      },
+      "eval_after": {
+        "cp": -492
+      },
+      "eval_best": {
+        "cp": 569
+      },
+      "loss_cp": 1061,
+      "gap_cp": 552,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the rook",
+      "mate_in": null,
       "depth": 16
     }
   ]

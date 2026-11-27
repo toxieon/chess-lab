@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-26T21:02:03+11:00",
+  "generated_melbourne": "2026-11-27T20:59:36+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -184,7 +184,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 104,
+      "count": 109,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -290,7 +290,12 @@
         "p-188030290524-48",
         "p-188030290524-50",
         "p-188030368066-52",
-        "p-188030530786-56"
+        "p-188030530786-56",
+        "p-188055475956-43",
+        "p-188116706508-11",
+        "p-188116706508-43",
+        "p-188116706508-49",
+        "p-188116706508-63"
       ]
     },
     {
