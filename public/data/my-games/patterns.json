@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-27T20:59:36+11:00",
+  "generated_melbourne": "2026-11-28T21:05:13+11:00",
   "player": "brandonneillthegreat",
   "count": 10,
   "recurring_count": 10,
@@ -125,7 +125,7 @@
       "theme": "hanging-queen",
       "title": "Queen left hanging",
       "description": "After the move you played, your queen could be taken and was not properly defended. Check whether she is safe before you let go of the piece.",
-      "count": 10,
+      "count": 12,
       "recurring": true,
       "puzzle_ids": [
         "p-184728914822-41",
@@ -137,7 +137,9 @@
         "p-185907379316-17",
         "p-186083575052-19",
         "p-186765223276-30",
-        "p-186887710508-49"
+        "p-186887710508-49",
+        "p-188189374024-16",
+        "p-188200560420-10"
       ]
     },
     {
@@ -161,7 +163,7 @@
       "theme": "fork",
       "title": "Forks",
       "description": "You missed a fork: one move attacked two valuable targets at once (often the king and a piece) and won one of them.",
-      "count": 13,
+      "count": 18,
       "recurring": true,
       "puzzle_ids": [
         "p-184884786508-57",
@@ -176,7 +178,12 @@
         "p-187677761540-11",
         "p-187745136856-56",
         "p-187745383728-17",
-        "p-187898961486-37"
+        "p-187898961486-37",
+        "p-188188381352-31",
+        "p-188188902146-14",
+        "p-188199547082-9",
+        "p-188199846970-35",
+        "p-188201230038-58"
       ]
     },
     {
@@ -184,7 +191,7 @@
       "theme": "loose-piece",
       "title": "Loose / unprotected piece",
       "description": "A piece that wasn't the queen was left unguarded and could be taken, or you missed taking one of theirs. Do a quick 'unprotected pieces' scan before every move.",
-      "count": 109,
+      "count": 118,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-42",
@@ -295,7 +302,16 @@
         "p-188116706508-11",
         "p-188116706508-43",
         "p-188116706508-49",
-        "p-188116706508-63"
+        "p-188116706508-63",
+        "p-188182943258-87",
+        "p-188188978438-12",
+        "p-188188978438-26",
+        "p-188188978438-36",
+        "p-188189374024-56",
+        "p-188199846970-39",
+        "p-188201120734-29",
+        "p-188201331842-29",
+        "p-188201722080-28"
       ]
     },
     {
@@ -303,7 +319,7 @@
       "theme": "trapped-piece",
       "title": "Trapped piece",
       "description": "A piece had no safe square left, and that was the tactic. Sometimes it was yours; sometimes you could have trapped one of theirs.",
-      "count": 9,
+      "count": 10,
       "recurring": true,
       "puzzle_ids": [
         "p-184699877176-50",
@@ -314,7 +330,8 @@
         "p-186496623856-69",
         "p-186835826516-37",
         "p-187745267996-69",
-        "p-187828275584-23"
+        "p-187828275584-23",
+        "p-188184468464-69"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_melbourne": "2026-11-27T20:59:36+11:00",
+  "generated_melbourne": "2026-11-28T21:05:13+11:00",
   "player": "brandonneillthegreat",
   "engine": {
     "name": "Stockfish 17.1",
@@ -7,7 +7,7 @@
     "multipv": 2,
     "notes": "Puzzle solutions at depth 16. Mate puzzles are forced mates in 1\u20134 with a complete line to checkmate, unique at each of the player's moves (MultiPV 2). Non-mate puzzles stop when the material gain is on the board (max 5 plies), and each of his moves in the line is the only clearly-best move (gap \u2265 150cp). Evals and PVs are engine output only."
   },
-  "count": 231,
+  "count": 248,
   "puzzles": [
     {
       "id": "p-184699877176-42",
@@ -10204,6 +10204,750 @@
       "theme": "loose-piece",
       "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
       "goal": "Win the rook",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188182943258-87",
+      "source": {
+        "game_id": "188182943258",
+        "url": "https://www.chess.com/game/live/188182943258",
+        "move_number": 44,
+        "ply": 87,
+        "colour": "white",
+        "opponent": "ALETSVLA_PRO",
+        "date": "2026-11-28T12:18:55+11:00"
+      },
+      "fen": "8/5k2/2R1r3/6P1/8/5K2/2P2P2/8 w - - 3 44",
+      "side_to_move": "white",
+      "played": {
+        "san": "Kg2",
+        "uci": "f3g2"
+      },
+      "solution": {
+        "san": [
+          "Rxe6",
+          "Kg7"
+        ],
+        "uci": [
+          "c6e6",
+          "f7g7"
+        ]
+      },
+      "eval_before": {
+        "cp": 1112
+      },
+      "eval_after": {
+        "cp": -500
+      },
+      "eval_best": {
+        "cp": 1112
+      },
+      "loss_cp": 1612,
+      "gap_cp": 310,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the rook",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188184468464-69",
+      "source": {
+        "game_id": "188184468464",
+        "url": "https://www.chess.com/game/live/188184468464",
+        "move_number": 35,
+        "ply": 69,
+        "colour": "white",
+        "opponent": "Brundle_Mouche",
+        "date": "2026-11-28T12:59:34+11:00"
+      },
+      "fen": "3r3r/pk1P2p1/1p6/1P1nNP1p/8/P7/7P/2K2B1R w - - 0 35",
+      "side_to_move": "white",
+      "played": {
+        "san": "Nf7",
+        "uci": "e5f7"
+      },
+      "solution": {
+        "san": [
+          "Bg2",
+          "Kc7",
+          "Bxd5"
+        ],
+        "uci": [
+          "f1g2",
+          "b7c7",
+          "g2d5"
+        ]
+      },
+      "eval_before": {
+        "cp": 570
+      },
+      "eval_after": {
+        "cp": 226
+      },
+      "eval_best": {
+        "cp": 570
+      },
+      "loss_cp": 344,
+      "gap_cp": 387,
+      "theme": "trapped-piece",
+      "hint": "A piece has nowhere safe to go. See whether you can save yours, or trap theirs.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188188381352-31",
+      "source": {
+        "game_id": "188188381352",
+        "url": "https://www.chess.com/game/live/188188381352",
+        "move_number": 16,
+        "ply": 31,
+        "colour": "white",
+        "opponent": "magnuskingso",
+        "date": "2026-11-28T14:44:10+11:00"
+      },
+      "fen": "1rb1k2r/p1p2p1p/4p1pb/1q1p4/8/2PQ4/PPK2PPP/3R1B1R w k - 3 16",
+      "side_to_move": "white",
+      "played": {
+        "san": "b3",
+        "uci": "b2b3"
+      },
+      "solution": {
+        "san": [
+          "Qxb5+",
+          "Rxb5",
+          "Bxb5+"
+        ],
+        "uci": [
+          "d3b5",
+          "b8b5",
+          "f1b5"
+        ]
+      },
+      "eval_before": {
+        "cp": 97
+      },
+      "eval_after": {
+        "cp": -601
+      },
+      "eval_best": {
+        "cp": 97
+      },
+      "loss_cp": 698,
+      "gap_cp": 668,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win the rook with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188188902146-14",
+      "source": {
+        "game_id": "188188902146",
+        "url": "https://www.chess.com/game/live/188188902146",
+        "move_number": 7,
+        "ply": 14,
+        "colour": "black",
+        "opponent": "BaddApples",
+        "date": "2026-11-28T14:57:57+11:00"
+      },
+      "fen": "r1b1kbnr/ppp2ppp/2n5/3NPq2/3P1p2/5N2/PPP3PP/R1BQKB1R b KQkq - 0 7",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nxd4",
+        "uci": "c6d4"
+      },
+      "solution": {
+        "san": [
+          "Qe4+",
+          "Be2",
+          "Qxd5"
+        ],
+        "uci": [
+          "f5e4",
+          "f1e2",
+          "e4d5"
+        ]
+      },
+      "eval_before": {
+        "cp": 207
+      },
+      "eval_after": {
+        "cp": -562
+      },
+      "eval_best": {
+        "cp": 207
+      },
+      "loss_cp": 769,
+      "gap_cp": 491,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win a piece with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188188978438-12",
+      "source": {
+        "game_id": "188188978438",
+        "url": "https://www.chess.com/game/live/188188978438",
+        "move_number": 6,
+        "ply": 12,
+        "colour": "black",
+        "opponent": "ieigkvmv",
+        "date": "2026-11-28T14:59:59+11:00"
+      },
+      "fen": "r1b1kbr1/ppppq1pp/2nN1n2/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQq - 2 6",
+      "side_to_move": "black",
+      "played": {
+        "san": "cxd6",
+        "uci": "c7d6"
+      },
+      "solution": {
+        "san": [
+          "Qxd6",
+          "Bxg8",
+          "Nxg8"
+        ],
+        "uci": [
+          "e7d6",
+          "c4g8",
+          "f6g8"
+        ]
+      },
+      "eval_before": {
+        "cp": 192
+      },
+      "eval_after": {
+        "cp": 7
+      },
+      "eval_best": {
+        "cp": 192
+      },
+      "loss_cp": 185,
+      "gap_cp": 155,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win material",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188188978438-26",
+      "source": {
+        "game_id": "188188978438",
+        "url": "https://www.chess.com/game/live/188188978438",
+        "move_number": 13,
+        "ply": 26,
+        "colour": "black",
+        "opponent": "ieigkvmv",
+        "date": "2026-11-28T14:59:59+11:00"
+      },
+      "fen": "1rbk1bn1/ppNp2pp/2np4/4p1B1/4P3/3P4/PPP2P1q/R2QKR2 b Q - 1 13",
+      "side_to_move": "black",
+      "played": {
+        "san": "Be7",
+        "uci": "f8e7"
+      },
+      "solution": {
+        "san": [
+          "Kxc7"
+        ],
+        "uci": [
+          "d8c7"
+        ]
+      },
+      "eval_before": {
+        "cp": 483
+      },
+      "eval_after": {
+        "cp": 287
+      },
+      "eval_best": {
+        "cp": 483
+      },
+      "loss_cp": 196,
+      "gap_cp": 172,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188188978438-36",
+      "source": {
+        "game_id": "188188978438",
+        "url": "https://www.chess.com/game/live/188188978438",
+        "move_number": 18,
+        "ply": 36,
+        "colour": "black",
+        "opponent": "ieigkvmv",
+        "date": "2026-11-28T14:59:59+11:00"
+      },
+      "fen": "1rbk4/pp1p2pp/2np4/3Pq3/4P3/8/PPP1QP2/R3KR2 b Q - 2 18",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nd4",
+        "uci": "c6d4"
+      },
+      "solution": {
+        "san": [
+          "Qxb2",
+          "Kd2"
+        ],
+        "uci": [
+          "e5b2",
+          "e1d2"
+        ]
+      },
+      "eval_before": {
+        "cp": 353
+      },
+      "eval_after": {
+        "cp": 0
+      },
+      "eval_best": {
+        "cp": 353
+      },
+      "loss_cp": 353,
+      "gap_cp": 353,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188189374024-16",
+      "source": {
+        "game_id": "188189374024",
+        "url": "https://www.chess.com/game/live/188189374024",
+        "move_number": 8,
+        "ply": 16,
+        "colour": "black",
+        "opponent": "brennanfair",
+        "date": "2026-11-28T15:10:29+11:00"
+      },
+      "fen": "r1b1kb1r/2pp1ppp/pp5n/n2Bp1q1/3PP3/1Q4P1/PPP2P1P/RNB1K1NR b KQkq - 0 8",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nxb3",
+        "uci": "a5b3"
+      },
+      "solution": {
+        "san": [
+          "Qxc1+"
+        ],
+        "uci": [
+          "g5c1"
+        ]
+      },
+      "eval_before": {
+        "cp": 825
+      },
+      "eval_after": {
+        "cp": 405
+      },
+      "eval_best": {
+        "cp": 825
+      },
+      "loss_cp": 420,
+      "gap_cp": 451,
+      "theme": "hanging-queen",
+      "hint": "Your queen is about to be left hanging. Find the move that doesn't give her away.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188189374024-56",
+      "source": {
+        "game_id": "188189374024",
+        "url": "https://www.chess.com/game/live/188189374024",
+        "move_number": 28,
+        "ply": 56,
+        "colour": "black",
+        "opponent": "brennanfair",
+        "date": "2026-11-28T15:10:29+11:00"
+      },
+      "fen": "6r1/5p1p/3b3p/pp6/4P1N1/P3k1P1/1PP4P/4K3 b - - 3 28",
+      "side_to_move": "black",
+      "played": {
+        "san": "Kxe4",
+        "uci": "e3e4"
+      },
+      "solution": {
+        "san": [
+          "Rxg4"
+        ],
+        "uci": [
+          "g8g4"
+        ]
+      },
+      "eval_before": {
+        "cp": 905
+      },
+      "eval_after": {
+        "cp": 430
+      },
+      "eval_best": {
+        "cp": 905
+      },
+      "loss_cp": 475,
+      "gap_cp": 295,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188199547082-9",
+      "source": {
+        "game_id": "188199547082",
+        "url": "https://www.chess.com/game/live/188199547082",
+        "move_number": 5,
+        "ply": 9,
+        "colour": "white",
+        "opponent": "Arkendurai",
+        "date": "2026-11-28T19:18:28+11:00"
+      },
+      "fen": "r2qkbnr/ppp2ppp/2npb3/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 5",
+      "side_to_move": "white",
+      "played": {
+        "san": "Nc3",
+        "uci": "b1c3"
+      },
+      "solution": {
+        "san": [
+          "d5",
+          "Bxd5",
+          "Qxd5"
+        ],
+        "uci": [
+          "d4d5",
+          "e6d5",
+          "d1d5"
+        ]
+      },
+      "eval_before": {
+        "cp": 443
+      },
+      "eval_after": {
+        "cp": 180
+      },
+      "eval_best": {
+        "cp": 443
+      },
+      "loss_cp": 263,
+      "gap_cp": 241,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win a piece with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188199846970-35",
+      "source": {
+        "game_id": "188199846970",
+        "url": "https://www.chess.com/game/live/188199846970",
+        "move_number": 18,
+        "ply": 35,
+        "colour": "white",
+        "opponent": "RROUKK",
+        "date": "2026-11-28T19:24:48+11:00"
+      },
+      "fen": "4r1nr/Np1k2pp/8/3p2p1/1P1Q3P/8/P1q2PP1/R4K1R w - - 0 18",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rd1",
+        "uci": "a1d1"
+      },
+      "solution": {
+        "san": [
+          "Qxd5+"
+        ],
+        "uci": [
+          "d4d5"
+        ]
+      },
+      "eval_before": {
+        "cp": 478
+      },
+      "eval_after": {
+        "cp": -67
+      },
+      "eval_best": {
+        "cp": 478
+      },
+      "loss_cp": 545,
+      "gap_cp": 234,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win a pawn with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188199846970-39",
+      "source": {
+        "game_id": "188199846970",
+        "url": "https://www.chess.com/game/live/188199846970",
+        "move_number": 20,
+        "ply": 39,
+        "colour": "white",
+        "opponent": "RROUKK",
+        "date": "2026-11-28T19:24:48+11:00"
+      },
+      "fen": "4r1nr/Np1k2pp/8/3p2p1/1P1Q3P/8/P4PP1/3Rq1KR w - - 4 20",
+      "side_to_move": "white",
+      "played": {
+        "san": "Kh2",
+        "uci": "g1h2"
+      },
+      "solution": {
+        "san": [
+          "Rxe1"
+        ],
+        "uci": [
+          "d1e1"
+        ]
+      },
+      "eval_before": {
+        "cp": 673
+      },
+      "eval_after": {
+        "cp": 50
+      },
+      "eval_best": {
+        "cp": 673
+      },
+      "loss_cp": 623,
+      "gap_cp": 608,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the queen",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188200560420-10",
+      "source": {
+        "game_id": "188200560420",
+        "url": "https://www.chess.com/game/live/188200560420",
+        "move_number": 5,
+        "ply": 10,
+        "colour": "black",
+        "opponent": "PrashantOO1",
+        "date": "2026-11-28T19:39:35+11:00"
+      },
+      "fen": "r1b1kb1r/pppp1ppp/2n4n/4p1q1/2BPP3/8/PPP2PPP/RNBQK2R b KQkq - 0 5",
+      "side_to_move": "black",
+      "played": {
+        "san": "exd4",
+        "uci": "e5d4"
+      },
+      "solution": {
+        "san": [
+          "Qxg2",
+          "Kd2"
+        ],
+        "uci": [
+          "g5g2",
+          "e1d2"
+        ]
+      },
+      "eval_before": {
+        "cp": 652
+      },
+      "eval_after": {
+        "cp": -548
+      },
+      "eval_best": {
+        "cp": 652
+      },
+      "loss_cp": 1200,
+      "gap_cp": 227,
+      "theme": "hanging-queen",
+      "hint": "Your queen is about to be left hanging. Find the move that doesn't give her away.",
+      "goal": "Win a pawn",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188201120734-29",
+      "source": {
+        "game_id": "188201120734",
+        "url": "https://www.chess.com/game/live/188201120734",
+        "move_number": 15,
+        "ply": 29,
+        "colour": "white",
+        "opponent": "DAMIR_TASHEV",
+        "date": "2026-11-28T19:50:55+11:00"
+      },
+      "fen": "3rk2r/p1pq1ppp/8/8/1Qb5/4P3/PP1N1PPP/R4RK1 w k - 0 15",
+      "side_to_move": "white",
+      "played": {
+        "san": "Qxc4",
+        "uci": "b4c4"
+      },
+      "solution": {
+        "san": [
+          "Nxc4"
+        ],
+        "uci": [
+          "d2c4"
+        ]
+      },
+      "eval_before": {
+        "cp": 533
+      },
+      "eval_after": {
+        "cp": 351
+      },
+      "eval_best": {
+        "cp": 533
+      },
+      "loss_cp": 182,
+      "gap_cp": 192,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188201230038-58",
+      "source": {
+        "game_id": "188201230038",
+        "url": "https://www.chess.com/game/live/188201230038",
+        "move_number": 29,
+        "ply": 58,
+        "colour": "black",
+        "opponent": "OH_DUO1",
+        "date": "2026-11-28T19:53:06+11:00"
+      },
+      "fen": "1k6/1pp2p1p/p7/8/8/1P1QP1rr/P7/4KR2 b - - 7 29",
+      "side_to_move": "black",
+      "played": {
+        "san": "Rh2",
+        "uci": "h3h2"
+      },
+      "solution": {
+        "san": [
+          "Rxe3+",
+          "Qxe3",
+          "Rxe3+"
+        ],
+        "uci": [
+          "g3e3",
+          "d3e3",
+          "h3e3"
+        ]
+      },
+      "eval_before": {
+        "cp": 385
+      },
+      "eval_after": {
+        "cp": -342
+      },
+      "eval_best": {
+        "cp": 385
+      },
+      "loss_cp": 727,
+      "gap_cp": 702,
+      "theme": "fork",
+      "hint": "A fork is in the position: one move can hit two targets at once, and you can win one of them.",
+      "goal": "Win the queen with a fork",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188201331842-29",
+      "source": {
+        "game_id": "188201331842",
+        "url": "https://www.chess.com/game/live/188201331842",
+        "move_number": 15,
+        "ply": 29,
+        "colour": "white",
+        "opponent": "odedflory",
+        "date": "2026-11-28T19:55:08+11:00"
+      },
+      "fen": "r4rk1/pppb1ppp/4p3/8/2p5/P3P3/2PQ1PPP/R4RK1 w - - 2 15",
+      "side_to_move": "white",
+      "played": {
+        "san": "Rab1",
+        "uci": "a1b1"
+      },
+      "solution": {
+        "san": [
+          "Qxd7"
+        ],
+        "uci": [
+          "d2d7"
+        ]
+      },
+      "eval_before": {
+        "cp": 711
+      },
+      "eval_after": {
+        "cp": 502
+      },
+      "eval_best": {
+        "cp": 711
+      },
+      "loss_cp": 209,
+      "gap_cp": 162,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win a piece",
+      "mate_in": null,
+      "depth": 16
+    },
+    {
+      "id": "p-188201722080-28",
+      "source": {
+        "game_id": "188201722080",
+        "url": "https://www.chess.com/game/live/188201722080",
+        "move_number": 14,
+        "ply": 28,
+        "colour": "black",
+        "opponent": "LluisPeris",
+        "date": "2026-11-28T20:02:54+11:00"
+      },
+      "fen": "2k4r/ppprbpp1/3p1n2/6p1/4P1Q1/8/PPP2PPP/RN2R1K1 b - - 1 14",
+      "side_to_move": "black",
+      "played": {
+        "san": "Nxe4",
+        "uci": "f6e4"
+      },
+      "solution": {
+        "san": [
+          "Nxg4"
+        ],
+        "uci": [
+          "f6g4"
+        ]
+      },
+      "eval_before": {
+        "cp": 596
+      },
+      "eval_after": {
+        "cp": -646
+      },
+      "eval_best": {
+        "cp": 596
+      },
+      "loss_cp": 1242,
+      "gap_cp": 988,
+      "theme": "loose-piece",
+      "hint": "A piece is left unprotected. Look for a capture, or move the loose piece to safety.",
+      "goal": "Win the queen",
       "mate_in": null,
       "depth": 16
     }
